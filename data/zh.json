@@ -1,0 +1,2604 @@
+{
+ "lang": "zh",
+ "name": "Mandarin Chinese",
+ "script": "Simplified Hanzi (with Pinyin)",
+ "source": "dataset",
+ "words": [
+  {
+   "w": "的",
+   "r": "de",
+   "e": "Used in transcription"
+  },
+  {
+   "w": "我",
+   "r": "wǒ",
+   "e": "I, me, my"
+  },
+  {
+   "w": "你",
+   "r": "nǐ",
+   "e": "you"
+  },
+  {
+   "w": "了",
+   "r": "le",
+   "e": "Used after a verb to indicate perfective aspect"
+  },
+  {
+   "w": "是",
+   "r": "shì",
+   "e": "to be / correct, right, true"
+  },
+  {
+   "w": "在",
+   "r": "zài",
+   "e": "to exist, to be present, to be alive"
+  },
+  {
+   "w": "他",
+   "r": "tā",
+   "e": "he, him, she, her"
+  },
+  {
+   "w": "我们",
+   "r": "wǒmen",
+   "e": "we, us, ourselves"
+  },
+  {
+   "w": "不",
+   "r": "bù",
+   "e": "not, un-, in-, il-, im-, ir- / cannot"
+  },
+  {
+   "w": "吗",
+   "r": "ma",
+   "e": "Final interrogative particle, forming yes/no questions"
+  },
+  {
+   "w": "好",
+   "r": "hǎo",
+   "e": "good, well / Used as an interjection"
+  },
+  {
+   "w": "什么",
+   "r": "shénme",
+   "e": "what / something"
+  },
+  {
+   "w": "有",
+   "r": "yǒu",
+   "e": "to have, to possess / there is, to exist"
+  },
+  {
+   "w": "就",
+   "r": "jiù",
+   "e": "in that case, then / as soon as, immediately after"
+  },
+  {
+   "w": "吧",
+   "r": "ba",
+   "e": "Emphatic final particle, used at the end of a sentence to"
+  },
+  {
+   "w": "她",
+   "r": "tā",
+   "e": "she, her"
+  },
+  {
+   "w": "这",
+   "r": "zhè",
+   "e": "this, these / synonym of 這樣 /这样"
+  },
+  {
+   "w": "知道",
+   "r": "zhīdào",
+   "e": "to know, to be aware of / to understand"
+  },
+  {
+   "w": "说",
+   "r": "shuō",
+   "e": "to say, to speak / to explain"
+  },
+  {
+   "w": "都",
+   "r": "dōu",
+   "e": "all, both, or the entirety of something / even"
+  },
+  {
+   "w": "去",
+   "r": "qù",
+   "e": "to go / to go to"
+  },
+  {
+   "w": "很",
+   "r": "hěn",
+   "e": "very, extremely, in a high degree"
+  },
+  {
+   "w": "啊",
+   "r": "a",
+   "e": "Used as an initial interjection particle to express…"
+  },
+  {
+   "w": "要",
+   "r": "yào",
+   "e": "to want, to wish / to wish to have or keep"
+  },
+  {
+   "w": "也",
+   "r": "yě",
+   "e": "Particle used at the end of copular constructions…"
+  },
+  {
+   "w": "他们",
+   "r": "tāmen",
+   "e": "they, them"
+  },
+  {
+   "w": "和",
+   "r": "hé",
+   "e": "and / with"
+  },
+  {
+   "w": "那",
+   "r": "nà",
+   "e": "that, those / then, in that case"
+  },
+  {
+   "w": "想",
+   "r": "xiǎng",
+   "e": "to think / to think about, to plan, to be considering"
+  },
+  {
+   "w": "人",
+   "r": "rén",
+   "e": "man, person, people"
+  },
+  {
+   "w": "会",
+   "r": "huì",
+   "e": "to know how to perform a task, can, to be able to"
+  },
+  {
+   "w": "一个",
+   "r": "yígè",
+   "e": "Combination of the numeral 一 and the generic classifier 個／个"
+  },
+  {
+   "w": "来",
+   "r": "lái",
+   "e": "to come, to arrive / to happen, to occur"
+  },
+  {
+   "w": "把",
+   "r": "bǎ",
+   "e": "to hold, to grasp, to take / to control, to dominate"
+  },
+  {
+   "w": "对",
+   "r": "duì",
+   "e": "correct, true, right / to treat, to deal with, to take on"
+  },
+  {
+   "w": "没有",
+   "r": "méiyǒu",
+   "e": "have not, haven't, hasn't, didn't"
+  },
+  {
+   "w": "做",
+   "r": "zuò",
+   "e": "to do, to perform / to make, to produce"
+  },
+  {
+   "w": "不是",
+   "r": "búshì",
+   "e": "to not be"
+  },
+  {
+   "w": "让",
+   "r": "ràng",
+   "e": "to allow, to let, to permit / to ask, to get, to have"
+  },
+  {
+   "w": "给",
+   "r": "gěi",
+   "e": "to give / for, for the benefit of"
+  },
+  {
+   "w": "可以",
+   "r": "kěyǐ",
+   "e": "can, may / can, to be able to"
+  },
+  {
+   "w": "你们",
+   "r": "nǐmen",
+   "e": "you, you all, you guys, you lot"
+  },
+  {
+   "w": "呢",
+   "r": "ne",
+   "e": "Sentence-final particle indicating a reciprocal question"
+  },
+  {
+   "w": "但",
+   "r": "dàn",
+   "e": "only / but, however, yet, still"
+  },
+  {
+   "w": "到",
+   "r": "dào",
+   "e": "to arrive at a destination, to reach a destination"
+  },
+  {
+   "w": "还",
+   "r": "hái",
+   "e": "still / still in progress"
+  },
+  {
+   "w": "现在",
+   "r": "xiànzài",
+   "e": "now, the present time, the present moment, the current time"
+  },
+  {
+   "w": "这个",
+   "r": "zhège",
+   "e": "this, this one"
+  },
+  {
+   "w": "能",
+   "r": "néng",
+   "e": "a kind of bear"
+  },
+  {
+   "w": "怎么",
+   "r": "zěnme",
+   "e": "how / how come, why"
+  },
+  {
+   "w": "就是",
+   "r": "jiùshì",
+   "e": "to be precisely, to be none other than, it is ... that"
+  },
+  {
+   "w": "跟",
+   "r": "gēn",
+   "e": "heel / to follow"
+  },
+  {
+   "w": "如果",
+   "r": "rúguǒ",
+   "e": "if, in case, in the event that"
+  },
+  {
+   "w": "没",
+   "r": "méi",
+   "e": "not have, there is not, to be without / to be not so ... as"
+  },
+  {
+   "w": "它",
+   "r": "tā",
+   "e": "third-person singular pronoun for inanimate objects, it"
+  },
+  {
+   "w": "走",
+   "r": "zǒu",
+   "e": "to go, to walk, to go on foot / to run, to jog"
+  },
+  {
+   "w": "上",
+   "r": "shàng",
+   "e": "upper part, high position, up / emperor"
+  },
+  {
+   "w": "得",
+   "r": "dé",
+   "e": "to get, to obtain, to gain, to acquire"
+  },
+  {
+   "w": "被",
+   "r": "bèi",
+   "e": "bedding, quilt, blanket"
+  },
+  {
+   "w": "这里",
+   "r": "zhèlǐ",
+   "e": "here"
+  },
+  {
+   "w": "这样",
+   "r": "zhèyàng",
+   "e": "this way, such"
+  },
+  {
+   "w": "个",
+   "r": "gè",
+   "e": "single, alone, individual / height, build, stature"
+  },
+  {
+   "w": "看",
+   "r": "kàn",
+   "e": "to look, to see, to watch / to read"
+  },
+  {
+   "w": "事",
+   "r": "shì",
+   "e": "thing, matter / task, work, job, career"
+  },
+  {
+   "w": "自己",
+   "r": "zìjǐ",
+   "e": "self, oneself"
+  },
+  {
+   "w": "着",
+   "r": "zhe",
+   "e": "Particle indicating the continuation of an action or a…"
+  },
+  {
+   "w": "谁",
+   "r": "shuí",
+   "e": "who, whom / someone, anyone"
+  },
+  {
+   "w": "过",
+   "r": "guò",
+   "e": "to cross, to pass, to go across, to pass through"
+  },
+  {
+   "w": "不会",
+   "r": "búhuì",
+   "e": "Used other than figuratively or idiomatically: see 不, 會 /会"
+  },
+  {
+   "w": "告诉",
+   "r": "gàosù",
+   "e": "to file a lawsuit, to file a complaint"
+  },
+  {
+   "w": "为什么",
+   "r": "wèishénme",
+   "e": "why, for what reason, how come"
+  },
+  {
+   "w": "不能",
+   "r": "bùnéng",
+   "e": "cannot, must not, should not / to be unable to, to fail to"
+  },
+  {
+   "w": "真的",
+   "r": "zhēnde",
+   "e": "true, real"
+  },
+  {
+   "w": "先生",
+   "r": "xiānshēng",
+   "e": "mister, sir, gentleman / husband"
+  },
+  {
+   "w": "只是",
+   "r": "zhǐshì",
+   "e": "only, merely, just / simply"
+  },
+  {
+   "w": "不要",
+   "r": "búyào",
+   "e": "to not want / not going to, will not"
+  },
+  {
+   "w": "这是",
+   "r": "zhèshì",
+   "e": ""
+  },
+  {
+   "w": "已经",
+   "r": "yǐjīng",
+   "e": "already, anymore"
+  },
+  {
+   "w": "再",
+   "r": "zài",
+   "e": "again, once again, a second time, re-"
+  },
+  {
+   "w": "哦",
+   "r": "ó",
+   "e": "Used to express doubt: oh?, really?"
+  },
+  {
+   "w": "需要",
+   "r": "xūyào",
+   "e": "to need, to require"
+  },
+  {
+   "w": "因为",
+   "r": "yīnwèi",
+   "e": "owing to, due to, as a result of, because of"
+  },
+  {
+   "w": "谢谢",
+   "r": "xièxiè",
+   "e": "to thank"
+  },
+  {
+   "w": "像",
+   "r": "xiàng",
+   "e": "picture, image, photograph, figure"
+  },
+  {
+   "w": "这么",
+   "r": "zhème",
+   "e": "this, so, such / like so, this way"
+  },
+  {
+   "w": "可能",
+   "r": "kěnéng",
+   "e": "to be competent to, to have the ability to"
+  },
+  {
+   "w": "但是",
+   "r": "dànshì",
+   "e": "but, however"
+  },
+  {
+   "w": "那个",
+   "r": "nàge",
+   "e": "that, that one"
+  },
+  {
+   "w": "所以",
+   "r": "suǒyǐ",
+   "e": "therefore, so, consequently"
+  },
+  {
+   "w": "喜欢",
+   "r": "xǐhuān",
+   "e": "to like, to be fond of, to be keen on"
+  },
+  {
+   "w": "又",
+   "r": "yòu",
+   "e": "again, once more"
+  },
+  {
+   "w": "叫",
+   "r": "jiào",
+   "e": "to be called / to call, to name"
+  },
+  {
+   "w": "快",
+   "r": "kuài",
+   "e": "pleased, happy / forthright, plainspoken"
+  },
+  {
+   "w": "我要",
+   "r": "wǒyào",
+   "e": ""
+  },
+  {
+   "w": "觉得",
+   "r": "juéde",
+   "e": "to think, to believe, to be of the opinion that"
+  },
+  {
+   "w": "别",
+   "r": "bié",
+   "e": "to divide, to separate"
+  },
+  {
+   "w": "听",
+   "r": "tīng",
+   "e": "to listen to, to hear / to heed, to obey"
+  },
+  {
+   "w": "找",
+   "r": "zhǎo",
+   "e": "to look for, to seek"
+  },
+  {
+   "w": "里",
+   "r": "lǐ",
+   "e": "lining / interior"
+  },
+  {
+   "w": "还有",
+   "r": "háiyǒu",
+   "e": "to still have"
+  },
+  {
+   "w": "时候",
+   "r": "shíhòu",
+   "e": "period of time / a point in time"
+  },
+  {
+   "w": "东西",
+   "r": "dōngxī",
+   "e": "east and west, direction / vicinity, side"
+  },
+  {
+   "w": "等",
+   "r": "děng",
+   "e": "to wait / when"
+  },
+  {
+   "w": "多",
+   "r": "duō",
+   "e": "many, much, a lot of, numerous, multi-, poly-"
+  },
+  {
+   "w": "从",
+   "r": "cóng",
+   "e": "to follow, to come after / to comply with, to submit to"
+  },
+  {
+   "w": "我会",
+   "r": "wǒhuì",
+   "e": ""
+  },
+  {
+   "w": "一起",
+   "r": "yìqǐ",
+   "e": "an instance of, a case of"
+  },
+  {
+   "w": "应该",
+   "r": "yīnggāi",
+   "e": "ought to, should / theoretically should"
+  },
+  {
+   "w": "我們",
+   "r": "wǒmen",
+   "e": "we, us / my"
+  },
+  {
+   "w": "这些",
+   "r": "zhèxiē",
+   "e": "these"
+  },
+  {
+   "w": "请",
+   "r": "qǐng",
+   "e": "to ask, to ask for, to request / to ask"
+  },
+  {
+   "w": "孩子",
+   "r": "háizi",
+   "e": "child, children, kid"
+  },
+  {
+   "w": "看到",
+   "r": "kàndào",
+   "e": "to catch sight of, to see"
+  },
+  {
+   "w": "一下",
+   "r": "yīxià",
+   "e": "one time, once / a while, a moment"
+  },
+  {
+   "w": "那么",
+   "r": "nàme",
+   "e": "in that case, then"
+  },
+  {
+   "w": "为",
+   "r": "wèi",
+   "e": "for, to serve, to assist, to do for others / because of"
+  },
+  {
+   "w": "嗎",
+   "r": "ma",
+   "e": "Final interrogative particle, forming yes/no questions"
+  },
+  {
+   "w": "而",
+   "r": "ér",
+   "e": "and / then, and"
+  },
+  {
+   "w": "您",
+   "r": "nín",
+   "e": "you / thou, you"
+  },
+  {
+   "w": "才",
+   "r": "cái",
+   "e": "ability, gift, talent, capability / talented person, talent"
+  },
+  {
+   "w": "用",
+   "r": "yòng",
+   "e": "to use, to employ, to operate / use, utility, usefulness"
+  },
+  {
+   "w": "还是",
+   "r": "háishì",
+   "e": "or"
+  },
+  {
+   "w": "嗯",
+   "r": "ń",
+   "e": "Used as an interjection to express doubt or curiosity"
+  },
+  {
+   "w": "问题",
+   "r": "wèntí",
+   "e": "question, query / problem, issue"
+  },
+  {
+   "w": "工作",
+   "r": "gōngzuò",
+   "e": "to work"
+  },
+  {
+   "w": "一样",
+   "r": "yīyàng",
+   "e": "as if, like"
+  },
+  {
+   "w": "呀",
+   "r": "ya",
+   "e": "Sentence-final particle expressing surprise and suspicion"
+  },
+  {
+   "w": "开始",
+   "r": "kāishǐ",
+   "e": "to start, to begin, to commence"
+  },
+  {
+   "w": "吃",
+   "r": "chī",
+   "e": "to eat, to consume / to absorb"
+  },
+  {
+   "w": "嘿",
+   "r": "hēi",
+   "e": "hey / hah, hee, lol"
+  },
+  {
+   "w": "当",
+   "r": "dāng",
+   "e": "dong / ding dong"
+  },
+  {
+   "w": "真",
+   "r": "zhēn",
+   "e": "true, genuine, real, actual / clear, distinct, sharp"
+  },
+  {
+   "w": "中",
+   "r": "zhōng",
+   "e": "middle, center / medium, intermediary"
+  },
+  {
+   "w": "然后",
+   "r": "ránhòu",
+   "e": "then, after that, afterwards, and"
+  },
+  {
+   "w": "看看",
+   "r": "kànkàn",
+   "e": "to glance at, to take a quick look at, to have a look-see"
+  },
+  {
+   "w": "說",
+   "r": "shuō",
+   "e": "to say, to speak / to explain"
+  },
+  {
+   "w": "地方",
+   "r": "dìfāng",
+   "e": "regional, local"
+  },
+  {
+   "w": "一定",
+   "r": "yídìng",
+   "e": "definitely, certainly, surely, must"
+  },
+  {
+   "w": "将",
+   "r": "jiāng",
+   "e": "will, going to / soon, in the near future"
+  },
+  {
+   "w": "希望",
+   "r": "xīwàng",
+   "e": "to hope, to wish / to look up"
+  },
+  {
+   "w": "朋友",
+   "r": "péngyǒu",
+   "e": "friend / boyfriend or girlfriend, partner"
+  },
+  {
+   "w": "今天",
+   "r": "jīntiān",
+   "e": "today / nowadays, the present time"
+  },
+  {
+   "w": "拿",
+   "r": "ná",
+   "e": "to take, to hold, to grasp / to seize, to capture"
+  },
+  {
+   "w": "一",
+   "r": "yī",
+   "e": "one / each, every"
+  },
+  {
+   "w": "啦",
+   "r": "la",
+   "e": "Placed at the end of a sentence in imperatives making it…"
+  },
+  {
+   "w": "事情",
+   "r": "shìqíng",
+   "e": "matter, affair, something, business, thing, stuff"
+  },
+  {
+   "w": "一直",
+   "r": "yìzhí",
+   "e": "straight, straight ahead"
+  },
+  {
+   "w": "所有",
+   "r": "suǒyǒu",
+   "e": "to own, to possess"
+  },
+  {
+   "w": "找到",
+   "r": "zhǎodào",
+   "e": "to find"
+  },
+  {
+   "w": "什麼",
+   "r": "shénme",
+   "e": "what / something"
+  },
+  {
+   "w": "哪",
+   "r": "nǎ",
+   "e": "which, what / any"
+  },
+  {
+   "w": "当然",
+   "r": "dāngrán",
+   "e": "natural, reasonable, understandable / ex officio"
+  },
+  {
+   "w": "们",
+   "r": "men",
+   "e": "Suffix indicating plural for pronouns"
+  },
+  {
+   "w": "回来",
+   "r": "huílái",
+   "e": "to return, to come back, to be back / back"
+  },
+  {
+   "w": "不想",
+   "r": "bùxiǎng",
+   "e": "unexpectedly, to one's surprise"
+  },
+  {
+   "w": "更",
+   "r": "gèng",
+   "e": "more, even more / further, also"
+  },
+  {
+   "w": "最",
+   "r": "zuì",
+   "e": "most, -est / the most ... thing, the best"
+  },
+  {
+   "w": "帮",
+   "r": "bāng",
+   "e": "the sides of an object / to help, to assist, to aid"
+  },
+  {
+   "w": "没事",
+   "r": "méishì",
+   "e": "to be OK, to be all right, to be out of danger or trouble"
+  },
+  {
+   "w": "只",
+   "r": "zhǐ",
+   "e": "only, just, simply, merely / originally, at first"
+  },
+  {
+   "w": "那些",
+   "r": "nàxiē",
+   "e": "those"
+  },
+  {
+   "w": "可",
+   "r": "kě",
+   "e": "can, may, be able to / to approve, to permit"
+  },
+  {
+   "w": "明白",
+   "r": "míngbái",
+   "e": "to understand, to know"
+  },
+  {
+   "w": "的话",
+   "r": "dehuà",
+   "e": "particle put at the end of a conditional clause"
+  },
+  {
+   "w": "爸爸",
+   "r": "bàbà",
+   "e": "dad, papa / paternal uncle"
+  },
+  {
+   "w": "下",
+   "r": "xià",
+   "e": "to go down, to descend downwards, down"
+  },
+  {
+   "w": "太",
+   "r": "tài",
+   "e": "highest / greatest"
+  },
+  {
+   "w": "离开",
+   "r": "líkāi",
+   "e": "to leave, to depart"
+  },
+  {
+   "w": "一切",
+   "r": "yīqiè",
+   "e": "all, every, everything, anything"
+  },
+  {
+   "w": "时间",
+   "r": "shíjiān",
+   "e": "time / a point in time"
+  },
+  {
+   "w": "相信",
+   "r": "xiāngxìn",
+   "e": "to believe, to trust, to have faith / to trust one another"
+  },
+  {
+   "w": "妈妈",
+   "r": "māmā",
+   "e": "mum, mama / a person who speaks or acts in a motherly way"
+  },
+  {
+   "w": "想要",
+   "r": "xiǎngyào",
+   "e": "would like, want, wish to have"
+  },
+  {
+   "w": "爱",
+   "r": "ài",
+   "e": "to love / to treasure, to value"
+  },
+  {
+   "w": "发生",
+   "r": "fāshēng",
+   "e": "to happen, to occur, to take place"
+  },
+  {
+   "w": "打",
+   "r": "dǎ",
+   "e": "to hit, to strike, to slap, to beat / to fight, to attack"
+  },
+  {
+   "w": "点",
+   "r": "diǎn",
+   "e": "dot, spot, speck / place, point, spot"
+  },
+  {
+   "w": "來",
+   "r": "lái",
+   "e": "to come, to arrive / to happen, to occur"
+  },
+  {
+   "w": "钱",
+   "r": "qián",
+   "e": "money, cash / currency, coins"
+  },
+  {
+   "w": "大",
+   "r": "dà",
+   "e": "of great size, big, large, huge / big, great"
+  },
+  {
+   "w": "起来",
+   "r": "qǐlái",
+   "e": "to rise up, to get up / to get up, to get out of bed"
+  },
+  {
+   "w": "真是",
+   "r": "zhēnshì",
+   "e": "Used other than figuratively or idiomatically"
+  },
+  {
+   "w": "你好",
+   "r": "nǐhǎo",
+   "e": "hello, hi"
+  },
+  {
+   "w": "抱歉",
+   "r": "bàoqiàn",
+   "e": "to be sorry, to feel apologetic"
+  },
+  {
+   "w": "必须",
+   "r": "bìxū",
+   "e": "must, have to"
+  },
+  {
+   "w": "认为",
+   "r": "rènwéi",
+   "e": "to think, to believe, to be of the opinion, to hold the view"
+  },
+  {
+   "w": "一点",
+   "r": "yìdiǎn",
+   "e": "a little, a bit / at all, in the slightest, the least bit"
+  },
+  {
+   "w": "非常",
+   "r": "fēicháng",
+   "e": "unusual, special, not the run of the mill, extraordinary"
+  },
+  {
+   "w": "那里",
+   "r": "nàlǐ",
+   "e": "there"
+  },
+  {
+   "w": "对不起",
+   "r": "duìbùqǐ",
+   "e": "to cause someone embarrassment, to screw someone over"
+  },
+  {
+   "w": "天",
+   "r": "tiān",
+   "e": "sky, heavens, heavenly, celestial"
+  },
+  {
+   "w": "也许",
+   "r": "yěxǔ",
+   "e": "possibly, perhaps, maybe"
+  },
+  {
+   "w": "大家",
+   "r": "dàjiā",
+   "e": "everyone, everybody, all of us"
+  },
+  {
+   "w": "哪里",
+   "r": "nǎlǐ",
+   "e": "where / wherever, anywhere"
+  },
+  {
+   "w": "有人",
+   "r": "yǒurén",
+   "e": "to have someone there, to be occupied, to be manned"
+  },
+  {
+   "w": "该",
+   "r": "gāi",
+   "e": "should / ought to"
+  },
+  {
+   "w": "意思",
+   "r": "yìsi",
+   "e": "idea / opinion"
+  },
+  {
+   "w": "准备",
+   "r": "zhǔnbèi",
+   "e": "to prepare, to get ready / to plan, to intend"
+  },
+  {
+   "w": "并",
+   "r": "bìng",
+   "e": "and / furthermore"
+  },
+  {
+   "w": "出来",
+   "r": "chūlái",
+   "e": "to go from inside to outside, to come out"
+  },
+  {
+   "w": "与",
+   "r": "yǔ",
+   "e": "to give, to offer / to join with"
+  },
+  {
+   "w": "时",
+   "r": "shí",
+   "e": "season / time"
+  },
+  {
+   "w": "不过",
+   "r": "bùguò",
+   "e": "only, merely / extremely"
+  },
+  {
+   "w": "一些",
+   "r": "yīxiē",
+   "e": "some, a few, a little"
+  },
+  {
+   "w": "为了",
+   "r": "wèile",
+   "e": "for, in order to, to / for, due to, because of"
+  },
+  {
+   "w": "带",
+   "r": "dài",
+   "e": "belt, ribbon, tape / tyre"
+  },
+  {
+   "w": "女人",
+   "r": "nǚrén",
+   "e": "woman, adult female / lover, mistress"
+  },
+  {
+   "w": "这儿",
+   "r": "zhèér",
+   "e": ""
+  },
+  {
+   "w": "后",
+   "r": "hòu",
+   "e": "king, ruler, emperor / queen, empress"
+  },
+  {
+   "w": "只有",
+   "r": "zhǐyǒu",
+   "e": "only, merely, just / only a short while ago, just"
+  },
+  {
+   "w": "过来",
+   "r": "guòlái",
+   "e": "to come over, to get over"
+  },
+  {
+   "w": "比",
+   "r": "bǐ",
+   "e": "to compare, to contrast, to have a contest"
+  },
+  {
+   "w": "一次",
+   "r": "yīcì",
+   "e": "one time"
+  },
+  {
+   "w": "得到",
+   "r": "dédào",
+   "e": "to obtain, to acquire, to get, to win, to achieve"
+  },
+  {
+   "w": "很多",
+   "r": "hěnduō",
+   "e": "many, much, a lot"
+  },
+  {
+   "w": "任何",
+   "r": "rènhé",
+   "e": "any, all"
+  },
+  {
+   "w": "这种",
+   "r": "zhèzhǒng",
+   "e": "this kind of"
+  },
+  {
+   "w": "小",
+   "r": "xiǎo",
+   "e": "small, tiny, little / minor, petty"
+  },
+  {
+   "w": "怎么样",
+   "r": "zěnmeyàng",
+   "e": "how, what, in what way / how about, what about"
+  },
+  {
+   "w": "對",
+   "r": "duì",
+   "e": "correct, true, right / to treat, to deal with, to take on"
+  },
+  {
+   "w": "感觉",
+   "r": "gǎnjué",
+   "e": "to feel, to sense, to have a feeling that"
+  },
+  {
+   "w": "年",
+   "r": "nián",
+   "e": "year / harvest"
+  },
+  {
+   "w": "是不是",
+   "r": "shìbúshì",
+   "e": "whether or not"
+  },
+  {
+   "w": "以为",
+   "r": "yǐwéi",
+   "e": "to mistakenly believe, to be under the impression"
+  },
+  {
+   "w": "而且",
+   "r": "érqiě",
+   "e": "furthermore, in addition, moreover"
+  },
+  {
+   "w": "前",
+   "r": "qián",
+   "e": "front, forepart / ago, before"
+  },
+  {
+   "w": "生活",
+   "r": "shēnghuó",
+   "e": "to live, to exist, to lead a lifestyle"
+  },
+  {
+   "w": "男人",
+   "r": "nánrén",
+   "e": "man"
+  },
+  {
+   "w": "之前",
+   "r": "zhīqián",
+   "e": "before, in front of, ahead of / before, previously"
+  },
+  {
+   "w": "喂",
+   "r": "wèi",
+   "e": "Hey!"
+  },
+  {
+   "w": "问",
+   "r": "wèn",
+   "e": "to ask / to inquire about, to ask about"
+  },
+  {
+   "w": "发现",
+   "r": "fāxiàn",
+   "e": "to discover, to find, to find out"
+  },
+  {
+   "w": "噢",
+   "r": "ō",
+   "e": "Sentence-final particle used to indicate an admonishing tone"
+  },
+  {
+   "w": "可是",
+   "r": "kěshì",
+   "e": "used for emphasis"
+  },
+  {
+   "w": "快点",
+   "r": "kuàidiǎn",
+   "e": "Hurry up! Get a move on!, Quickly!"
+  },
+  {
+   "w": "嗨",
+   "r": "hāi",
+   "e": "hi, hey"
+  },
+  {
+   "w": "妈",
+   "r": "mā",
+   "e": "mom, mum: an affectionate term for a mother"
+  },
+  {
+   "w": "两个",
+   "r": "liǎnggè",
+   "e": ""
+  },
+  {
+   "w": "不用",
+   "r": "bùyòng",
+   "e": "not necessary, don't, no need to"
+  },
+  {
+   "w": "地",
+   "r": "dì",
+   "e": "earth / ground, floor"
+  },
+  {
+   "w": "向",
+   "r": "xiàng",
+   "e": "to face"
+  },
+  {
+   "w": "名字",
+   "r": "míngzì",
+   "e": "name"
+  },
+  {
+   "w": "没错",
+   "r": "méicuò",
+   "e": "correct, right, that's correct"
+  },
+  {
+   "w": "见",
+   "r": "jiàn",
+   "e": "to see / to meet, to see"
+  },
+  {
+   "w": "世界",
+   "r": "shìjiè",
+   "e": "world / realm governed by a Buddha"
+  },
+  {
+   "w": "沒",
+   "r": "méi",
+   "e": "not have, there is not, to be without / to be not so ... as"
+  },
+  {
+   "w": "记得",
+   "r": "jìde",
+   "e": "to remember, to recall from memory"
+  },
+  {
+   "w": "住",
+   "r": "zhù",
+   "e": "to live, to dwell, to reside / to stay"
+  },
+  {
+   "w": "新",
+   "r": "xīn",
+   "e": "new, fresh / new, unused"
+  },
+  {
+   "w": "不错",
+   "r": "bùcuò",
+   "e": "correct, right / not bad, pretty good"
+  },
+  {
+   "w": "肯定",
+   "r": "kěndìng",
+   "e": "certain, affirmative, positive / fixed, certain, sure"
+  },
+  {
+   "w": "最好",
+   "r": "zuìhǎo",
+   "e": "had better, it would be best, one would be well-advised to"
+  },
+  {
+   "w": "不行",
+   "r": "bùxíng",
+   "e": "unacceptable, out of the question, won't do"
+  },
+  {
+   "w": "等等",
+   "r": "děngděng",
+   "e": "et cetera, and so on"
+  },
+  {
+   "w": "嘛",
+   "r": "ma",
+   "e": "Of course!"
+  },
+  {
+   "w": "出去",
+   "r": "chūqù",
+   "e": "to go out"
+  },
+  {
+   "w": "么",
+   "r": "me",
+   "e": "suffix, used to form interrogative 什麼/什么[shen2 me5], what?"
+  },
+  {
+   "w": "先",
+   "r": "xiān",
+   "e": "first, ahead of time, before, beforehand"
+  },
+  {
+   "w": "為",
+   "r": "wèi",
+   "e": "to do, to accomplish, to take action"
+  },
+  {
+   "w": "亲爱",
+   "r": "qīnài",
+   "e": "beloved, cherished, dear"
+  },
+  {
+   "w": "或",
+   "r": "huò",
+   "e": "or, either ... or / perhaps, maybe"
+  },
+  {
+   "w": "他們",
+   "r": "tāmen",
+   "e": "they, them"
+  },
+  {
+   "w": "担心",
+   "r": "dānxīn",
+   "e": "to worry, to feel anxious"
+  },
+  {
+   "w": "如何",
+   "r": "rúhé",
+   "e": "how, what, in what way / how about, what about"
+  },
+  {
+   "w": "到底",
+   "r": "dàodǐ",
+   "e": "actually, exactly / after all, in the end, all in all"
+  },
+  {
+   "w": "有点",
+   "r": "yǒudiǎn",
+   "e": "somewhat, a little, a bit"
+  },
+  {
+   "w": "最后",
+   "r": "zuìhòu",
+   "e": "finally, in the end, ultimately"
+  },
+  {
+   "w": "小姐",
+   "r": "xiǎojiě",
+   "e": "Miss / young lady"
+  },
+  {
+   "w": "认识",
+   "r": "rènshí",
+   "e": "to know, to be acquainted with / to recognize"
+  },
+  {
+   "w": "會",
+   "r": "huì",
+   "e": "union, group, association"
+  },
+  {
+   "w": "正在",
+   "r": "zhèngzài",
+   "e": "in the process of, currently, in progress"
+  },
+  {
+   "w": "那样",
+   "r": "nàyàng",
+   "e": "that manner"
+  },
+  {
+   "w": "父亲",
+   "r": "fùqīn",
+   "e": "father"
+  },
+  {
+   "w": "高兴",
+   "r": "gāoxìng",
+   "e": "glad, happy, pleased, delighted"
+  },
+  {
+   "w": "明天",
+   "r": "míngtiān",
+   "e": "tomorrow / future"
+  },
+  {
+   "w": "重要",
+   "r": "zhòngyào",
+   "e": "important, significant, major"
+  },
+  {
+   "w": "跑",
+   "r": "pǎo",
+   "e": "to run / to run away, to flee"
+  },
+  {
+   "w": "只要",
+   "r": "zhǐyào",
+   "e": "as long as, provided, so long as"
+  },
+  {
+   "w": "干什么",
+   "r": "gànshénme",
+   "e": "what to do"
+  },
+  {
+   "w": "好像",
+   "r": "hǎoxiàng",
+   "e": "to seem, to be like, as if / to be similar, to be analogous"
+  },
+  {
+   "w": "再见",
+   "r": "zàijiàn",
+   "e": "goodbye, see you later"
+  },
+  {
+   "w": "月",
+   "r": "yuè",
+   "e": "moon / moon-shaped, round like a moon"
+  },
+  {
+   "w": "我能",
+   "r": "wǒnéng",
+   "e": ""
+  },
+  {
+   "w": "继续",
+   "r": "jìxù",
+   "e": "to continue, to persist"
+  },
+  {
+   "w": "出",
+   "r": "chū",
+   "e": "to go out, to leave, to exit / to appear"
+  },
+  {
+   "w": "今晚",
+   "r": "jīnwǎn",
+   "e": "tonight, this evening"
+  },
+  {
+   "w": "回家",
+   "r": "huíjiā",
+   "e": "to return home, to go home, to come home"
+  },
+  {
+   "w": "它们",
+   "r": "tāmen",
+   "e": "they, them"
+  },
+  {
+   "w": "多少",
+   "r": "duōshǎo",
+   "e": "somewhat, more or less"
+  },
+  {
+   "w": "电话",
+   "r": "diànhuà",
+   "e": "telephone, phone / telephone call, phone call, call"
+  },
+  {
+   "w": "听到",
+   "r": "tīngdào",
+   "e": "to hear"
+  },
+  {
+   "w": "干嘛",
+   "r": "gànmá",
+   "e": "what are you doing? / whatever for?"
+  },
+  {
+   "w": "干",
+   "r": "gàn",
+   "e": "tree trunk / main part of sth"
+  },
+  {
+   "w": "医生",
+   "r": "yīshēng",
+   "e": "doctor, physician and surgeon, medical practitioner"
+  },
+  {
+   "w": "要是",
+   "r": "yàoshì",
+   "e": "if, in case"
+  },
+  {
+   "w": "女孩",
+   "r": "nǚhái",
+   "e": "girl / young woman, lass"
+  },
+  {
+   "w": "這",
+   "r": "zhè",
+   "e": "this, these / synonym of 這樣 /这样"
+  },
+  {
+   "w": "所",
+   "r": "suǒ",
+   "e": "place, location"
+  },
+  {
+   "w": "讓",
+   "r": "ràng",
+   "e": "to allow, to let, to permit / to ask, to get, to have"
+  },
+  {
+   "w": "马上",
+   "r": "mǎshàng",
+   "e": "at once, immediately, without delay, in a minute, soon"
+  }
+ ],
+ "phrases": [
+  {
+   "cat": "Essentials",
+   "t": "你好",
+   "r": "nǐ hǎo",
+   "e": "Hello"
+  },
+  {
+   "cat": "Essentials",
+   "t": "谢谢",
+   "r": "xièxie",
+   "e": "Thank you"
+  },
+  {
+   "cat": "Essentials",
+   "t": "请",
+   "r": "qǐng",
+   "e": "Please"
+  },
+  {
+   "cat": "Essentials",
+   "t": "再见",
+   "r": "zàijiàn",
+   "e": "Goodbye"
+  },
+  {
+   "cat": "Essentials",
+   "t": "是",
+   "r": "shì",
+   "e": "Yes"
+  },
+  {
+   "cat": "Essentials",
+   "t": "不是",
+   "r": "bú shì",
+   "e": "No"
+  },
+  {
+   "cat": "Essentials",
+   "t": "对不起",
+   "r": "duìbuqǐ",
+   "e": "Sorry / excuse me"
+  },
+  {
+   "cat": "Essentials",
+   "t": "你好吗？",
+   "r": "nǐ hǎo ma?",
+   "e": "How are you?"
+  },
+  {
+   "cat": "Essentials",
+   "t": "我叫……",
+   "r": "wǒ jiào ...",
+   "e": "My name is ..."
+  },
+  {
+   "cat": "Essentials",
+   "t": "厕所在哪里？",
+   "r": "cèsuǒ zài nǎlǐ?",
+   "e": "Where is the toilet?"
+  },
+  {
+   "cat": "Essentials",
+   "t": "多少钱？",
+   "r": "duōshao qián?",
+   "e": "How much is it?"
+  },
+  {
+   "cat": "Essentials",
+   "t": "我不明白。",
+   "r": "wǒ bù míngbai.",
+   "e": "I don't understand."
+  },
+  {
+   "cat": "Greetings",
+   "t": "大家好！",
+   "r": "dàjiā hǎo!",
+   "e": "Hi, everybody."
+  },
+  {
+   "cat": "Greetings",
+   "t": "很高兴认识你。",
+   "r": "hěn gāoxìng rènshí nǐ.",
+   "e": "Nice to meet you."
+  },
+  {
+   "cat": "Greetings",
+   "t": "明天在学校见。",
+   "r": "míngtiān zài xuéxiào jiàn.",
+   "e": "See you tomorrow at school."
+  },
+  {
+   "cat": "Greetings",
+   "t": "你们好吗？",
+   "r": "nǐmenhǎo ma?",
+   "e": "How's it going?"
+  },
+  {
+   "cat": "Greetings",
+   "t": "您好，很抱歉给您带来麻烦。",
+   "r": "nínhǎo, hěn bàoqiàn gěi nín dàilái máfán.",
+   "e": "Hello, sorry for any trouble."
+  },
+  {
+   "cat": "Greetings",
+   "t": "明天见。",
+   "r": "míngtiān jiàn.",
+   "e": "See you tomorrow."
+  },
+  {
+   "cat": "Greetings",
+   "t": "欢迎回来。",
+   "r": "huānyíng huílái.",
+   "e": "Welcome back."
+  },
+  {
+   "cat": "Greetings",
+   "t": "祝你一天过得愉快。",
+   "r": "zhù nǐ yītiān guòdé yúkuài.",
+   "e": "Have a nice day."
+  },
+  {
+   "cat": "Greetings",
+   "t": "再见，祝好运。",
+   "r": "zàijiàn, zhù hǎoyùn.",
+   "e": "Goodbye and good luck."
+  },
+  {
+   "cat": "Greetings",
+   "t": "周末愉快。",
+   "r": "zhōumò yúkuài.",
+   "e": "Have a good weekend!"
+  },
+  {
+   "cat": "Introductions",
+   "t": "你是谁？",
+   "r": "nǐ shì shuí?",
+   "e": "Who are you?"
+  },
+  {
+   "cat": "Introductions",
+   "t": "我16岁了。",
+   "r": "wǒ 16 suì le.",
+   "e": "I am sixteen years old."
+  },
+  {
+   "cat": "Introductions",
+   "t": "我也是17岁。",
+   "r": "wǒ yě shì 17 suì.",
+   "e": "I'm 17, too."
+  },
+  {
+   "cat": "Introductions",
+   "t": "不好意思，你的名字是什么？",
+   "r": "bùhǎoyìsī, nǐ de míngzì shì shénme?",
+   "e": "Sorry, what's your name?"
+  },
+  {
+   "cat": "Introductions",
+   "t": "我现在30岁了。",
+   "r": "wǒ xiànzài 30 suì le.",
+   "e": "I'm 30 now."
+  },
+  {
+   "cat": "Introductions",
+   "t": "我是学生。",
+   "r": "wǒ shì xuéshēng.",
+   "e": "I'm a student."
+  },
+  {
+   "cat": "Introductions",
+   "t": "我是个老师。",
+   "r": "wǒ shì gè lǎoshī.",
+   "e": "I'm a teacher."
+  },
+  {
+   "cat": "Introductions",
+   "t": "你叫什么名字？",
+   "r": "nǐ jiào shénme míngzì?",
+   "e": "What's your name?"
+  },
+  {
+   "cat": "Introductions",
+   "t": "我是个学生。",
+   "r": "wǒ shì gè xuéshēng.",
+   "e": "I am a student."
+  },
+  {
+   "cat": "Introductions",
+   "t": "她 16 岁了。",
+   "r": "tā   16   suì le.",
+   "e": "She turned 16 years old."
+  },
+  {
+   "cat": "Introductions",
+   "t": "那些房子有500年了。",
+   "r": "nàxiē fángzi yǒu 500 nián le.",
+   "e": "Those houses are 500 years old."
+  },
+  {
+   "cat": "Introductions",
+   "t": "我住在城市中的一间公寓里。",
+   "r": "wǒ zhù zài chéngshì zhōng de yījiān gōngyù lǐ.",
+   "e": "I live in an apartment in the city."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "这是你的茶。",
+   "r": "zhè shì nǐ de chá.",
+   "e": "Here's your tea."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "我喜欢你的咖啡。",
+   "r": "wǒ xǐhuān nǐ de kāfēi.",
+   "e": "I like your coffee."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "有什么想吃的吗？",
+   "r": "yǒu shénme xiǎng chī de ma?",
+   "e": "Is there anything you want to eat?"
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "吃了吗？",
+   "r": "chī le ma?",
+   "e": "Did you eat?"
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "我吃了你的苹果。",
+   "r": "wǒ chī le nǐ de píngguǒ.",
+   "e": "I ate your apple."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "我在这里吃。",
+   "r": "wǒ zài zhèlǐ chī.",
+   "e": "I eat here."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "你在吃东西吗？",
+   "r": "nǐ zài chī dōngxī ma?",
+   "e": "Have you been eating?"
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "把你的三明治给我。",
+   "r": "bǎ nǐ de sānmíngzhì gěi wǒ.",
+   "e": "Give me your sandwich."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "你想要什么喝的吗？",
+   "r": "nǐ xiǎngyào shénme hē de ma?",
+   "e": "Would you like something to drink?"
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "我不知道这个蛋糕是谁做的。",
+   "r": "wǒ bù zhīdào zhège dàngāo shì shuí zuò de.",
+   "e": "I don't know who made the cake."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "我们的饭店是最好的。",
+   "r": "wǒmen de fàndiàn shì zuìhǎo de.",
+   "e": "Our restaurant is the best."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "在吃什么呢？",
+   "r": "zài chī shénme ne?",
+   "e": "What're you eating?"
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "我的茶在哪里？",
+   "r": "wǒ de chá zài nǎlǐ?",
+   "e": "Where's my tea?"
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "这蛋糕是谁做的？",
+   "r": "zhè dàngāo shì shuí zuò de?",
+   "e": "Who baked this cake?"
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "我快把我的午饭忘了。",
+   "r": "wǒ kuài bǎ wǒ de wǔfàn wàng le.",
+   "e": "I almost forgot my lunch."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "你吃完你的午饭了吗？",
+   "r": "nǐ chī wán nǐ de wǔfàn le ma?",
+   "e": "Have you finished your lunch yet?"
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "我们都饿了。",
+   "r": "wǒmen dōu è le.",
+   "e": "We're all hungry."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "你最喜欢的饮料是什么？",
+   "r": "nǐ zuì xǐhuān de yǐnliào shì shénme?",
+   "e": "What's your favorite drink?"
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "你想喝点什么吗？",
+   "r": "nǐ xiǎng hēdiǎn shénme ma?",
+   "e": "Would you like a drink?"
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "她为我做了一个蛋糕。",
+   "r": "tā wèi wǒ zuò le yígè dàngāo.",
+   "e": "She made me a cake."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "你的想法是对的。",
+   "r": "nǐ de xiǎngfǎ shì duì de.",
+   "e": "You're on the right track."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "这是你的车吗?",
+   "r": "zhè shì nǐ de chē ma ?",
+   "e": "Is this your car?"
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "那是你的车吗?",
+   "r": "nà shì nǐ de chē ma ?",
+   "e": "Is that your car?"
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "我们的车走了。",
+   "r": "wǒmen de chē zǒu le.",
+   "e": "There goes our bus."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "你找到你的票了吗？",
+   "r": "nǐ zhǎodào nǐ de piào le ma?",
+   "e": "Have you found your ticket yet?"
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "我开车来的。",
+   "r": "wǒ kāichē lái de.",
+   "e": "I came by car."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "这是给你的票",
+   "r": "zhè shì gěi nǐ de piào",
+   "e": "Here's a ticket for you."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "你叔叔让你开他的车了吗？",
+   "r": "nǐ shūshū ràng nǐ kāi tā de chē le ma?",
+   "e": "Did your uncle let you drive his car?"
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "让我看一下你的票。",
+   "r": "ràng wǒ kàn yīxià nǐ de piào.",
+   "e": "Let me check your ticket."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "我住在这附近。",
+   "r": "wǒ zhù zài zhè fùjìn.",
+   "e": "I live near here."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "我现在在机场。",
+   "r": "wǒ xiànzài zài jīchǎng.",
+   "e": "I'm at the airport now."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "我们在这里下车吧。",
+   "r": "wǒmen zài zhèlǐ xiàchē ba.",
+   "e": "Let's get off here."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "我在右边。",
+   "r": "wǒ zài yòubiān.",
+   "e": "I am on the right."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "我想开车。",
+   "r": "wǒ xiǎng kāichē.",
+   "e": "I want to drive."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "我去哪里都开车。",
+   "r": "wǒ qù nǎlǐ dōu kāichē.",
+   "e": "I drive everywhere."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "我想火车很快就会来了。",
+   "r": "wǒ xiǎng huǒchē hěnkuài jiù huì lái le.",
+   "e": "I think the train will come soon."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "我不想错过我的火车。",
+   "r": "wǒ bùxiǎng cuòguò wǒ de huǒchē.",
+   "e": "I don't want to miss my train."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "我去机场。",
+   "r": "wǒ qù jīchǎng.",
+   "e": "I'm going to the airport."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "我在机场见了个朋友。",
+   "r": "wǒ zài jīchǎng jiàn le gè péngyǒu.",
+   "e": "I met a friend at the airport."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "你已经买了票吗？",
+   "r": "nǐ yǐjīng mǎi le piào ma?",
+   "e": "Have you already bought the tickets?"
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "那是我的钱。",
+   "r": "nà shì wǒ de qián.",
+   "e": "It's my money."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "把我的钱给我。",
+   "r": "bǎ wǒ de qián gěi wǒ.",
+   "e": "Give me my money."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "我丢了我的钱。",
+   "r": "wǒ diū le wǒ de qián.",
+   "e": "I lost my money."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "有什么你想让我买的吗？",
+   "r": "yǒu shénme nǐ xiǎng ràng wǒ mǎi de ma?",
+   "e": "Is there anything you want me to buy?"
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "你有18岁了吗？",
+   "r": "nǐ yǒu 18 suì le ma?",
+   "e": "Are you over 18?"
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "你是什么时候买的？",
+   "r": "nǐ shì shénme shíhòu mǎi de?",
+   "e": "When did you buy it?"
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "已经是11点了。",
+   "r": "yǐjīng shì 11 diǎn le.",
+   "e": "It's already 11."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "我应该在2：30准备好。",
+   "r": "wǒ yīnggāi zài 2 ： 30 zhǔnbèi hǎo.",
+   "e": "I should be ready by 2:30."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "我得卖我的房子。",
+   "r": "wǒ dé mài wǒ de fángzi.",
+   "e": "I must sell my house."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "我给你再买一个吧。",
+   "r": "wǒ gěi nǐ zài mǎi yígè ba.",
+   "e": "Let me buy you another one."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "你和我去商店吗？",
+   "r": "nǐ hé wǒ qù shāngdiàn ma?",
+   "e": "Are you coming to the store with me?"
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "我昨天去见他了。",
+   "r": "wǒ zuótiān qù jiàn tā le.",
+   "e": "I paid him a visit yesterday."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "她让我等了30分钟。",
+   "r": "tā ràng wǒ děng le 30 fēnzhōng.",
+   "e": "She kept me waiting for 30 minutes."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "我在2:30起床。",
+   "r": "wǒ zài 2 : 30 qǐchuáng.",
+   "e": "I woke up at 2:30."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "她昨天来见我了。",
+   "r": "tā zuótiān lái jiàn wǒ le.",
+   "e": "She paid me a visit yesterday."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "我买衣服了。",
+   "r": "wǒ mǎi yīfú le.",
+   "e": "I bought some clothes."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "让我看看你有多少钱。",
+   "r": "ràng wǒ kànkàn nǐ yǒu duōshǎo qián.",
+   "e": "Show me how much money you have."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "爷爷买给我的！",
+   "r": "yéyé mǎi gěi wǒ de!",
+   "e": "Grandpa bought it for me!"
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "让我去商店吧。",
+   "r": "ràng wǒ qù shāngdiàn ba.",
+   "e": "Let me go to the store."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "昨天我买了这个。",
+   "r": "zuótiān wǒ mǎi le zhège.",
+   "e": "I bought this yesterday."
+  },
+  {
+   "cat": "School",
+   "t": "你在看什么？",
+   "r": "nǐ zài kàn shénme?",
+   "e": "What're you reading?"
+  },
+  {
+   "cat": "School",
+   "t": "这是你的书吗？",
+   "r": "zhè shì nǐ de shū ma?",
+   "e": "Is this your book?"
+  },
+  {
+   "cat": "School",
+   "t": "这是你的书。",
+   "r": "zhè shì nǐ de shū.",
+   "e": "Here is your book."
+  },
+  {
+   "cat": "School",
+   "t": "那是你的书。",
+   "r": "nà shì nǐ de shū.",
+   "e": "That is your book."
+  },
+  {
+   "cat": "School",
+   "t": "那是我们的学校。",
+   "r": "nà shì wǒmen de xuéxiào.",
+   "e": "That is our school."
+  },
+  {
+   "cat": "School",
+   "t": "你在写什么？",
+   "r": "nǐ zài xiě shénme?",
+   "e": "What're you writing?"
+  },
+  {
+   "cat": "School",
+   "t": "你去学校了吗？",
+   "r": "nǐ qù xuéxiào le ma?",
+   "e": "Did you go to school?"
+  },
+  {
+   "cat": "School",
+   "t": "我是一个好老师吗？",
+   "r": "wǒ shì yígè hǎo lǎoshī ma?",
+   "e": "Am I a good teacher?"
+  },
+  {
+   "cat": "School",
+   "t": "我去学校了。",
+   "r": "wǒ qù xuéxiào le.",
+   "e": "I'm going to school."
+  },
+  {
+   "cat": "School",
+   "t": "这些是我的书。",
+   "r": "zhèxiē shì wǒ de shū.",
+   "e": "These are my books."
+  },
+  {
+   "cat": "School",
+   "t": "这些书都是我的。",
+   "r": "zhèxiē shū dōu shì wǒ de.",
+   "e": "All of these books are mine."
+  },
+  {
+   "cat": "School",
+   "t": "你写吗?",
+   "r": "nǐ xiě ma ?",
+   "e": "Did you write?"
+  },
+  {
+   "cat": "School",
+   "t": "你不应该在学习吗？",
+   "r": "nǐ bù yīnggāi zài xuéxí ma?",
+   "e": "Shouldn't you be studying?"
+  },
+  {
+   "cat": "School",
+   "t": "我在学习。",
+   "r": "wǒ zài xuéxí.",
+   "e": "I was learning."
+  },
+  {
+   "cat": "School",
+   "t": "你也是学生不是吗？",
+   "r": "nǐ yě shì xuéshēng búshì ma?",
+   "e": "You're a student, too, aren't you?"
+  },
+  {
+   "cat": "School",
+   "t": "你所有的书我都看过了。",
+   "r": "nǐ suǒyǒu de shū wǒ dōu kànguò le.",
+   "e": "I've read all your books."
+  },
+  {
+   "cat": "School",
+   "t": "谁是你老师？",
+   "r": "shuí shì nǐ lǎoshī?",
+   "e": "Who is your teacher?"
+  },
+  {
+   "cat": "School",
+   "t": "她是个非常好的老师。",
+   "r": "tā shì gè fēicháng hǎo de lǎoshī.",
+   "e": "She is a very good teacher."
+  },
+  {
+   "cat": "School",
+   "t": "他们是学生吗？",
+   "r": "tāmen shì xuéshēng ma?",
+   "e": "Are they students?"
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "我很好。",
+   "r": "wǒ hěn hǎo.",
+   "e": "I'm fine."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "我什么都不知道。",
+   "r": "wǒ shénme dōu bù zhīdào.",
+   "e": "I don't know anything."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "我不知道说什么。",
+   "r": "wǒ bù zhīdào shuō shénme.",
+   "e": "I don't know what to say."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "我也爱你。",
+   "r": "wǒ yě ài nǐ.",
+   "e": "I love you, too."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "很高兴你是对的。",
+   "r": "hěn gāoxìng nǐ shì duì de.",
+   "e": "I'm glad you were right."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "我相信你会做的很棒的。",
+   "r": "wǒ xiāngxìn nǐ huì zuò de hěnbàng de.",
+   "e": "I'm sure you'll do great."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "你害怕我？",
+   "r": "nǐ hàipà wǒ?",
+   "e": "Are you afraid of me?"
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "我请他帮我。",
+   "r": "wǒ qǐng tā bāng wǒ.",
+   "e": "I asked him to help me."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "我相信他是幸福的。",
+   "r": "wǒ xiāngxìn tā shì xìngfú de.",
+   "e": "I believe that he's happy."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "你生气了吗？",
+   "r": "nǐ shēngqì le ma?",
+   "e": "Are you angry?"
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "我很抱歉, 但它是不可能的。",
+   "r": "wǒ hěn bàoqiàn ,   dàn tā shì bù kěnéng de.",
+   "e": "I'm sorry, but it's impossible."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "我不高兴。",
+   "r": "wǒ bù gāoxìng.",
+   "e": "I am not happy."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "我好高兴。",
+   "r": "wǒ hǎo gāoxìng.",
+   "e": "I'm so happy."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "我很高兴你回来了。",
+   "r": "wǒ hěn gāoxìng nǐ huílái le.",
+   "e": "I'm glad you came over."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "我请我的朋友来帮助我。",
+   "r": "wǒ qǐng wǒ de péngyǒu lái bāngzhù wǒ.",
+   "e": "I got my friends to help me."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "我很抱歉。",
+   "r": "wǒ hěn bàoqiàn.",
+   "e": "I'm sorry."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "我等着你帮我。",
+   "r": "wǒ děng zhe nǐ bāng wǒ.",
+   "e": "I'm waiting for you to help me."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "我知道他忙。",
+   "r": "wǒ zhīdào tā máng.",
+   "e": "I know that he was busy."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "我很肯定她是正确的。",
+   "r": "wǒ hěn kěndìng tā shì zhèngquè de.",
+   "e": "I'm sure that she's correct."
+  }
+ ],
+ "sentences": [
+  {
+   "t": "我不跟你要好了。",
+   "r": "wǒ bù gēn nǐ yào hǎo le.",
+   "e": "I'm going to stop trying to be friendly with you."
+  },
+  {
+   "t": "你想知道我是怎么做的吗？",
+   "r": "nǐ xiǎng zhīdào wǒ shì zěnme zuò de ma?",
+   "e": "Would you like to know how I did that?"
+  },
+  {
+   "t": "我不知道你要来这里。",
+   "r": "wǒ bù zhīdào nǐ yào lái zhèlǐ.",
+   "e": "I didn't know you were going to be here."
+  },
+  {
+   "t": "我不知道，我也不想知道。",
+   "r": "wǒ bù zhīdào, wǒ yě bùxiǎng zhīdào.",
+   "e": "I don't know and I don't want to know."
+  },
+  {
+   "t": "你想说就说。",
+   "r": "nǐ xiǎng shuō jiù shuō.",
+   "e": "If you have something to say, just say it."
+  },
+  {
+   "t": "我觉得什么都不说是最好的。",
+   "r": "wǒ juéde shénme dōu bù shuō shì zuìhǎo de.",
+   "e": "I found it best to say nothing about the matter."
+  },
+  {
+   "t": "我知道他的样子，但不知道他的名字。",
+   "r": "wǒ zhīdào tā de yàngzi, dàn bù zhīdào tā de míngzì.",
+   "e": "I know him by sight, but not by name."
+  },
+  {
+   "t": "我不知道，我现在应该做什么。",
+   "r": "wǒ bù zhīdào, wǒ xiànzài yīnggāi zuò shénme.",
+   "e": "I don't know what I should be doing right now."
+  },
+  {
+   "t": "我认识他但是我不知道他的名字。",
+   "r": "wǒ rènshí tā dànshì wǒ bù zhīdào tā de míngzì.",
+   "e": "I know him, but I don't know his name."
+  },
+  {
+   "t": "你确定要我什么都不说？",
+   "r": "nǐ quèdìng yào wǒ shénme dōu bù shuō?",
+   "e": "Are you sure you don't want me to say anything?"
+  },
+  {
+   "t": "我才是那个想和你在一起的人！",
+   "r": "wǒ cái shì nàge xiǎng hé nǐ zài yìqǐ de rén!",
+   "e": "I'm the one who wants to be with you."
+  },
+  {
+   "t": "你还有什么事情需要我去做的吗？",
+   "r": "nǐ háiyǒu shénme shìqíng xūyào wǒ qù zuò de ma?",
+   "e": "Is there anything else you want me to do?"
+  },
+  {
+   "t": "如果我知道真相，我就告诉你了。",
+   "r": "rúguǒ wǒ zhīdào zhēnxiàng, wǒ jiù gàosù nǐ le.",
+   "e": "If I'd known the truth, I'd have told you."
+  },
+  {
+   "t": "我不知道你是否和我有一样的感觉。",
+   "r": "wǒ bù zhīdào nǐ shìfǒu hé wǒ yǒu yīyàng de gǎnjué.",
+   "e": "I don't know if you feel the same as I do."
+  },
+  {
+   "t": "我感觉你想告诉我什么事。",
+   "r": "wǒ gǎnjué nǐ xiǎng gàosù wǒ shénme shì.",
+   "e": "I get the feeling you're trying to tell me something."
+  },
+  {
+   "t": "我知道你还是想跟我一起。",
+   "r": "wǒ zhīdào nǐ háishì xiǎng gēn wǒ yìqǐ.",
+   "e": "I know that you still want to be with me."
+  },
+  {
+   "t": "你是想耍我吗？",
+   "r": "nǐ shì xiǎng shuǎ wǒ ma?",
+   "e": "Are you trying to make a fool of me?"
+  },
+  {
+   "t": "我不知道她想不想和我一起去。",
+   "r": "wǒ bù zhīdào tā xiǎng bùxiǎng hé wǒ yìqǐ qù.",
+   "e": "I don't know if she wants to go with me."
+  },
+  {
+   "t": "要我解释给你听是不可能的。",
+   "r": "yào wǒ jiěshì gěi nǐ tīng shì bù kěnéng de.",
+   "e": "It's impossible for me to explain it to you."
+  },
+  {
+   "t": "我在想你今天会不会来。",
+   "r": "wǒ zài xiǎng nǐ jīntiān huì búhuì lái.",
+   "e": "I was wondering if you were going to show up today."
+  },
+  {
+   "t": "我有告诉你我找到新工作了吗？",
+   "r": "wǒ yǒu gàosù nǐ wǒ zhǎodào xīn gōngzuò le ma?",
+   "e": "Did I tell you I got a new job?"
+  },
+  {
+   "t": "我看我们找到要找的东西了。",
+   "r": "wǒ kàn wǒmen zhǎodào yào zhǎo de dōngxī le.",
+   "e": "I think we've found what we were looking for."
+  },
+  {
+   "t": "我知道你不想跟我说话。",
+   "r": "wǒ zhīdào nǐ bùxiǎng gēn wǒ shuōhuà.",
+   "e": "I know you don't want to talk to me."
+  },
+  {
+   "t": "有什么你想要但是没有的东西吗？",
+   "r": "yǒu shénme nǐ xiǎngyào dànshì méiyǒu de dōngxī ma?",
+   "e": "Is there anything you want that you don't have?"
+  },
+  {
+   "t": "我得知道我们要什么时候到。",
+   "r": "wǒ dé zhīdào wǒmen yào shénme shíhòu dào.",
+   "e": "I need to find out when we need to be there."
+  },
+  {
+   "t": "你要做的只是照顾好你自己。",
+   "r": "nǐ yào zuò de zhǐshì zhàogù hǎo nǐ zìjǐ.",
+   "e": "All you have to do is to take care of yourself."
+  },
+  {
+   "t": "是谁允许你做这样的事的？",
+   "r": "shì shuí yǔnxǔ nǐ zuò zhèyàng de shì de?",
+   "e": "Who gave you the right to do such a thing?"
+  },
+  {
+   "t": "我的意思不是她做得对。",
+   "r": "wǒ de yìsi búshì tā zuò dé duì.",
+   "e": "I'm not saying that what she did was right."
+  },
+  {
+   "t": "我不知道她什么时候会回来。",
+   "r": "wǒ bù zhīdào tā shénme shíhòu huì huílái.",
+   "e": "I do not know when she will come back."
+  },
+  {
+   "t": "我不知道我是否有时间做。",
+   "r": "wǒ bù zhīdào wǒ shìfǒu yǒu shíjiān zuò.",
+   "e": "I don't know if I have time to do it."
+  },
+  {
+   "t": "我不确定，但我觉得我知道要去哪里。",
+   "r": "wǒ bù quèdìng, dàn wǒ juéde wǒ zhīdào yào qù nǎlǐ.",
+   "e": "I'm not sure, but I think I know where to go."
+  },
+  {
+   "t": "我承认我不知道怎么做。",
+   "r": "wǒ chéngrèn wǒ bù zhīdào zěnme zuò.",
+   "e": "I admitted that I didn't know how to do that."
+  },
+  {
+   "t": "我想和你一起去，但是我没有时间。",
+   "r": "wǒ xiǎng hé nǐ yìqǐ qù, dànshì wǒ méiyǒu shíjiān.",
+   "e": "I would have liked to come with you, but I didn't have time."
+  },
+  {
+   "t": "如果你需要我的建议，我很愿意告诉你。",
+   "r": "rúguǒ nǐ xūyào wǒ de jiànyì, wǒ hěn yuànyì gàosù nǐ.",
+   "e": "If you need my advice, I'd be glad to give it to you."
+  },
+  {
+   "t": "他不在这儿你不觉得这很奇怪吗？",
+   "r": "tā bù zài zhèér nǐ bù juéde zhè hěn qíguài ma?",
+   "e": "Don't you think it's strange that he's not here?"
+  },
+  {
+   "t": "我知道原因，但我不能告诉你。",
+   "r": "wǒ zhīdào yuányīn, dàn wǒ bùnéng gàosù nǐ.",
+   "e": "I know the reason, but I can't tell you."
+  },
+  {
+   "t": "我认为我们应该能去我们想去的地方。",
+   "r": "wǒ rènwéi wǒmen yīnggāi néng qù wǒmen xiǎng qù de dìfāng.",
+   "e": "I think we should be able to go wherever we want to."
+  },
+  {
+   "t": "让我来告诉你我不赞成你的理由。",
+   "r": "ràng wǒ lái gàosù nǐ wǒ bù zànchéng nǐ de lǐyóu.",
+   "e": "Let me tell you the reasons that I don't agree with you."
+  },
+  {
+   "t": "虽然我很累，但是我已经做了我能做的了。",
+   "r": "suīrán wǒ hěn lèi, dànshì wǒ yǐjīng zuò le wǒ néng zuò de le.",
+   "e": "Although I was tired, I did what I was able to do."
+  },
+  {
+   "t": "他们说了什么，我并不注意。",
+   "r": "tāmen shuō le shénme, wǒ bìng bù zhùyì.",
+   "e": "I didn't pay attention to what they were saying."
+  },
+  {
+   "t": "我不喜欢你和我说话的口气。",
+   "r": "wǒ bù xǐhuān nǐ hé wǒ shuōhuà de kǒuqì.",
+   "e": "I don't like the way you talk to me."
+  },
+  {
+   "t": "我就只告诉你，我不喜欢我们的新队长。",
+   "r": "wǒ jiù zhǐ gàosù nǐ, wǒ bù xǐhuān wǒmen de xīn duìzhǎng.",
+   "e": "Between you and me, I don't like our new team captain."
+  },
+  {
+   "t": "我承认他说的是事实。",
+   "r": "wǒ chéngrèn tā shuō de shì shìshí.",
+   "e": "I recognize that what he says is the truth."
+  },
+  {
+   "t": "我跟你说过她在的时候不要说这件事。",
+   "r": "wǒ gēn nǐ shuō guò tā zài de shíhòu búyào shuō zhèjiàn shì.",
+   "e": "I told you not to mention that in her presence."
+  },
+  {
+   "t": "你知道她有多么爱你吗?",
+   "r": "nǐ zhīdào tā yǒu duōme ài nǐ ma ?",
+   "e": "Are you aware of how much she loves you?"
+  },
+  {
+   "t": "我有一个朋友, 他的父亲是老师。",
+   "r": "wǒ yǒu yígè péngyǒu ,   tā de fùqīn shì lǎoshī.",
+   "e": "I have a friend whose father is a teacher."
+  },
+  {
+   "t": "你真的知道这个怎么做吗？",
+   "r": "nǐ zhēnde zhīdào zhège zěnme zuò ma?",
+   "e": "Are you sure you know how to do this?"
+  },
+  {
+   "t": "有人说你是个很有能力的人。",
+   "r": "yǒurén shuō nǐ shì gè hěn yǒu nénglì de rén.",
+   "e": "I've been told that you're a very competent person."
+  },
+  {
+   "t": "我不能让自己做这样的事。",
+   "r": "wǒ bùnéng ràng zìjǐ zuò zhèyàng de shì.",
+   "e": "I can't bring myself to do such a thing."
+  },
+  {
+   "t": "我让他随我来，他同意了。",
+   "r": "wǒ ràng tā suí wǒ lái, tā tóngyì le.",
+   "e": "I asked him to come with me and he agreed."
+  },
+  {
+   "t": "我所知道的是他放弃了这个计划。",
+   "r": "wǒ suǒ zhīdào de shì tā fàngqì le zhège jìhuà.",
+   "e": "All that I know is that he gave up the plan."
+  },
+  {
+   "t": "如果你不去音乐会, 我也不去。",
+   "r": "rúguǒ nǐ bù qù yīnyuèhuì ,   wǒ yě bù qù.",
+   "e": "If you are not going to the concert, then neither am I."
+  },
+  {
+   "t": "如果你愿意，你可以用我的车。",
+   "r": "rúguǒ nǐ yuànyì, nǐ kěyǐ yòng wǒ de chē.",
+   "e": "If you want to, you can use my car."
+  },
+  {
+   "t": "我不知道你不会游泳。",
+   "r": "wǒ bù zhīdào nǐ búhuì yóuyǒng.",
+   "e": "I didn't know you didn't know how to swim."
+  },
+  {
+   "t": "你找我的房子有困难吗？",
+   "r": "nǐ zhǎo wǒ de fángzi yǒu kùnnán ma?",
+   "e": "Did you have any difficulty in finding my house?"
+  },
+  {
+   "t": "如果我知道的话，我早就已经告诉你了。",
+   "r": "rúguǒ wǒ zhīdào dehuà, wǒ zǎojiù yǐjīng gàosù nǐ le.",
+   "e": "Had I known about it, I would have told you."
+  },
+  {
+   "t": "你是决定做这个工作的那个人，对吗？",
+   "r": "nǐ shì juédìng zuò zhège gōngzuò de nàge rén, duì ma?",
+   "e": "You're the one who decided to do this job, right?"
+  },
+  {
+   "t": "我搞明白了会告诉你。",
+   "r": "wǒ gǎo míngbái le huì gàosù nǐ.",
+   "e": "I'll let you know when I've figured it out."
+  },
+  {
+   "t": "你就只告诉我一个人，你对她的意见如何？",
+   "r": "nǐ jiù zhǐ gàosù wǒ yígè rén, nǐ duì tā de yìjiàn rúhé?",
+   "e": "Between you and me, what is your opinion of her?"
+  },
+  {
+   "t": "我看了他一段时间。",
+   "r": "wǒ kàn le tā yīduànshíjiān.",
+   "e": "I looked after him for a period of time."
+  }
+ ]
+}

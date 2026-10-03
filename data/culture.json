@@ -1,0 +1,120 @@
+{
+  "note": "General, widely documented customs. Practices vary by region, family and generation, so treat these as starting points, not rules.",
+  "langs": {
+    "en": {
+      "name": "English", "flag": "🇬🇧", "speakLang": "en",
+      "greetings": [
+        {"t": "Hello", "r": "", "use": "Works any time, with anyone."},
+        {"t": "Good morning", "r": "", "use": "Until about midday."},
+        {"t": "How do you do?", "r": "", "use": "A very formal greeting; the usual reply is to repeat it."},
+        {"t": "Nice to meet you", "r": "", "use": "Said on a first meeting, usually with a handshake."}
+      ],
+      "etiquette": [
+        "A handshake is the usual greeting in formal and business settings; friends often just say hi.",
+        "Small talk (weather, travel, weekend plans) is a normal way to start a conversation.",
+        "Please, thank you and sorry are used very often, even for small things."
+      ],
+      "do": ["Queue politely and wait your turn.", "Say please and thank you.", "Be on time for meetings and appointments."],
+      "dont": ["Do not push in front of a queue.", "Avoid asking strangers about their salary or age.", "Do not assume all English speakers share one accent or culture."],
+      "festivals": [
+        {"name": "Christmas", "when": "25 December", "about": "Celebrated across many English-speaking countries with family meals and gifts."},
+        {"name": "Thanksgiving (USA)", "when": "Fourth Thursday of November", "about": "A family meal and a day of gratitude."},
+        {"name": "Independence Day (USA)", "when": "4 July", "about": "Fireworks and barbecues."},
+        {"name": "Guy Fawkes Night (UK)", "when": "5 November", "about": "Bonfires and fireworks."},
+        {"name": "Burns Night (Scotland)", "when": "25 January", "about": "Poetry and a supper in honour of the poet Robert Burns."}
+      ]
+    },
+    "hi": {
+      "name": "Hindi", "flag": "🇮🇳", "speakLang": "hi",
+      "greetings": [
+        {"t": "नमस्ते", "r": "namaste", "use": "The everyday greeting for hello and goodbye, said with palms pressed together."},
+        {"t": "नमस्कार", "r": "namaskār", "use": "A slightly more formal version."},
+        {"t": "आप कैसे हैं?", "r": "āp kaise haiṃ?", "use": "How are you? (respectful form)"},
+        {"t": "धन्यवाद", "r": "dhanyavād", "use": "Thank you."}
+      ],
+      "etiquette": [
+        "Greet with namaste, palms together and a slight nod. A handshake is common in business, but wait for the other person to offer.",
+        "Use the respectful form 'āp' with elders and people you have just met.",
+        "Take your shoes off before entering a home or a temple."
+      ],
+      "do": ["Accept tea or food when it is offered; hospitality matters.", "Use your right hand to give, receive and eat.", "Dress modestly when visiting temples."],
+      "dont": ["Do not point your feet at people or at sacred objects.", "Avoid touching someone's head.", "Do not wear shoes inside a temple or many homes."],
+      "festivals": [
+        {"name": "Diwali", "when": "Autumn (October or November; date follows the lunar calendar)", "about": "The festival of lights, with lamps, sweets and family gatherings."},
+        {"name": "Holi", "when": "Spring (February or March; date varies)", "about": "The festival of colours."},
+        {"name": "Republic Day", "when": "26 January", "about": "Marks the day the Constitution of India came into effect."},
+        {"name": "Independence Day", "when": "15 August", "about": "Flag hoisting and celebrations across the country."},
+        {"name": "Gandhi Jayanti", "when": "2 October", "about": "The birthday of Mahatma Gandhi."}
+      ]
+    },
+    "es": {
+      "name": "Spanish", "flag": "🇪🇸", "speakLang": "es",
+      "greetings": [
+        {"t": "Hola", "r": "", "use": "Hello, for anyone."},
+        {"t": "Buenos días", "r": "", "use": "Good morning."},
+        {"t": "¿Cómo está usted?", "r": "", "use": "How are you? (formal 'usted')"},
+        {"t": "Mucho gusto", "r": "", "use": "Pleased to meet you."}
+      ],
+      "etiquette": [
+        "Spanish has a formal 'usted' and an informal 'tú'. Use usted with elders and strangers until invited to switch.",
+        "In Spain, friends often greet with two kisses on the cheeks; customs differ in Latin America, where one kiss or a handshake is common.",
+        "In Spain, lunch is the main meal and is eaten later than in many countries, often after 2 pm, and dinner is late as well."
+      ],
+      "do": ["Greet people when you enter a shop or a room.", "Use usted until the other person suggests tú.", "Allow time for conversation; meals and visits are social."],
+      "dont": ["Do not assume every Spanish-speaking country has the same food or customs.", "Do not rush a meal; eating is social.", "Avoid reducing a whole country to a stereotype."],
+      "festivals": [
+        {"name": "Día de Muertos (Mexico)", "when": "1-2 November", "about": "Families remember loved ones with altars and flowers."},
+        {"name": "San Fermín (Pamplona, Spain)", "when": "6-14 July", "about": "Known for the running of the bulls."},
+        {"name": "La Tomatina (Buñol, Spain)", "when": "Last Wednesday of August", "about": "A giant tomato fight."},
+        {"name": "Las Fallas (Valencia, Spain)", "when": "March", "about": "Large papier-mâché figures are displayed and then burned."},
+        {"name": "Día de Reyes", "when": "6 January", "about": "Three Kings Day, when children traditionally receive gifts in Spain and many Latin American countries."}
+      ]
+    },
+    "fr": {
+      "name": "French", "flag": "🇫🇷", "speakLang": "fr",
+      "greetings": [
+        {"t": "Bonjour", "r": "", "use": "Hello / good day. Expected when entering a shop."},
+        {"t": "Bonsoir", "r": "", "use": "Good evening."},
+        {"t": "Salut", "r": "", "use": "Hi or bye, informal."},
+        {"t": "Enchanté(e)", "r": "", "use": "Pleased to meet you."}
+      ],
+      "etiquette": [
+        "Say bonjour when you enter a shop or office, and au revoir when you leave.",
+        "French has formal 'vous' and informal 'tu'. Use vous with strangers and elders.",
+        "Friends often greet with 'la bise', light kisses on the cheeks. The number differs by region."
+      ],
+      "do": ["Greet first, then ask your question.", "Use vous until invited to say tu.", "Say 'bon appétit' before a meal and wait for others to start."],
+      "dont": ["Do not skip the greeting and go straight to a request.", "Avoid asking people about their salary.", "Do not assume everyone will switch to English; try a few words of French first."],
+      "festivals": [
+        {"name": "Bastille Day (Fête nationale)", "when": "14 July", "about": "National day with parades and fireworks."},
+        {"name": "Fête de la Musique", "when": "21 June", "about": "Free concerts and street music across the country."},
+        {"name": "Galette des Rois", "when": "Around 6 January (Epiphany)", "about": "A cake with a hidden charm; whoever finds it is king or queen for the day."},
+        {"name": "Cannes Film Festival", "when": "May", "about": "An international film festival on the Riviera."},
+        {"name": "Beaujolais Nouveau day", "when": "Third Thursday of November", "about": "The release of the year's new wine."}
+      ]
+    },
+    "zh": {
+      "name": "Mandarin", "flag": "🇨🇳", "speakLang": "zh",
+      "greetings": [
+        {"t": "你好", "r": "nǐ hǎo", "use": "Hello, the standard greeting."},
+        {"t": "您好", "r": "nín hǎo", "use": "A polite hello for elders or customers."},
+        {"t": "早上好", "r": "zǎoshang hǎo", "use": "Good morning."},
+        {"t": "很高兴认识你", "r": "hěn gāoxìng rènshi nǐ", "use": "Nice to meet you."}
+      ],
+      "etiquette": [
+        "Family names come first: in Wang Fang, Wang is the family name.",
+        "Offer and receive business cards and gifts with both hands.",
+        "Elders are greeted first and treated with extra respect."
+      ],
+      "do": ["Use both hands for cards and gifts.", "Accept a drink or snack offered by a host.", "Learn the tones; they change the meaning of a word."],
+      "dont": ["Do not stick chopsticks upright in a bowl of rice.", "Avoid giving a clock as a gift; the words for it sound like a word associated with funerals.", "Avoid sensitive topics such as politics when you have just met someone."],
+      "festivals": [
+        {"name": "Spring Festival (Chinese New Year)", "when": "Late January or February (lunar calendar)", "about": "The biggest holiday, with family reunions, red envelopes and fireworks."},
+        {"name": "Lantern Festival", "when": "15th day of the first lunar month", "about": "Lanterns and sweet rice balls close the New Year season."},
+        {"name": "Dragon Boat Festival", "when": "5th day of the fifth lunar month", "about": "Dragon boat races and zongzi, sticky rice dumplings."},
+        {"name": "Mid-Autumn Festival", "when": "15th day of the eighth lunar month", "about": "Families gather to eat mooncakes and enjoy the full moon."},
+        {"name": "National Day", "when": "1 October", "about": "Marks the founding of the People's Republic of China in 1949."}
+      ]
+    }
+  }
+}

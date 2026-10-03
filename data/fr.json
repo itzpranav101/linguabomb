@@ -1,0 +1,2604 @@
+{
+ "lang": "fr",
+ "name": "French",
+ "script": "Latin alphabet",
+ "source": "dataset",
+ "words": [
+  {
+   "w": "de",
+   "r": "",
+   "e": "from / of"
+  },
+  {
+   "w": "je",
+   "r": "",
+   "e": "I"
+  },
+  {
+   "w": "est",
+   "r": "",
+   "e": "to be (form of être)"
+  },
+  {
+   "w": "pas",
+   "r": "",
+   "e": "The most common adverb of negation in French"
+  },
+  {
+   "w": "le",
+   "r": "",
+   "e": "the / the, my, your, etc"
+  },
+  {
+   "w": "que",
+   "r": "",
+   "e": "that"
+  },
+  {
+   "w": "la",
+   "r": "",
+   "e": "her, it"
+  },
+  {
+   "w": "vous",
+   "r": "",
+   "e": "the plural personal pronoun in the second person"
+  },
+  {
+   "w": "tu",
+   "r": "",
+   "e": "you"
+  },
+  {
+   "w": "un",
+   "r": "",
+   "e": "an, a"
+  },
+  {
+   "w": "à",
+   "r": "",
+   "e": "to / at, in, on"
+  },
+  {
+   "w": "et",
+   "r": "",
+   "e": "and"
+  },
+  {
+   "w": "il",
+   "r": "",
+   "e": "he / it"
+  },
+  {
+   "w": "a",
+   "r": "",
+   "e": "to have, to own, to possess, to get (form of avoir)"
+  },
+  {
+   "w": "ne",
+   "r": "",
+   "e": "not / not, no"
+  },
+  {
+   "w": "les",
+   "r": "",
+   "e": "the (form of le)"
+  },
+  {
+   "w": "en",
+   "r": "",
+   "e": "in / to"
+  },
+  {
+   "w": "on",
+   "r": "",
+   "e": "one, people, you, someone / we"
+  },
+  {
+   "w": "ça",
+   "r": "",
+   "e": "that / this"
+  },
+  {
+   "w": "une",
+   "r": "",
+   "e": "an, a (form of un)"
+  },
+  {
+   "w": "ce",
+   "r": "",
+   "e": "this, that"
+  },
+  {
+   "w": "pour",
+   "r": "",
+   "e": "for"
+  },
+  {
+   "w": "ai",
+   "r": "",
+   "e": "to have, to own, to possess, to get (form of avoir)"
+  },
+  {
+   "w": "des",
+   "r": "",
+   "e": "an, a (form of un)"
+  },
+  {
+   "w": "qui",
+   "r": "",
+   "e": "who, whom / who, which, that"
+  },
+  {
+   "w": "mais",
+   "r": "",
+   "e": "but, although"
+  },
+  {
+   "w": "dans",
+   "r": "",
+   "e": "in, inside / to"
+  },
+  {
+   "w": "nous",
+   "r": "",
+   "e": "the plural personal pronoun in the first person / we"
+  },
+  {
+   "w": "elle",
+   "r": "",
+   "e": "she / it"
+  },
+  {
+   "w": "me",
+   "r": "",
+   "e": "me"
+  },
+  {
+   "w": "bien",
+   "r": "",
+   "e": "well / indeed, so"
+  },
+  {
+   "w": "si",
+   "r": "",
+   "e": "if, whether / if"
+  },
+  {
+   "w": "du",
+   "r": "",
+   "e": "Forms the partitive article"
+  },
+  {
+   "w": "y",
+   "r": "",
+   "e": "there / there, thither"
+  },
+  {
+   "w": "suis",
+   "r": "",
+   "e": "to be (form of être)"
+  },
+  {
+   "w": "non",
+   "r": "",
+   "e": "no"
+  },
+  {
+   "w": "avec",
+   "r": "",
+   "e": "with"
+  },
+  {
+   "w": "tout",
+   "r": "",
+   "e": "all / totally, completely"
+  },
+  {
+   "w": "plus",
+   "r": "",
+   "e": "more, most"
+  },
+  {
+   "w": "mon",
+   "r": "",
+   "e": "my"
+  },
+  {
+   "w": "te",
+   "r": "",
+   "e": "you / yourself"
+  },
+  {
+   "w": "au",
+   "r": "",
+   "e": "to (form of à)"
+  },
+  {
+   "w": "fait",
+   "r": "",
+   "e": "to do (form of faire)"
+  },
+  {
+   "w": "moi",
+   "r": "",
+   "e": "me"
+  },
+  {
+   "w": "oui",
+   "r": "",
+   "e": "yes"
+  },
+  {
+   "w": "va",
+   "r": "",
+   "e": "to go (form of aller)"
+  },
+  {
+   "w": "était",
+   "r": "",
+   "e": "to be (form of être)"
+  },
+  {
+   "w": "as",
+   "r": "",
+   "e": "to have, to own, to possess, to get (form of avoir)"
+  },
+  {
+   "w": "faire",
+   "r": "",
+   "e": "to do / to make"
+  },
+  {
+   "w": "ils",
+   "r": "",
+   "e": "they"
+  },
+  {
+   "w": "sur",
+   "r": "",
+   "e": "on, upon / on top of"
+  },
+  {
+   "w": "quoi",
+   "r": "",
+   "e": "what / what, which"
+  },
+  {
+   "w": "se",
+   "r": "",
+   "e": "The third-person reflexive and reciprocal direct and…"
+  },
+  {
+   "w": "comme",
+   "r": "",
+   "e": "as / like, as"
+  },
+  {
+   "w": "sais",
+   "r": "",
+   "e": "to know (form of savoir)"
+  },
+  {
+   "w": "être",
+   "r": "",
+   "e": "to be / to be located, to be situated"
+  },
+  {
+   "w": "veux",
+   "r": "",
+   "e": "to want, wish, desire (form of vouloir)"
+  },
+  {
+   "w": "ici",
+   "r": "",
+   "e": "here"
+  },
+  {
+   "w": "ma",
+   "r": "",
+   "e": "my (form of mon)"
+  },
+  {
+   "w": "toi",
+   "r": "",
+   "e": "you / yourself"
+  },
+  {
+   "w": "dit",
+   "r": "",
+   "e": "Indicating a surname used as a family name"
+  },
+  {
+   "w": "lui",
+   "r": "",
+   "e": "him, he, it"
+  },
+  {
+   "w": "votre",
+   "r": "",
+   "e": "your, belonging to you"
+  },
+  {
+   "w": "es",
+   "r": "",
+   "e": "to be (form of être)"
+  },
+  {
+   "w": "pourquoi",
+   "r": "",
+   "e": "why"
+  },
+  {
+   "w": "où",
+   "r": "",
+   "e": "where / at that time, when"
+  },
+  {
+   "w": "là",
+   "r": "",
+   "e": "referring to physical place"
+  },
+  {
+   "w": "rien",
+   "r": "",
+   "e": "nothing / anything"
+  },
+  {
+   "w": "cette",
+   "r": "",
+   "e": "this, that (form of ce)"
+  },
+  {
+   "w": "sont",
+   "r": "",
+   "e": "to be (form of être)"
+  },
+  {
+   "w": "quand",
+   "r": "",
+   "e": "when"
+  },
+  {
+   "w": "peux",
+   "r": "",
+   "e": "can, to be able to (form of pouvoir)"
+  },
+  {
+   "w": "dire",
+   "r": "",
+   "e": "to say, to tell / to tell"
+  },
+  {
+   "w": "son",
+   "r": "",
+   "e": "his, her, their, its"
+  },
+  {
+   "w": "avez",
+   "r": "",
+   "e": "to have, to own, to possess, to get (form of avoir)"
+  },
+  {
+   "w": "vais",
+   "r": "",
+   "e": "to go (form of aller)"
+  },
+  {
+   "w": "alors",
+   "r": "",
+   "e": "then / so, hence"
+  },
+  {
+   "w": "ton",
+   "r": "",
+   "e": "your"
+  },
+  {
+   "w": "comment",
+   "r": "",
+   "e": "how / how many, how much"
+  },
+  {
+   "w": "par",
+   "r": "",
+   "e": "through / by"
+  },
+  {
+   "w": "ou",
+   "r": "",
+   "e": "or / either...or"
+  },
+  {
+   "w": "chose",
+   "r": "",
+   "e": "thing"
+  },
+  {
+   "w": "bon",
+   "r": "",
+   "e": "well, OK"
+  },
+  {
+   "w": "ont",
+   "r": "",
+   "e": "to have, to own, to possess, to get (form of avoir)"
+  },
+  {
+   "w": "merci",
+   "r": "",
+   "e": "thank you"
+  },
+  {
+   "w": "juste",
+   "r": "",
+   "e": "exactly, precisely / just, only"
+  },
+  {
+   "w": "très",
+   "r": "",
+   "e": "very"
+  },
+  {
+   "w": "jamais",
+   "r": "",
+   "e": "never / ever"
+  },
+  {
+   "w": "été",
+   "r": "",
+   "e": "to be (form of être)"
+  },
+  {
+   "w": "aussi",
+   "r": "",
+   "e": "too, also, as well / as"
+  },
+  {
+   "w": "avoir",
+   "r": "",
+   "e": "to have, to own, to possess, to get / to have"
+  },
+  {
+   "w": "vraiment",
+   "r": "",
+   "e": "truly, really, genuinely / really, very"
+  },
+  {
+   "w": "voir",
+   "r": "",
+   "e": "please"
+  },
+  {
+   "w": "même",
+   "r": "",
+   "e": "even"
+  },
+  {
+   "w": "sa",
+   "r": "",
+   "e": "his, her, its, their, one's"
+  },
+  {
+   "w": "oh",
+   "r": "",
+   "e": "oh"
+  },
+  {
+   "w": "maintenant",
+   "r": "",
+   "e": "now, currently"
+  },
+  {
+   "w": "tous",
+   "r": "",
+   "e": "all / everybody"
+  },
+  {
+   "w": "peut",
+   "r": "",
+   "e": "can, to be able to (form of pouvoir)"
+  },
+  {
+   "w": "deux",
+   "r": "",
+   "e": "two"
+  },
+  {
+   "w": "ces",
+   "r": "",
+   "e": "this, that (form of ce)"
+  },
+  {
+   "w": "êtes",
+   "r": "",
+   "e": "to be (form of être)"
+  },
+  {
+   "w": "allez",
+   "r": "",
+   "e": "As an expression of encouragement, there you go, let's go"
+  },
+  {
+   "w": "ta",
+   "r": "",
+   "e": "your"
+  },
+  {
+   "w": "autre",
+   "r": "",
+   "e": "another"
+  },
+  {
+   "w": "peu",
+   "r": "",
+   "e": "little, not very much/many"
+  },
+  {
+   "w": "temps",
+   "r": "",
+   "e": "time / weather"
+  },
+  {
+   "w": "quelque",
+   "r": "",
+   "e": "some"
+  },
+  {
+   "w": "fais",
+   "r": "",
+   "e": "to do (form of faire)"
+  },
+  {
+   "w": "toujours",
+   "r": "",
+   "e": "always / still"
+  },
+  {
+   "w": "encore",
+   "r": "",
+   "e": "still / more"
+  },
+  {
+   "w": "notre",
+   "r": "",
+   "e": "our"
+  },
+  {
+   "w": "mes",
+   "r": "",
+   "e": "my"
+  },
+  {
+   "w": "besoin",
+   "r": "",
+   "e": "need / want"
+  },
+  {
+   "w": "avait",
+   "r": "",
+   "e": "to have, to own, to possess, to get (form of avoir)"
+  },
+  {
+   "w": "accord",
+   "r": "",
+   "e": "chord / agreement"
+  },
+  {
+   "w": "faut",
+   "r": "",
+   "e": "to need, have to, to be necessary (form of falloir)"
+  },
+  {
+   "w": "dois",
+   "r": "",
+   "e": "must, to have to, should (form of devoir)"
+  },
+  {
+   "w": "vie",
+   "r": "",
+   "e": "life, the state of organisms prior to death"
+  },
+  {
+   "w": "aller",
+   "r": "",
+   "e": "to go / to attend"
+  },
+  {
+   "w": "fois",
+   "r": "",
+   "e": "times, multiplied by"
+  },
+  {
+   "w": "vu",
+   "r": "",
+   "e": "given"
+  },
+  {
+   "w": "donc",
+   "r": "",
+   "e": "therefore, consequently, thus"
+  },
+  {
+   "w": "sans",
+   "r": "",
+   "e": "without"
+  },
+  {
+   "w": "monde",
+   "r": "",
+   "e": "good heavens"
+  },
+  {
+   "w": "étais",
+   "r": "",
+   "e": "to be (form of être)"
+  },
+  {
+   "w": "parce",
+   "r": "",
+   "e": "only used in parce que"
+  },
+  {
+   "w": "avant",
+   "r": "",
+   "e": "beforehand, earlier"
+  },
+  {
+   "w": "sûr",
+   "r": "",
+   "e": "sure, certain / trustworthy"
+  },
+  {
+   "w": "trop",
+   "r": "",
+   "e": "too, too much / very, really, so"
+  },
+  {
+   "w": "parler",
+   "r": "",
+   "e": "to speak, talk"
+  },
+  {
+   "w": "personne",
+   "r": "",
+   "e": "no one, nobody / anyone"
+  },
+  {
+   "w": "avais",
+   "r": "",
+   "e": "to have, to own, to possess, to get (form of avoir)"
+  },
+  {
+   "w": "père",
+   "r": "",
+   "e": "father / Sr"
+  },
+  {
+   "w": "crois",
+   "r": "",
+   "e": "to believe (form of croire)"
+  },
+  {
+   "w": "après",
+   "r": "",
+   "e": "after, later than in time / after, coming for, trying to get"
+  },
+  {
+   "w": "aux",
+   "r": "",
+   "e": "to (form of à)"
+  },
+  {
+   "w": "ouais",
+   "r": "",
+   "e": "synonym of oui, yeah, yep, yup, yes, affirmative expression"
+  },
+  {
+   "w": "ses",
+   "r": "",
+   "e": "his, her, its, their, one's"
+  },
+  {
+   "w": "pense",
+   "r": "",
+   "e": "to think, reflect (form of penser)"
+  },
+  {
+   "w": "eu",
+   "r": "",
+   "e": "to have, to own, to possess, to get (form of avoir)"
+  },
+  {
+   "w": "aime",
+   "r": "",
+   "e": "to love (form of aimer)"
+  },
+  {
+   "w": "leur",
+   "r": "",
+   "e": "them"
+  },
+  {
+   "w": "homme",
+   "r": "",
+   "e": "man / man, Man"
+  },
+  {
+   "w": "viens",
+   "r": "",
+   "e": "to come (form of venir)"
+  },
+  {
+   "w": "vrai",
+   "r": "",
+   "e": "true, truly"
+  },
+  {
+   "w": "femme",
+   "r": "",
+   "e": "woman / wife"
+  },
+  {
+   "w": "ok",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "doit",
+   "r": "",
+   "e": "must, to have to, should (form of devoir)"
+  },
+  {
+   "w": "veut",
+   "r": "",
+   "e": "to want, wish, desire (form of vouloir)"
+  },
+  {
+   "w": "ans",
+   "r": "",
+   "e": "year (form of an)"
+  },
+  {
+   "w": "mal",
+   "r": "",
+   "e": "badly"
+  },
+  {
+   "w": "chez",
+   "r": "",
+   "e": "to, at, in or into the place of"
+  },
+  {
+   "w": "déjà",
+   "r": "",
+   "e": "already, before / again"
+  },
+  {
+   "w": "depuis",
+   "r": "",
+   "e": "since / since, ever since"
+  },
+  {
+   "w": "beaucoup",
+   "r": "",
+   "e": "much, very much, a lot / very"
+  },
+  {
+   "w": "vos",
+   "r": "",
+   "e": "your, belonging to you (form of votre)"
+  },
+  {
+   "w": "bonne",
+   "r": "",
+   "e": "good (form of bon)"
+  },
+  {
+   "w": "mieux",
+   "r": "",
+   "e": "more, -er"
+  },
+  {
+   "w": "vas",
+   "r": "",
+   "e": "to go (form of aller)"
+  },
+  {
+   "w": "mère",
+   "r": "",
+   "e": "mother"
+  },
+  {
+   "w": "sera",
+   "r": "",
+   "e": "to be (form of être)"
+  },
+  {
+   "w": "dis",
+   "r": "",
+   "e": "to say, to tell (form of dire)"
+  },
+  {
+   "w": "fille",
+   "r": "",
+   "e": "girl / daughter"
+  },
+  {
+   "w": "tes",
+   "r": "",
+   "e": "your"
+  },
+  {
+   "w": "gens",
+   "r": "",
+   "e": "set of people"
+  },
+  {
+   "w": "quel",
+   "r": "",
+   "e": "which / what, what a"
+  },
+  {
+   "w": "vois",
+   "r": "",
+   "e": "to see (form of voir)"
+  },
+  {
+   "w": "désolé",
+   "r": "",
+   "e": "sorry"
+  },
+  {
+   "w": "ca",
+   "r": "",
+   "e": "approximately, about (form of circa)"
+  },
+  {
+   "w": "voilà",
+   "r": "",
+   "e": "it has been, ago"
+  },
+  {
+   "w": "avons",
+   "r": "",
+   "e": "to have, to own, to possess, to get (form of avoir)"
+  },
+  {
+   "w": "petit",
+   "r": "",
+   "e": "small / little"
+  },
+  {
+   "w": "maison",
+   "r": "",
+   "e": "homemade / in-house"
+  },
+  {
+   "w": "soit",
+   "r": "",
+   "e": "or, meaning, that is to say"
+  },
+  {
+   "w": "cela",
+   "r": "",
+   "e": "that"
+  },
+  {
+   "w": "autres",
+   "r": "",
+   "e": "other (form of autre)"
+  },
+  {
+   "w": "toute",
+   "r": "",
+   "e": "all (form of tout)"
+  },
+  {
+   "w": "soir",
+   "r": "",
+   "e": "to be suitable for, to be proper for (form of seoir)"
+  },
+  {
+   "w": "passé",
+   "r": "",
+   "e": "to go past (form of passer)"
+  },
+  {
+   "w": "prendre",
+   "r": "",
+   "e": "to take / to eat, to drink"
+  },
+  {
+   "w": "jour",
+   "r": "",
+   "e": "day / daylight, light"
+  },
+  {
+   "w": "monsieur",
+   "r": "",
+   "e": "mister, sir / gentleman"
+  },
+  {
+   "w": "nos",
+   "r": "",
+   "e": "our (form of notre)"
+  },
+  {
+   "w": "savoir",
+   "r": "",
+   "e": "to know / to know how"
+  },
+  {
+   "w": "choses",
+   "r": "",
+   "e": "thing (form of chose)"
+  },
+  {
+   "w": "salut",
+   "r": "",
+   "e": "hi, hello / bye, goodbye"
+  },
+  {
+   "w": "cet",
+   "r": "",
+   "e": "this"
+  },
+  {
+   "w": "nom",
+   "r": "",
+   "e": "name / noun"
+  },
+  {
+   "w": "argent",
+   "r": "",
+   "e": "silver / money, cash"
+  },
+  {
+   "w": "bonjour",
+   "r": "",
+   "e": "good day, good afternoon / goodbye"
+  },
+  {
+   "w": "nuit",
+   "r": "",
+   "e": "to harm, to spoil (form of nuire)"
+  },
+  {
+   "w": "raison",
+   "r": "",
+   "e": "reason / common difference"
+  },
+  {
+   "w": "moins",
+   "r": "",
+   "e": "minus, negative"
+  },
+  {
+   "w": "arrive",
+   "r": "",
+   "e": "to arrive (form of arriver)"
+  },
+  {
+   "w": "maman",
+   "r": "",
+   "e": "mummy, mommy, mom, mum"
+  },
+  {
+   "w": "reste",
+   "r": "",
+   "e": "to stay (form of rester)"
+  },
+  {
+   "w": "moment",
+   "r": "",
+   "e": "moment / a while"
+  },
+  {
+   "w": "voulais",
+   "r": "",
+   "e": "to want, wish, desire (form of vouloir)"
+  },
+  {
+   "w": "seul",
+   "r": "",
+   "e": "lonely / alone"
+  },
+  {
+   "w": "aider",
+   "r": "",
+   "e": "to help, to aid / to use"
+  },
+  {
+   "w": "air",
+   "r": "",
+   "e": "air / tune, aria"
+  },
+  {
+   "w": "entre",
+   "r": "",
+   "e": "between / among"
+  },
+  {
+   "w": "papa",
+   "r": "",
+   "e": "papa, a child's father, also as form of address: dad, daddy"
+  },
+  {
+   "w": "passe",
+   "r": "",
+   "e": "to go past (form of passer)"
+  },
+  {
+   "w": "aurais",
+   "r": "",
+   "e": "to have, to own, to possess, to get (form of avoir)"
+  },
+  {
+   "w": "problème",
+   "r": "",
+   "e": "problem / trouble"
+  },
+  {
+   "w": "ah",
+   "r": "",
+   "e": "ah"
+  },
+  {
+   "w": "peur",
+   "r": "",
+   "e": "fear"
+  },
+  {
+   "w": "regarde",
+   "r": "",
+   "e": "to look at (form of regarder)"
+  },
+  {
+   "w": "voulez",
+   "r": "",
+   "e": "to want, wish, desire (form of vouloir)"
+  },
+  {
+   "w": "gars",
+   "r": "",
+   "e": "lad, guy / guys"
+  },
+  {
+   "w": "trouvé",
+   "r": "",
+   "e": "to find, to retrieve something lost (form of trouver)"
+  },
+  {
+   "w": "fils",
+   "r": "",
+   "e": "son / any male descendant"
+  },
+  {
+   "w": "attends",
+   "r": "",
+   "e": "to wait for, to await (form of attendre)"
+  },
+  {
+   "w": "savez",
+   "r": "",
+   "e": "to know (form of savoir)"
+  },
+  {
+   "w": "trouver",
+   "r": "",
+   "e": "to find, to retrieve something lost"
+  },
+  {
+   "w": "trois",
+   "r": "",
+   "e": "three"
+  },
+  {
+   "w": "assez",
+   "r": "",
+   "e": "to a sufficient or moderate degree, enough, sufficiently"
+  },
+  {
+   "w": "famille",
+   "r": "",
+   "e": "family"
+  },
+  {
+   "w": "dû",
+   "r": "",
+   "e": "must, to have to, should (form of devoir)"
+  },
+  {
+   "w": "eh",
+   "r": "",
+   "e": "signifying indifference or surprise"
+  },
+  {
+   "w": "toutes",
+   "r": "",
+   "e": "all (form of tout)"
+  },
+  {
+   "w": "plaît",
+   "r": "",
+   "e": "to please, to appeal to (form of plaire)"
+  },
+  {
+   "w": "pourrait",
+   "r": "",
+   "e": "can, to be able to (form of pouvoir)"
+  },
+  {
+   "w": "travail",
+   "r": "",
+   "e": "work, labor / job"
+  },
+  {
+   "w": "pris",
+   "r": "",
+   "e": "to take (form of prendre)"
+  },
+  {
+   "w": "pu",
+   "r": "",
+   "e": "can, to be able to (form of pouvoir)"
+  },
+  {
+   "w": "tête",
+   "r": "",
+   "e": "head / header"
+  },
+  {
+   "w": "quelle",
+   "r": "",
+   "e": "what (form of quel)"
+  },
+  {
+   "w": "sait",
+   "r": "",
+   "e": "to know (form of savoir)"
+  },
+  {
+   "w": "sommes",
+   "r": "",
+   "e": "to be (form of être)"
+  },
+  {
+   "w": "appelle",
+   "r": "",
+   "e": "to call (form of appeler)"
+  },
+  {
+   "w": "quelques",
+   "r": "",
+   "e": "some (form of quelque)"
+  },
+  {
+   "w": "faites",
+   "r": "",
+   "e": "to do (form of faire)"
+  },
+  {
+   "w": "partir",
+   "r": "",
+   "e": "to share, to share out, to divide"
+  },
+  {
+   "w": "vite",
+   "r": "",
+   "e": "quickly"
+  },
+  {
+   "w": "arrête",
+   "r": "",
+   "e": "to stop, to come to a standstill (form of arrêter)"
+  },
+  {
+   "w": "seule",
+   "r": "",
+   "e": "lonely (form of seul)"
+  },
+  {
+   "w": "serait",
+   "r": "",
+   "e": "to be (form of être)"
+  },
+  {
+   "w": "voiture",
+   "r": "",
+   "e": "car"
+  },
+  {
+   "w": "enfants",
+   "r": "",
+   "e": "child (form of enfant)"
+  },
+  {
+   "w": "hé",
+   "r": "",
+   "e": "Used to call someone, hey / Used to express surprise, eh"
+  },
+  {
+   "w": "pendant",
+   "r": "",
+   "e": "during, throughout, for the duration of"
+  },
+  {
+   "w": "idée",
+   "r": "",
+   "e": "idea"
+  },
+  {
+   "w": "chance",
+   "r": "",
+   "e": "chance / luck"
+  },
+  {
+   "w": "parle",
+   "r": "",
+   "e": "to speak, talk (form of parler)"
+  },
+  {
+   "w": "aurait",
+   "r": "",
+   "e": "to have, to own, to possess, to get (form of avoir)"
+  },
+  {
+   "w": "part",
+   "r": "",
+   "e": "to share, to share out, to divide (form of partir)"
+  },
+  {
+   "w": "elles",
+   "r": "",
+   "e": "they"
+  },
+  {
+   "w": "jours",
+   "r": "",
+   "e": "day (form of jour)"
+  },
+  {
+   "w": "grand",
+   "r": "",
+   "e": "big / tall"
+  },
+  {
+   "w": "venir",
+   "r": "",
+   "e": "to come"
+  },
+  {
+   "w": "ami",
+   "r": "",
+   "e": "friend"
+  },
+  {
+   "w": "demain",
+   "r": "",
+   "e": "tomorrow"
+  },
+  {
+   "w": "hein",
+   "r": "",
+   "e": "huh, hey, eh"
+  },
+  {
+   "w": "tard",
+   "r": "",
+   "e": "late"
+  },
+  {
+   "w": "puis",
+   "r": "",
+   "e": "then, after, next"
+  },
+  {
+   "w": "truc",
+   "r": "",
+   "e": "procedure, technique / thingamajig, thingy, thing"
+  },
+  {
+   "w": "passer",
+   "r": "",
+   "e": "to go past / to cross"
+  },
+  {
+   "w": "petite",
+   "r": "",
+   "e": "small (form of petit)"
+  },
+  {
+   "w": "tant",
+   "r": "",
+   "e": "so much / so many"
+  },
+  {
+   "w": "connais",
+   "r": "",
+   "e": "to know, to be familiar with (form of connaître)"
+  },
+  {
+   "w": "combien",
+   "r": "",
+   "e": "how much / how many"
+  },
+  {
+   "w": "mec",
+   "r": "",
+   "e": "guy, fellow, bloke, chap, dude, boyfriend"
+  },
+  {
+   "w": "sens",
+   "r": "",
+   "e": "to smell (form of sentir)"
+  },
+  {
+   "w": "pouvez",
+   "r": "",
+   "e": "can, to be able to (form of pouvoir)"
+  },
+  {
+   "w": "porte",
+   "r": "",
+   "e": "to carry (form of porter)"
+  },
+  {
+   "w": "sortir",
+   "r": "",
+   "e": "to exit, go out, come out / to take out, bring out"
+  },
+  {
+   "w": "super",
+   "r": "",
+   "e": "extremely, very"
+  },
+  {
+   "w": "heure",
+   "r": "",
+   "e": "hour, time / o'clock"
+  },
+  {
+   "w": "contre",
+   "r": "",
+   "e": "against / as against"
+  },
+  {
+   "w": "coup",
+   "r": "",
+   "e": "blow, hit, strike / fast and instantaneous action"
+  },
+  {
+   "w": "comprends",
+   "r": "",
+   "e": "to understand, comprehend (form of comprendre)"
+  },
+  {
+   "w": "entendu",
+   "r": "",
+   "e": "to hear (form of entendre)"
+  },
+  {
+   "w": "vient",
+   "r": "",
+   "e": "to come (form of venir)"
+  },
+  {
+   "w": "allons",
+   "r": "",
+   "e": "to go (form of aller)"
+  },
+  {
+   "w": "ensemble",
+   "r": "",
+   "e": "together"
+  },
+  {
+   "w": "nouveau",
+   "r": "",
+   "e": "new, novel"
+  },
+  {
+   "w": "amour",
+   "r": "",
+   "e": "love"
+  },
+  {
+   "w": "importe",
+   "r": "",
+   "e": "to import (form of importer)"
+  },
+  {
+   "w": "désolée",
+   "r": "",
+   "e": "sorry (form of désolé)"
+  },
+  {
+   "w": "cas",
+   "r": "",
+   "e": "case, situation / case"
+  },
+  {
+   "w": "sous",
+   "r": "",
+   "e": "below, under"
+  },
+  {
+   "w": "rester",
+   "r": "",
+   "e": "to stay / to remain, be left over"
+  },
+  {
+   "w": "amis",
+   "r": "",
+   "e": "friend (form of ami)"
+  },
+  {
+   "w": "prends",
+   "r": "",
+   "e": "to take (form of prendre)"
+  },
+  {
+   "w": "fini",
+   "r": "",
+   "e": "to finish, end, complete (form of finir)"
+  },
+  {
+   "w": "hommes",
+   "r": "",
+   "e": "man (form of homme)"
+  },
+  {
+   "w": "question",
+   "r": "",
+   "e": "question / issue, matter, topic, problem"
+  },
+  {
+   "w": "partie",
+   "r": "",
+   "e": "divided into two equal parts… (form of parti)"
+  },
+  {
+   "w": "histoire",
+   "r": "",
+   "e": "story / history"
+  },
+  {
+   "w": "devrais",
+   "r": "",
+   "e": "must, to have to, should (form of devoir)"
+  },
+  {
+   "w": "aide",
+   "r": "",
+   "e": "to help, to aid (form of aider)"
+  },
+  {
+   "w": "dernière",
+   "r": "",
+   "e": "last (form of dernier)"
+  },
+  {
+   "w": "demande",
+   "r": "",
+   "e": "to ask (form of demander)"
+  },
+  {
+   "w": "chercher",
+   "r": "",
+   "e": "to look for, to seek / to look"
+  },
+  {
+   "w": "pensais",
+   "r": "",
+   "e": "to think, reflect (form of penser)"
+  },
+  {
+   "w": "genre",
+   "r": "",
+   "e": "like, kind of / like"
+  },
+  {
+   "w": "seulement",
+   "r": "",
+   "e": "only"
+  }
+ ],
+ "phrases": [
+  {
+   "cat": "Essentials",
+   "t": "Bonjour",
+   "r": "",
+   "e": "Hello"
+  },
+  {
+   "cat": "Essentials",
+   "t": "Merci",
+   "r": "",
+   "e": "Thank you"
+  },
+  {
+   "cat": "Essentials",
+   "t": "S'il vous plaît",
+   "r": "",
+   "e": "Please"
+  },
+  {
+   "cat": "Essentials",
+   "t": "Au revoir",
+   "r": "",
+   "e": "Goodbye"
+  },
+  {
+   "cat": "Essentials",
+   "t": "Oui",
+   "r": "",
+   "e": "Yes"
+  },
+  {
+   "cat": "Essentials",
+   "t": "Non",
+   "r": "",
+   "e": "No"
+  },
+  {
+   "cat": "Essentials",
+   "t": "Désolé",
+   "r": "",
+   "e": "Sorry / excuse me"
+  },
+  {
+   "cat": "Essentials",
+   "t": "Comment allez-vous ?",
+   "r": "",
+   "e": "How are you?"
+  },
+  {
+   "cat": "Essentials",
+   "t": "Je m'appelle ...",
+   "r": "",
+   "e": "My name is ..."
+  },
+  {
+   "cat": "Essentials",
+   "t": "Où sont les toilettes ?",
+   "r": "",
+   "e": "Where is the toilet?"
+  },
+  {
+   "cat": "Essentials",
+   "t": "Combien ça coûte ?",
+   "r": "",
+   "e": "How much is it?"
+  },
+  {
+   "cat": "Essentials",
+   "t": "Je ne comprends pas.",
+   "r": "",
+   "e": "I don't understand."
+  },
+  {
+   "cat": "Greetings",
+   "t": "À plus.",
+   "r": "",
+   "e": "See you again."
+  },
+  {
+   "cat": "Greetings",
+   "t": "Je suis heureux de vous rencontrer.",
+   "r": "",
+   "e": "Nice to meet you."
+  },
+  {
+   "cat": "Greetings",
+   "t": "Ça va ?",
+   "r": "",
+   "e": "How's it going?"
+  },
+  {
+   "cat": "Greetings",
+   "t": "Comment vas-tu ?",
+   "r": "",
+   "e": "What's up?"
+  },
+  {
+   "cat": "Greetings",
+   "t": "Salut ! Je suis nouveau, ici.",
+   "r": "",
+   "e": "Hi! I'm new here."
+  },
+  {
+   "cat": "Greetings",
+   "t": "À demain.",
+   "r": "",
+   "e": "See you tomorrow."
+  },
+  {
+   "cat": "Greetings",
+   "t": "Au revoir et à demain.",
+   "r": "",
+   "e": "Goodbye till tomorrow."
+  },
+  {
+   "cat": "Greetings",
+   "t": "Bonjour, comment allez-vous ?",
+   "r": "",
+   "e": "Hello, how are you?"
+  },
+  {
+   "cat": "Greetings",
+   "t": "Comment ça va, en bas ?",
+   "r": "",
+   "e": "How's it going down there?"
+  },
+  {
+   "cat": "Greetings",
+   "t": "Comment ça va, mec ?",
+   "r": "",
+   "e": "What's up, dude?"
+  },
+  {
+   "cat": "Greetings",
+   "t": "Salut les filles !",
+   "r": "",
+   "e": "Hello, girls."
+  },
+  {
+   "cat": "Greetings",
+   "t": "Salut, les mecs !",
+   "r": "",
+   "e": "Hi, guys."
+  },
+  {
+   "cat": "Greetings",
+   "t": "Salut, comment marche ton affaire ?",
+   "r": "",
+   "e": "Hello, how's business?"
+  },
+  {
+   "cat": "Greetings",
+   "t": "Salut, entrez.",
+   "r": "",
+   "e": "Hi, come on in."
+  },
+  {
+   "cat": "Introductions",
+   "t": "Je suis de la ville.",
+   "r": "",
+   "e": "I'm from the city."
+  },
+  {
+   "cat": "Introductions",
+   "t": "Je ne suis pas du coin.",
+   "r": "",
+   "e": "I'm from out of town."
+  },
+  {
+   "cat": "Introductions",
+   "t": "Je suis heureuse de vous rencontrer.",
+   "r": "",
+   "e": "It's nice to meet you."
+  },
+  {
+   "cat": "Introductions",
+   "t": "Je suis sûr de ma décision à 100%.",
+   "r": "",
+   "e": "I'm 100% sure of my decision."
+  },
+  {
+   "cat": "Introductions",
+   "t": "Je sais quel est votre nom.",
+   "r": "",
+   "e": "I know what your name is."
+  },
+  {
+   "cat": "Introductions",
+   "t": "Je suis professeur.",
+   "r": "",
+   "e": "I'm a teacher."
+  },
+  {
+   "cat": "Introductions",
+   "t": "Je ne suis pas médecin, mais professeur.",
+   "r": "",
+   "e": "I'm a teacher, not a doctor."
+  },
+  {
+   "cat": "Introductions",
+   "t": "Quel est encore votre nom ?",
+   "r": "",
+   "e": "What's your name again?"
+  },
+  {
+   "cat": "Introductions",
+   "t": "Je vis dans une ville.",
+   "r": "",
+   "e": "I live in a city."
+  },
+  {
+   "cat": "Introductions",
+   "t": "Je vis en ville.",
+   "r": "",
+   "e": "I live in town."
+  },
+  {
+   "cat": "Introductions",
+   "t": "Il a huit ans.",
+   "r": "",
+   "e": "He's eight years old."
+  },
+  {
+   "cat": "Introductions",
+   "t": "Sa voiture a deux ans.",
+   "r": "",
+   "e": "Her car is two years old."
+  },
+  {
+   "cat": "Introductions",
+   "t": "Notre école a 80 ans.",
+   "r": "",
+   "e": "Our school is 80 years old."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Je ne veux pas de thé.",
+   "r": "",
+   "e": "I don't want tea."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Je ne mange pas ça.",
+   "r": "",
+   "e": "I'm not eating this."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Je ne suis pas en train de manger.",
+   "r": "",
+   "e": "I am not eating."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Je ne peux pas manger.",
+   "r": "",
+   "e": "I can't eat."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Je ne bois pas de café.",
+   "r": "",
+   "e": "I don't drink coffee."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Je ne vais pas manger ça.",
+   "r": "",
+   "e": "I won't eat this."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Je pense que je ne devrais pas manger ça.",
+   "r": "",
+   "e": "I think I shouldn't eat this."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Tout le monde est en train de manger.",
+   "r": "",
+   "e": "Everyone's eating."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Je ne peux pas boire de café.",
+   "r": "",
+   "e": "I can't drink coffee."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Je sais que tu as faim.",
+   "r": "",
+   "e": "I know you're hungry."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Il ne reste pas de nourriture.",
+   "r": "",
+   "e": "There's no food left."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Le dîner est pour moi.",
+   "r": "",
+   "e": "Dinner is on me."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Je vais faire un peu de café.",
+   "r": "",
+   "e": "I'll make some coffee."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Où est le café ?",
+   "r": "",
+   "e": "Where's the coffee?"
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Il me faut de la nourriture.",
+   "r": "",
+   "e": "I need food."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Je vous dois un dîner.",
+   "r": "",
+   "e": "I owe you a dinner."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Je n'ai pas de nourriture.",
+   "r": "",
+   "e": "I have no food."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Je viens de rentrer à la maison et de déjeuner.",
+   "r": "",
+   "e": "I've just gotten home and had dinner."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Ne bois pas ça !",
+   "r": "",
+   "e": "Don't drink that."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Je suis dans la voiture.",
+   "r": "",
+   "e": "I'm in the car."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Je n'ai pas de voiture.",
+   "r": "",
+   "e": "I don't own a car."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Où est la voiture ?",
+   "r": "",
+   "e": "Where's the car?"
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Je ne sais pas conduire.",
+   "r": "",
+   "e": "I can't drive."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Est-ce que je dois te faire un plan ?",
+   "r": "",
+   "e": "Shall I draw you a map?"
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Il est temps de prendre la route.",
+   "r": "",
+   "e": "It's time to hit the road."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Je ne veux pas conduire.",
+   "r": "",
+   "e": "I don't want to drive."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Je suis le capitaine de ce bateau.",
+   "r": "",
+   "e": "I'm the captain of this ship."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Je ne peux pas me conduire à la maison.",
+   "r": "",
+   "e": "I can't drive myself home."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Je suis sur la route.",
+   "r": "",
+   "e": "I'm on the road."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Je suis en train de conduire.",
+   "r": "",
+   "e": "I'm driving."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Je suis sorti de la route.",
+   "r": "",
+   "e": "I went off the road."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Où est la carte ?",
+   "r": "",
+   "e": "Where's the map?"
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Je voudrais un plan de la ville.",
+   "r": "",
+   "e": "I'd like a city map."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Je suis déjà dans le train.",
+   "r": "",
+   "e": "I'm already on the train."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Il est maintenant sur le bateau.",
+   "r": "",
+   "e": "He's now on the boat."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Je pense que je suis dans le mauvais bus.",
+   "r": "",
+   "e": "I think I'm on the wrong bus."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Qui est le type à gauche ?",
+   "r": "",
+   "e": "Who's the guy on the left?"
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Je suis déjà dans le bus.",
+   "r": "",
+   "e": "I'm already on the bus."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Maintenant, il est 2:30.",
+   "r": "",
+   "e": "It's now 2:30."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Je ne veux pas de ton argent.",
+   "r": "",
+   "e": "I don't want your money."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Je ne veux pas de leur argent.",
+   "r": "",
+   "e": "I don't want their money."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Je ne vais pas payer pour ça.",
+   "r": "",
+   "e": "I won't pay for that."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Où est le reste de mon argent ?",
+   "r": "",
+   "e": "Where's the rest of my money?"
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Je lui dois 100 $.",
+   "r": "",
+   "e": "I owe him $100."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Je peux te voir à 2:30.",
+   "r": "",
+   "e": "I can meet you at 2:30."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Je peux en acheter un.",
+   "r": "",
+   "e": "I can buy one."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Où est la salle 303 ?",
+   "r": "",
+   "e": "Where's room 303?"
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Tu ne peux pas faire attention?",
+   "r": "",
+   "e": "Don't you pay attention?"
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Je ne peux les payer.",
+   "r": "",
+   "e": "I can't pay them."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Ce n'est pas si cher que ça.",
+   "r": "",
+   "e": "It's not that expensive."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Je dois en acheter un.",
+   "r": "",
+   "e": "I must buy one."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Je ne suis pas assez payé.",
+   "r": "",
+   "e": "I'm not being paid enough."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Je ne suis pas payé pour faire cela.",
+   "r": "",
+   "e": "I'm not paid to do that."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Je veux à tout prix le voir.",
+   "r": "",
+   "e": "I want to see him at all costs."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Le prix n'est pas un problème.",
+   "r": "",
+   "e": "Price isn't an issue."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Je pense que ça en vaut le prix.",
+   "r": "",
+   "e": "I think it's worth the price."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Je vous ai déjà payé.",
+   "r": "",
+   "e": "I've already paid you."
+  },
+  {
+   "cat": "School",
+   "t": "Je ne peux pas savoir ce que tu penses.",
+   "r": "",
+   "e": "I can't read your mind."
+  },
+  {
+   "cat": "School",
+   "t": "Je ne sais pas écrire.",
+   "r": "",
+   "e": "I can't write."
+  },
+  {
+   "cat": "School",
+   "t": "Je suis le professeur.",
+   "r": "",
+   "e": "I'm the teacher."
+  },
+  {
+   "cat": "School",
+   "t": "Je suis le plus grand de la classe.",
+   "r": "",
+   "e": "I'm the tallest one in the class."
+  },
+  {
+   "cat": "School",
+   "t": "Il est dans la même classe que moi.",
+   "r": "",
+   "e": "He's in my class."
+  },
+  {
+   "cat": "School",
+   "t": "Je ne peux pas me passer de ce livre.",
+   "r": "",
+   "e": "I cannot do without this book."
+  },
+  {
+   "cat": "School",
+   "t": "Je ne suis pas ton professeur.",
+   "r": "",
+   "e": "I'm not your teacher."
+  },
+  {
+   "cat": "School",
+   "t": "Tout le monde est en train de lire.",
+   "r": "",
+   "e": "Everyone's reading."
+  },
+  {
+   "cat": "School",
+   "t": "Je n'ai pas le temps de lire.",
+   "r": "",
+   "e": "I don't have time to read."
+  },
+  {
+   "cat": "School",
+   "t": "Je peux le lire.",
+   "r": "",
+   "e": "I can read it."
+  },
+  {
+   "cat": "School",
+   "t": "Je veux un livre.",
+   "r": "",
+   "e": "I want a book."
+  },
+  {
+   "cat": "School",
+   "t": "Je n'ai pas besoin de ce livre.",
+   "r": "",
+   "e": "I don't need this book."
+  },
+  {
+   "cat": "School",
+   "t": "Je le lui ai fait écrire.",
+   "r": "",
+   "e": "I had him write it."
+  },
+  {
+   "cat": "School",
+   "t": "Quel est le nom de ton professeur?",
+   "r": "",
+   "e": "What's your teacher's name?"
+  },
+  {
+   "cat": "School",
+   "t": "Je suis en salle de classe.",
+   "r": "",
+   "e": "I am in the classroom."
+  },
+  {
+   "cat": "School",
+   "t": "Je n'ai pas de temps pour écrire.",
+   "r": "",
+   "e": "I have no time to write."
+  },
+  {
+   "cat": "School",
+   "t": "Je suis le plus grand de notre classe.",
+   "r": "",
+   "e": "I am the tallest in our class."
+  },
+  {
+   "cat": "School",
+   "t": "Je suis en train de lire le journal.",
+   "r": "",
+   "e": "I'm reading the newspaper."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Je ne sais pas qui il est.",
+   "r": "",
+   "e": "I don't know who he is."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Je ne le connais pas.",
+   "r": "",
+   "e": "I don't know him."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Je suis sûr de ça.",
+   "r": "",
+   "e": "I'm sure of this."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Qui est-ce, je vous prie ?",
+   "r": "",
+   "e": "Who's calling, please?"
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Je suis désolé mais je ne peux pas.",
+   "r": "",
+   "e": "I'm afraid I can't."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Je suis heureux de le faire.",
+   "r": "",
+   "e": "I'm happy to do it."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Ne vous en faites pas.",
+   "r": "",
+   "e": "Don't be worried."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Je ne suis pas fier de ça.",
+   "r": "",
+   "e": "I am not proud of this."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Je pense que je ne te comprends pas.",
+   "r": "",
+   "e": "I think I don't understand you."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Je suis sûr que je peux le faire.",
+   "r": "",
+   "e": "I'm sure that I can do that."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Je ferai ce que je veux.",
+   "r": "",
+   "e": "I'll do as I please."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Je ne vous comprends vraiment pas.",
+   "r": "",
+   "e": "I really don't understand you."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Je ne suis pas fier de moi.",
+   "r": "",
+   "e": "I'm not proud of myself."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Je suis désolé, je ne vous ai pas entendu.",
+   "r": "",
+   "e": "I'm sorry, I didn't hear you."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Je vous aime plus que tout.",
+   "r": "",
+   "e": "I love you more than anything."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Je suis désolé, je ne comprends pas.",
+   "r": "",
+   "e": "I'm sorry, I don't understand."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Il y a une chose que je ne comprends pas.",
+   "r": "",
+   "e": "There's one thing I don't understand."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Je ne suis pas heureux.",
+   "r": "",
+   "e": "I am not happy."
+  }
+ ],
+ "sentences": [
+  {
+   "t": "Je ne veux pas ça et je sais que tu ne veux pas ça non plus.",
+   "r": "",
+   "e": "I don't want that and I know you don't want that either."
+  },
+  {
+   "t": "Je ne suis pas le genre de personne que tu crois.",
+   "r": "",
+   "e": "I'm not the kind of person you think I am."
+  },
+  {
+   "t": "Je ne sais ce que je vais faire avec vous.",
+   "r": "",
+   "e": "I don't know what I'm going to do with you."
+  },
+  {
+   "t": "Je ne sais pas ce que je peux faire de plus pour aider.",
+   "r": "",
+   "e": "I don't know what more I can do to help."
+  },
+  {
+   "t": "Je ne sais toujours pas ce que je veux faire.",
+   "r": "",
+   "e": "I still don't know what I want to do."
+  },
+  {
+   "t": "Je ne sais pas encore ce que je veux faire.",
+   "r": "",
+   "e": "I don't know what I want to do yet."
+  },
+  {
+   "t": "Je viens de dire que je ne voulais pas en parler.",
+   "r": "",
+   "e": "I just said I didn't want to talk about it."
+  },
+  {
+   "t": "Je ne sais pas ce que je vais faire maintenant.",
+   "r": "",
+   "e": "I don't know what I'm going to do now."
+  },
+  {
+   "t": "Je ne vais pas rester si tu ne le veux pas.",
+   "r": "",
+   "e": "I'm not going to stay if you don't want me to."
+  },
+  {
+   "t": "Je ne comprends pas le sens de tout ça.",
+   "r": "",
+   "e": "I don't get the meaning of all of this."
+  },
+  {
+   "t": "Je ne sais pas encore ce que je vais faire.",
+   "r": "",
+   "e": "I don't know what I'm going to do yet."
+  },
+  {
+   "t": "Je ne suis pas content de ce que vous avez fait.",
+   "r": "",
+   "e": "I am not pleased with what you have done."
+  },
+  {
+   "t": "Je ne pense pas en avoir un.",
+   "r": "",
+   "e": "I don't think that I have one of those."
+  },
+  {
+   "t": "Je ne sais pas ce que je ferais sans vous.",
+   "r": "",
+   "e": "I don't know what I would've done without you."
+  },
+  {
+   "t": "Je pensais que tu ne voulais pas parler de ça.",
+   "r": "",
+   "e": "I thought you didn't want to talk about this stuff."
+  },
+  {
+   "t": "Je le connais de nom, mais pas de visage.",
+   "r": "",
+   "e": "I know him by name, but not by sight."
+  },
+  {
+   "t": "Je ne pense pas que je compte vraiment pour vous.",
+   "r": "",
+   "e": "I don't think that I really matter to you."
+  },
+  {
+   "t": "Je ne vais pas vous prendre plus de temps.",
+   "r": "",
+   "e": "I won't take up any more of your time."
+  },
+  {
+   "t": "Je sais que je ne peux pas faire ça aussi bien que toi.",
+   "r": "",
+   "e": "I know that I can't do that as well as you."
+  },
+  {
+   "t": "Je vous aime plus que je ne peux dire.",
+   "r": "",
+   "e": "I love you more deeply than I can say."
+  },
+  {
+   "t": "Je n'ai pas le temps de faire ce que je veux faire.",
+   "r": "",
+   "e": "I don't have time to do what I want to do."
+  },
+  {
+   "t": "Je ne vois pas ce que ça a à voir avec ça.",
+   "r": "",
+   "e": "I don't see what that has to do with this."
+  },
+  {
+   "t": "Je ne sais pas ce que je peux faire pour aider.",
+   "r": "",
+   "e": "I don't know what I can do to help."
+  },
+  {
+   "t": "Je ne savais pas que tu avais besoin de faire ça.",
+   "r": "",
+   "e": "I didn't know that you needed to do that."
+  },
+  {
+   "t": "Je ne sais pas pourquoi tu veux que je fasse ça.",
+   "r": "",
+   "e": "I don't know why you want me to do this."
+  },
+  {
+   "t": "Je ne vais rien faire que tu ne veux pas que je fasse.",
+   "r": "",
+   "e": "I'm not going to do anything you don't want me to."
+  },
+  {
+   "t": "Je sais la raison, mais je ne peux pas te la dire.",
+   "r": "",
+   "e": "I know the reason, but I can't tell you."
+  },
+  {
+   "t": "Je sais que tu ne veux pas entendre ce que je vais dire.",
+   "r": "",
+   "e": "I know you don't want to hear what I'm about to say."
+  },
+  {
+   "t": "Je suis surpris de ne pas avoir à faire ce que vous vous avez.",
+   "r": "",
+   "e": "I'm surprised I don't have to do what you have to do."
+  },
+  {
+   "t": "Je ne sais pas quoi faire de ce truc.",
+   "r": "",
+   "e": "I don't know what to do with this stuff."
+  },
+  {
+   "t": "Je sais que tu le vois, mais est-ce que tu le regardes vraiment ?",
+   "r": "",
+   "e": "I know you see it, but are you really looking at it?"
+  },
+  {
+   "t": "Je ne comprends pas pourquoi tu ne veux pas faire ça.",
+   "r": "",
+   "e": "I don't understand why you don't want to do that."
+  },
+  {
+   "t": "Je le faisais mais je ne le fais plus.",
+   "r": "",
+   "e": "I used to do that, but I don't do it anymore."
+  },
+  {
+   "t": "Je ne comprends toujours pas ce que vous attendez de moi.",
+   "r": "",
+   "e": "I still don't understand what you want from me."
+  },
+  {
+   "t": "Je pense que vous savez pourquoi je ne peux pas faire ça.",
+   "r": "",
+   "e": "I think you know why I can't do that."
+  },
+  {
+   "t": "Il y a un temps, je ne pouvais pas le faire.",
+   "r": "",
+   "e": "I used to not be able to do this."
+  },
+  {
+   "t": "Je suppose que je ne comprends pas ce que vous essayez de dire.",
+   "r": "",
+   "e": "I guess I don't understand what you're trying to say."
+  },
+  {
+   "t": "Ne veux-tu pas me demander ce que je veux ?",
+   "r": "",
+   "e": "Don't you want to ask me what I want?"
+  },
+  {
+   "t": "Je ne pense pas que je serai capable de faire ce que tu veux que je fasse.",
+   "r": "",
+   "e": "I don't think I'll be able to do what you want me to do."
+  },
+  {
+   "t": "Je veux voir si je peux le faire.",
+   "r": "",
+   "e": "I want to see if I can do that."
+  },
+  {
+   "t": "Je sais que tu ne veux pas parler de ce qui s'est passé.",
+   "r": "",
+   "e": "I know you don't want to talk about what happened."
+  },
+  {
+   "t": "Je ne fais pas ça comme toi.",
+   "r": "",
+   "e": "I don't do that the same way you do."
+  },
+  {
+   "t": "Je n'ai pas à faire cela si je ne le veux pas, si ?",
+   "r": "",
+   "e": "I don't have to do that if I don't want to, do I?"
+  },
+  {
+   "t": "Je ne suis probablement pas le seul qui a besoin de le faire.",
+   "r": "",
+   "e": "I'm probably not the only one that needs to do that."
+  },
+  {
+   "t": "Je suis sûr que ce n'est pas ce que tu veux faire.",
+   "r": "",
+   "e": "I'm sure that's not what you want to do."
+  },
+  {
+   "t": "Je suis désolé, mais je ne veux pas en parler.",
+   "r": "",
+   "e": "I'm sorry, but I don't want to talk about it."
+  },
+  {
+   "t": "Je ne sais ce que vous voulez que je dise.",
+   "r": "",
+   "e": "I don't know what you want me to say."
+  },
+  {
+   "t": "Je ne sais pas quoi faire à partir de maintenant.",
+   "r": "",
+   "e": "I don't know what to do from now on."
+  },
+  {
+   "t": "Je ne veux pas en parler pour le moment.",
+   "r": "",
+   "e": "I don't want to talk about that right now."
+  },
+  {
+   "t": "Je te supplie de ne pas faire ça.",
+   "r": "",
+   "e": "I beg of you not to do this thing."
+  },
+  {
+   "t": "Je ne suis pas en mesure de vous aider.",
+   "r": "",
+   "e": "I'm not now in a position to help you."
+  },
+  {
+   "t": "Je ne savais pas que je devais faire ça.",
+   "r": "",
+   "e": "I didn't know that I had to do that."
+  },
+  {
+   "t": "Je n'ai pas envie de le faire, mais je dois le faire.",
+   "r": "",
+   "e": "I don't want to do that, but I have to."
+  },
+  {
+   "t": "Je comprends ce que vous me demandez de faire, mais je ne peux pas faire ça.",
+   "r": "",
+   "e": "I understand what you're asking me to do, but I can't do that."
+  },
+  {
+   "t": "Je ne sais pas ce que je ferais sans toi.",
+   "r": "",
+   "e": "I don't know what I would do without you."
+  },
+  {
+   "t": "Je ne sais pas si je peux le refaire.",
+   "r": "",
+   "e": "I don't know if I can do that again."
+  },
+  {
+   "t": "Ne t'ai-je pas dit de ne plus faire ça ?",
+   "r": "",
+   "e": "Didn't I tell you not to do that anymore?"
+  },
+  {
+   "t": "Je ne sais pas si je peux faire ce travail.",
+   "r": "",
+   "e": "I don't know if I can do this job."
+  },
+  {
+   "t": "Je ne suis pas fait pour ce genre de travail.",
+   "r": "",
+   "e": "I'm not cut out for this type of work."
+  },
+  {
+   "t": "Je suis surpris de ne pas avoir à faire ce que toi tu as.",
+   "r": "",
+   "e": "I'm surprised that I don't have to do what you have to do."
+  }
+ ]
+}

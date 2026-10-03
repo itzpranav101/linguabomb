@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Progress - LinguaBomb</title>
+<meta name="description" content="Your XP, streaks, badges and per-language progress, stored privately in your browser.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="LinguaBomb">
+<meta property="og:title" content="Progress - LinguaBomb">
+<meta property="og:description" content="Your XP, streaks, badges and per-language progress, stored privately in your browser.">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#ddff6e">
+<script>try{var t=localStorage.getItem('lingua.theme');if(t)document.documentElement.setAttribute('data-theme',t);else if(matchMedia('(prefers-color-scheme: dark)').matches)document.documentElement.setAttribute('data-theme','dark')}catch(e){}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/upgrade.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='15' cy='18' r='11' fill='%23111'/%3E%3Ccircle cx='27' cy='4' r='3' fill='%236c8bff'/%3E%3C/svg%3E">
+</head>
+<body data-page="progress">
+<div id="site-header"></div>
+<main id="main">
+  <section class="page-head">
+    <div class="wrap">
+      <h1 class="display" style="font-size:clamp(2.2rem,5vw,3.6rem)"><span class="pill">Your</span> <span class="pill blue">progress</span></h1>
+      <p>All your XP, streaks and badges come from chatting with your AI tutor, and it syncs live. No cap, you're actually leveling up. Data stays in this browser.</p>
+    </div>
+  </section>
+  <section class="section band-cream" style="border-top:0">
+    <div class="wrap">
+
+      <div class="pg-empty card" id="empty" hidden>
+        <svg viewBox="0 0 220 160" aria-hidden="true" focusable="false"><ellipse cx="110" cy="146" rx="80" ry="8" fill="rgba(17,17,17,.12)"/><rect x="40" y="30" width="140" height="92" rx="20" fill="#ddff6e" stroke="#111" stroke-width="3"/><path d="M80 122l-6 22 28-22z" fill="#ddff6e" stroke="#111" stroke-width="3" stroke-linejoin="round"/><circle cx="82" cy="76" r="7" fill="#111"/><circle cx="110" cy="76" r="7" fill="#111"/><circle cx="138" cy="76" r="7" fill="#111"/><g class="sparkle" fill="#6c8bff" stroke="#111" stroke-width="2"><path d="M178 24l4 10 10 4-10 4-4 10-4-10-10-4 10-4z"/></g></svg>
+        <div>
+          <h2 style="margin-bottom:6px">Blank page, big potential</h2>
+          <p>Chat with your AI tutor and finish an activity. Your XP, streak and coach notes land here automatically. First session unlocks Day One Energy.</p>
+          <a class="btn" href="tutor.html">Chat with the tutor</a>
+        </div>
+      </div>
+
+      <div class="pg-hero">
+        <div class="ring big" role="img" id="ring-img" aria-label="XP ring">
+          <svg viewBox="0 0 200 200" aria-hidden="true"><circle class="track" cx="100" cy="100" r="86"/><circle class="val" id="ring-rank" cx="100" cy="100" r="86" stroke-dasharray="540.35" stroke-dashoffset="540.35"/><circle class="track" cx="100" cy="100" r="64" style="stroke-width:10"/><circle class="val2" id="ring-goal" cx="100" cy="100" r="64" style="stroke-width:10" stroke-dasharray="402.12" stroke-dashoffset="402.12"/></svg>
+          <div class="center"><b id="ring-xp">0</b><span>total XP</span></div>
+        </div>
+        <div class="pg-hero-main">
+          <span class="tag" id="s-level">Level 1</span>
+          <h2 id="rank-label" class="display" style="font-size:clamp(2rem,5vw,3.2rem);margin:6px 0">Newbie</h2>
+          <p id="rank-note" style="margin:0 0 8px;font-size:1.05rem"></p>
+          <div class="bar" role="progressbar" aria-labelledby="rank-label" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" id="rank-bar"><i></i></div>
+          <p class="note" style="margin:6px 0 14px">Outer ring: progress to the next rank. Inner ring: today's goal. Ranks: Newbie 0, Explorer 200, Linguist 600, Polyglot 1500 XP.</p>
+          <a class="btn" href="tutor.html">Keep chatting, you got this</a>
+        </div>
+        <div class="pg-side">
+          <div class="mini-card"><span class="flame cold" id="flame" aria-hidden="true">&#128293;</span><div><b><span id="s-streak">0</span> day streak</b><small id="s-today"></small><small>Best: <span id="s-longest">0</span> days</small></div></div>
+          <div class="mini-card col">
+            <div><b>Today's goal</b> <small id="goal-note"></small></div>
+            <div class="bar" role="progressbar" id="goal-bar" aria-label="Today's XP goal" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><i></i></div>
+            <div class="goal-row" style="margin:0"><label for="goal" class="sr-only">Daily goal in XP</label><input id="goal" type="number" min="10" max="2000" step="10" inputmode="numeric" value="50"><span>XP</span><button type="button" class="btn btn-sm" id="goal-save">Set</button></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="coach-grid">
+        <div class="coach-card" data-coach="full" aria-label="AI Coach"></div>
+        <div class="card"><h2 style="margin-bottom:6px">Auto sync is on</h2><p class="note" style="margin:0 0 10px">Your tutor chat reports progress live. No codes to copy, no cap. Status is the pill in the header.</p><p class="note" style="margin:0">Nothing showing up? Chat with the tutor and finish an activity, this page catches up on the last 6 hours whenever you open it.</p><p style="margin:12px 0 0"><a class="btn btn-sm" href="tutor.html">Chat with the tutor</a></p></div>
+      </div>
+
+      <div class="dash-grid">
+        <div class="card">
+          <h2>Last 28 days</h2>
+          <div class="heat" id="heat" role="list" aria-label="Tutor sessions synced over the last 28 days"></div>
+          <div class="legend"><span>Less</span><span class="cell"></span><span class="cell l1"></span><span class="cell l2"></span><span class="cell l3"></span><span>More</span></div>
+        </div>
+        <div class="card">
+          <h2>Skill radar</h2>
+          <div class="radar-wrap" id="radar" role="img" aria-label="Radar chart of activities done"></div>
+          <p class="note" style="margin:6px 0 0">Vocabulary = L, Grammar = G, Practice = P, Conversation = R, Quiz = Q, Culture and extras = X.</p>
+        </div>
+      </div>
+
+      <h2 class="pg-h">Your languages</h2>
+      <div class="lang-cards" id="lang-cards"></div>
+
+      <div class="dash-grid">
+        <div class="card">
+          <h2>Quiz scores</h2>
+          <div id="spark" role="img" aria-label="Quiz score history"></div>
+          <p class="note" id="spark-note" style="margin:6px 0 0"></p>
+        </div>
+        <div class="card">
+          <h2>How to earn XP</h2>
+          <table class="earn" id="earn"></table>
+          <p class="note" style="margin:8px 0 0">Multiply by 1.25 for Intermediate and 1.5 for Advanced. Same session never counts twice, no double dipping.</p>
+        </div>
+      </div>
+
+      <h2 class="pg-h">Badges <small id="badge-count" class="note"></small></h2>
+      <div class="badge-grid wall" id="badges"></div>
+
+      <h2 class="pg-h">Recent sessions</h2>
+      <div class="card"><ol class="timeline" id="activity"></ol></div>
+
+      <div class="card" style="margin-top:20px">
+        <h2>Share &amp; back up</h2>
+        <div class="goal-row" style="margin:0 0 12px"><label for="pname"><b>Name on card</b></label><input id="pname" type="text" maxlength="24" placeholder="Learner" autocomplete="nickname" style="width:180px"></div>
+        <div class="tools-row">
+          <button class="btn" type="button" id="card-btn">Make progress card (PNG)</button>
+          <button class="btn btn-blue" type="button" id="export">Export JSON</button>
+          <label class="btn btn-light" for="import" style="cursor:pointer">Import JSON</label><input id="import" type="file" accept="application/json,.json" class="sr-only">
+        </div>
+        <p class="note" id="io-note" role="status" style="margin-top:10px"></p>
+        <canvas id="share-canvas" width="1080" height="1350" class="share-preview" hidden aria-label="Preview of your progress card"></canvas>
+        <p><a id="card-dl" class="btn btn-sm" download="linguabomb-progress.png" hidden>Download PNG</a></p>
+      </div>
+
+      <div class="card" style="margin-top:20px;display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap">
+        <div><b>Reset data</b><p class="note" style="margin:0">Clears XP, streaks, badges and synced sessions from this browser. This cannot be undone. Export first if unsure.</p></div>
+        <button class="btn btn-light danger" type="button" id="reset">Reset data</button>
+      </div>
+    </div>
+  </section>
+</main>
+<dialog id="confirm" aria-labelledby="confirm-t">
+  <form method="dialog">
+    <h2 id="confirm-t" style="font-size:1.3rem">Reset all progress?</h2>
+    <p>Your XP, streaks, badges and synced sessions on this device will be erased.</p>
+    <div class="btn-row"><button class="btn btn-ghost" value="cancel" style="border:1.5px solid #111">Cancel</button><button class="btn danger" value="yes" id="confirm-yes">Yes, reset</button></div>
+  </form>
+</dialog>
+
+<div id="site-footer"></div>
+<script src="js/progress.js"></script>
+<script src="js/speech.js"></script>
+<script src="js/site.js"></script>
+<script src="js/coach.js"></script>
+<script src="js/progress-page.js"></script>
+</body>
+</html>

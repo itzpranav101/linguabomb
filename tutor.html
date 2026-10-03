@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Tutor - LinguaBomb</title>
+<meta name="description" content="Chat with the LinguaBomb AI tutor and sync your progress code to earn XP.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="LinguaBomb">
+<meta property="og:title" content="AI Tutor - LinguaBomb">
+<meta property="og:description" content="Chat with the LinguaBomb AI tutor and sync your progress code to earn XP.">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#ddff6e">
+<script>try{var t=localStorage.getItem('lingua.theme');if(t)document.documentElement.setAttribute('data-theme',t);else if(matchMedia('(prefers-color-scheme: dark)').matches)document.documentElement.setAttribute('data-theme','dark')}catch(e){}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/upgrade.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='15' cy='18' r='11' fill='%23111'/%3E%3Ccircle cx='27' cy='4' r='3' fill='%236c8bff'/%3E%3C/svg%3E">
+</head>
+<body data-page="tutor">
+<div id="site-header"></div>
+<main id="main">
+  <div class="tutor-layout">
+    <section class="chat-area" aria-label="AI tutor chat">
+      <div class="chip-row" id="chips" role="group" aria-label="Quick prompts: click to copy, then paste into the chat">
+        <span class="hint-line" style="align-self:center">Quick prompts (click to copy):</span>
+      </div>
+      <div class="chat-frame">
+        <div class="chat-card">
+          <div class="chat-head"><span class="dot" aria-hidden="true"></span><b id="tutor-name">Your AI tutor</b><span style="margin-left:auto;font-size:.8rem" id="tutor-sub">Online</span></div>
+          <div id="chatling-slot">
+            <!-- CHATLING EMBED: paste snippet here -->
+            <script> window.chtlConfig = { chatbotId: "7428719251", display: "page_inline" } </script>
+            <div id="chtl-inline-bot" style="width: 100%; height: 640px;"></div>
+            <script async data-id="7428719251" data-display="page_inline" id="chtl-script" type="text/javascript" src="https://chatling.ai/js/embed.js"></script>
+            <!-- END CHATLING EMBED -->
+            <div class="placeholder" id="chatling-placeholder">
+              <div class="bot" aria-hidden="true">🤖</div>
+              <h1 class="h2" style="font-size:1.8rem">Your <span class="pill pink">AI tutor</span> is getting locked in</h1>
+              <p class="lead" style="margin-inline:auto" id="tutor-pick">The chat widget has not been connected yet. Hang tight.</p>
+              <ol>
+                <li>Open <code>tutor.html</code> in a text editor.</li>
+                <li>Paste your Chatling embed snippet where it says <code>CHATLING EMBED: paste snippet here</code>.</li>
+                <li>Save and refresh. This card hides itself once a script or iframe is found in the slot.</li>
+              </ol>
+              <p class="note">While you wait, browse the <a href="culture.html">Culture Capsules</a>.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <aside class="side" aria-label="Session and sync">
+      <div class="session-card" aria-labelledby="sess-t">
+        <h3 id="sess-t">Session</h3>
+        <label>Your name<input id="s-name" type="text" maxlength="24" autocomplete="nickname" placeholder="Learner"></label>
+        <label>Language<select id="s-lang"><option value="en">English</option><option value="hi">Hindi</option><option value="es" selected>Spanish</option><option value="fr">French</option><option value="zh">Mandarin</option></select></label>
+        <label>Level<select id="s-level"><option value="B">Beginner</option><option value="I">Intermediate</option><option value="A">Advanced</option></select></label>
+        <div class="session-grid" aria-live="polite">
+          <div><b id="m-today">0</b><span>XP gained today</span></div>
+          <div><b id="m-streak">0</b><span>day streak</span></div>
+          <div><b id="m-xp">0</b><span>total XP</span></div>
+          <div><b id="m-rank">Newbie</b><span>rank</span></div>
+        </div>
+        <span class="hint-line" id="adapter-note" style="color:inherit;opacity:.75"></span>
+      </div>
+
+      <div>
+        <h2 id="sync-title">Auto sync</h2>
+        <div class="autosync" role="status"><span class="big" aria-hidden="true">⚡</span><div><b>Locked in, zero copy-paste.</b><br><small>Chat, finish an activity, and your XP lands here on its own. Look for the Live sync pill up top.</small></div></div>
+      </div>
+      <div class="detected" id="detected" role="status" aria-live="polite">
+        <svg class="tick" viewBox="0 0 44 44" aria-hidden="true"><circle cx="22" cy="22" r="22"/><path d="M12 23l7 7 13-15"/></svg>
+        <div><b>Progress landed!</b><br><span id="detected-msg"></span></div>
+      </div>
+      <div class="coach-card" data-coach="compact" aria-label="AI Coach"></div>
+      <details class="manual" id="manual">
+        <summary>Advanced: paste a code manually</summary>
+        <ol class="steps-list" id="sync-steps" style="margin:10px 0">
+          <li id="st1">Finish a module or quiz with the tutor.</li>
+          <li id="st2">Copy the progress code it prints, like <code>LB-ES-B-7-LGPRQ</code>.</li>
+          <li id="st3">Paste it below and press Sync.</li>
+          <li id="st4">XP, streak and badges update instantly.</li>
+        </ol>
+        <form class="field" id="sync-form" novalidate>
+          <label for="code"><b>Progress code</b></label>
+          <input id="code" name="code" type="text" inputmode="text" autocomplete="off" autocapitalize="characters" spellcheck="false" placeholder="LB-ES-B-7-LGPRQ" aria-describedby="code-status">
+          <div style="display:flex;gap:10px;flex-wrap:wrap">
+            <button class="btn" type="submit">Sync</button>
+            <button class="btn btn-ghost" type="button" id="paste" style="border:1.5px solid var(--ink)">Paste from clipboard</button>
+            <button class="btn btn-ghost" type="button" id="example" style="border:1.5px solid var(--ink)">Use example</button>
+          </div>
+          <div class="status" id="code-status" role="status" aria-live="polite"></div>
+        </form>
+        <div class="decoded" id="decoded" aria-live="polite"><p class="note" style="margin:0">Paste a code to see what it contains.</p></div>
+      </details>
+      <p><a class="btn btn-sm btn-ghost" href="progress.html" style="border:1.5px solid var(--ink)">Open dashboard</a></p>
+    </aside>
+  </div>
+</main>
+<div id="site-footer"></div>
+<script src="js/progress.js"></script>
+<script src="js/speech.js"></script>
+<script src="js/site.js"></script>
+<script src="js/coach.js"></script>
+<script src="js/tutor.js"></script>
+</body>
+</html>

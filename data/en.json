@@ -1,0 +1,3402 @@
+{
+ "lang": "en",
+ "name": "English",
+ "script": "Latin alphabet",
+ "source": "dataset",
+ "words": [
+  {
+   "w": "you",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "i",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "the",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "to",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "a",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "it",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "and",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "that",
+   "r": "",
+   "e": "Introducing a clause that is the object…"
+  },
+  {
+   "w": "of",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "is",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "in",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "what",
+   "r": "",
+   "e": "Which"
+  },
+  {
+   "w": "we",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "me",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "this",
+   "r": "",
+   "e": "The here / The known"
+  },
+  {
+   "w": "he",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "for",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "my",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "on",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "have",
+   "r": "",
+   "e": "To possess, own"
+  },
+  {
+   "w": "your",
+   "r": "",
+   "e": "Belonging to you, of you, related to you"
+  },
+  {
+   "w": "do",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "was",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "no",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "not",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "be",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "are",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "know",
+   "r": "",
+   "e": "Used at the end of a sentence to draw…"
+  },
+  {
+   "w": "can",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "with",
+   "r": "",
+   "e": "Against"
+  },
+  {
+   "w": "but",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "all",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "so",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "just",
+   "r": "",
+   "e": "Only, simply, merely"
+  },
+  {
+   "w": "there",
+   "r": "",
+   "e": "In or at a place or location that is…"
+  },
+  {
+   "w": "here",
+   "r": "",
+   "e": "In, on, or at this place, compare there"
+  },
+  {
+   "w": "they",
+   "r": "",
+   "e": "A group of entities previously mentioned"
+  },
+  {
+   "w": "like",
+   "r": "",
+   "e": "Likely / In a like or similar manner"
+  },
+  {
+   "w": "get",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "she",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "go",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "if",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "right",
+   "r": "",
+   "e": "On the right side / Towards the right side"
+  },
+  {
+   "w": "out",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "about",
+   "r": "",
+   "e": "In a circle around, all round"
+  },
+  {
+   "w": "up",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "at",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "him",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "now",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "oh",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "one",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "come",
+   "r": "",
+   "e": "Used to indicate a point in time at or…"
+  },
+  {
+   "w": "well",
+   "r": "",
+   "e": "Accurately, competently, satisfactorily"
+  },
+  {
+   "w": "her",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "how",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "yeah",
+   "r": "",
+   "e": "Yes"
+  },
+  {
+   "w": "will",
+   "r": "",
+   "e": "To be able to, to have the capacity to"
+  },
+  {
+   "w": "got",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "want",
+   "r": "",
+   "e": "To wish for or desire"
+  },
+  {
+   "w": "think",
+   "r": "",
+   "e": "To ponder, to go over in one's mind"
+  },
+  {
+   "w": "as",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "see",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "did",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "good",
+   "r": "",
+   "e": "That is good"
+  },
+  {
+   "w": "who",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "why",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "from",
+   "r": "",
+   "e": "Used to indicate source or provenance"
+  },
+  {
+   "w": "let",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "his",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "yes",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "when",
+   "r": "",
+   "e": "At what time? At which time? Upon which…"
+  },
+  {
+   "w": "going",
+   "r": "",
+   "e": "Attending or visiting habitually or…"
+  },
+  {
+   "w": "time",
+   "r": "",
+   "e": "Reminder by the umpire for the players…"
+  },
+  {
+   "w": "an",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "okay",
+   "r": "",
+   "e": "To approve, to accept"
+  },
+  {
+   "w": "back",
+   "r": "",
+   "e": "To or in a previous condition or place"
+  },
+  {
+   "w": "look",
+   "r": "",
+   "e": "Pay attention"
+  },
+  {
+   "w": "us",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "would",
+   "r": "",
+   "e": "Used to denote that the speaker… (form…"
+  },
+  {
+   "w": "them",
+   "r": "",
+   "e": "Those ones"
+  },
+  {
+   "w": "where",
+   "r": "",
+   "e": "In, at or to what place"
+  },
+  {
+   "w": "were",
+   "r": "",
+   "e": "As an auxiliary verb (form of be)"
+  },
+  {
+   "w": "take",
+   "r": "",
+   "e": "To get into one's hands, possession"
+  },
+  {
+   "w": "then",
+   "r": "",
+   "e": "At that time / Soon afterward"
+  },
+  {
+   "w": "had",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "or",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "been",
+   "r": "",
+   "e": "As an auxiliary verb (form of be)"
+  },
+  {
+   "w": "our",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "gonna",
+   "r": "",
+   "e": "A modal used to express a future action…"
+  },
+  {
+   "w": "tell",
+   "r": "",
+   "e": "Mental senses related to determining"
+  },
+  {
+   "w": "really",
+   "r": "",
+   "e": "In a way or manner that is real"
+  },
+  {
+   "w": "man",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "some",
+   "r": "",
+   "e": "A certain number / An indefinite quantity"
+  },
+  {
+   "w": "say",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "hey",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "could",
+   "r": "",
+   "e": "conditional of can"
+  },
+  {
+   "w": "by",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "need",
+   "r": "",
+   "e": "To have an absolute requirement for"
+  },
+  {
+   "w": "something",
+   "r": "",
+   "e": "An uncertain or unspecified thing"
+  },
+  {
+   "w": "has",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "too",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "more",
+   "r": "",
+   "e": "Additional, further"
+  },
+  {
+   "w": "way",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "down",
+   "r": "",
+   "e": "From a higher position to a lower one"
+  },
+  {
+   "w": "make",
+   "r": "",
+   "e": "To create"
+  },
+  {
+   "w": "very",
+   "r": "",
+   "e": "To a great extent or degree"
+  },
+  {
+   "w": "never",
+   "r": "",
+   "e": "At no time, on no occasion"
+  },
+  {
+   "w": "only",
+   "r": "",
+   "e": "Without others or anything further"
+  },
+  {
+   "w": "people",
+   "r": "",
+   "e": "To interact with people, to socialize"
+  },
+  {
+   "w": "over",
+   "r": "",
+   "e": "Describing a physical change of position…"
+  },
+  {
+   "w": "because",
+   "r": "",
+   "e": "By or for the cause that"
+  },
+  {
+   "w": "little",
+   "r": "",
+   "e": "Not much / Not at all"
+  },
+  {
+   "w": "please",
+   "r": "",
+   "e": "Used to make a polite request"
+  },
+  {
+   "w": "love",
+   "r": "",
+   "e": "To have a strong affection for"
+  },
+  {
+   "w": "should",
+   "r": "",
+   "e": "Used before a verb to indicate the……"
+  },
+  {
+   "w": "mean",
+   "r": "",
+   "e": "To intend"
+  },
+  {
+   "w": "said",
+   "r": "",
+   "e": "Mentioned earlier, aforesaid"
+  },
+  {
+   "w": "sorry",
+   "r": "",
+   "e": "Expresses regret, remorse, or sorrow"
+  },
+  {
+   "w": "give",
+   "r": "",
+   "e": "To move, shift"
+  },
+  {
+   "w": "off",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "am",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "thank",
+   "r": "",
+   "e": "To express appreciation or gratitude…"
+  },
+  {
+   "w": "any",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "two",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "even",
+   "r": "",
+   "e": "Exactly, just, fully / In reality"
+  },
+  {
+   "w": "much",
+   "r": "",
+   "e": "A large amount of"
+  },
+  {
+   "w": "doing",
+   "r": "",
+   "e": "The sound made by an elastic object when…"
+  },
+  {
+   "w": "sure",
+   "r": "",
+   "e": "Without doubt, certainly"
+  },
+  {
+   "w": "thing",
+   "r": "",
+   "e": "To express as a thing, to reify"
+  },
+  {
+   "w": "these",
+   "r": "",
+   "e": "The here (form of this)"
+  },
+  {
+   "w": "help",
+   "r": "",
+   "e": "A cry of distress or an urgent request…"
+  },
+  {
+   "w": "first",
+   "r": "",
+   "e": "Before anything else, firstly"
+  },
+  {
+   "w": "into",
+   "r": "",
+   "e": "To or towards the inside of"
+  },
+  {
+   "w": "anything",
+   "r": "",
+   "e": "Any object, act, state, event"
+  },
+  {
+   "w": "still",
+   "r": "",
+   "e": "Without motion"
+  },
+  {
+   "w": "find",
+   "r": "",
+   "e": "To locate"
+  },
+  {
+   "w": "life",
+   "r": "",
+   "e": "Synonym of God's life"
+  },
+  {
+   "w": "nothing",
+   "r": "",
+   "e": "Not any thing, no thing"
+  },
+  {
+   "w": "sir",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "day",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "work",
+   "r": "",
+   "e": "To do a specific task by employing…"
+  },
+  {
+   "w": "their",
+   "r": "",
+   "e": "Belonging to, from, of, or relating to"
+  },
+  {
+   "w": "uh",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "again",
+   "r": "",
+   "e": "Another time"
+  },
+  {
+   "w": "maybe",
+   "r": "",
+   "e": "Perhaps, possibly / Perhaps that is true"
+  },
+  {
+   "w": "must",
+   "r": "",
+   "e": "To do as a requirement"
+  },
+  {
+   "w": "before",
+   "r": "",
+   "e": "Earlier than / In front of in space"
+  },
+  {
+   "w": "other",
+   "r": "",
+   "e": "Not the one or ones previously referred to"
+  },
+  {
+   "w": "wait",
+   "r": "",
+   "e": "Tells the other speaker to stop talking"
+  },
+  {
+   "w": "stop",
+   "r": "",
+   "e": "To cease moving / Not to continue"
+  },
+  {
+   "w": "call",
+   "r": "",
+   "e": "To reach out with one's voice"
+  },
+  {
+   "w": "after",
+   "r": "",
+   "e": "Behind, later in time, following"
+  },
+  {
+   "w": "talk",
+   "r": "",
+   "e": "To communicate, usually by means of speech"
+  },
+  {
+   "w": "away",
+   "r": "",
+   "e": "From a place, hence"
+  },
+  {
+   "w": "than",
+   "r": "",
+   "e": "Used in comparisons"
+  },
+  {
+   "w": "thought",
+   "r": "",
+   "e": "To ponder"
+  },
+  {
+   "w": "home",
+   "r": "",
+   "e": "To one's home"
+  },
+  {
+   "w": "night",
+   "r": "",
+   "e": "To spend a night, to overnight"
+  },
+  {
+   "w": "put",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "great",
+   "r": "",
+   "e": "Expression of gladness and content about…"
+  },
+  {
+   "w": "those",
+   "r": "",
+   "e": "The indicated or understood from… (form…"
+  },
+  {
+   "w": "last",
+   "r": "",
+   "e": "The immediately before the present"
+  },
+  {
+   "w": "better",
+   "r": "",
+   "e": "Had better"
+  },
+  {
+   "w": "everything",
+   "r": "",
+   "e": "All the things under discussion"
+  },
+  {
+   "w": "told",
+   "r": "",
+   "e": "Mental senses related to determining…"
+  },
+  {
+   "w": "new",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "things",
+   "r": "",
+   "e": "To express as a thing"
+  },
+  {
+   "w": "always",
+   "r": "",
+   "e": "At all times, throughout all time"
+  },
+  {
+   "w": "keep",
+   "r": "",
+   "e": "To continue in"
+  },
+  {
+   "w": "long",
+   "r": "",
+   "e": "Over a great distance in space"
+  },
+  {
+   "w": "years",
+   "r": "",
+   "e": "A period of time akin to the time… (form…"
+  },
+  {
+   "w": "leave",
+   "r": "",
+   "e": "To have a consequence or remnant"
+  },
+  {
+   "w": "does",
+   "r": "",
+   "e": "A syntactic marker (form of do)"
+  },
+  {
+   "w": "money",
+   "r": "",
+   "e": "Cool, excellent"
+  },
+  {
+   "w": "around",
+   "r": "",
+   "e": "Forming a circle or closed curve…"
+  },
+  {
+   "w": "name",
+   "r": "",
+   "e": "To give a name to / To mention, specify"
+  },
+  {
+   "w": "place",
+   "r": "",
+   "e": "To put in a specific location"
+  },
+  {
+   "w": "ever",
+   "r": "",
+   "e": "Always, frequently, forever"
+  },
+  {
+   "w": "feel",
+   "r": "",
+   "e": "To use or experience the sense of touch"
+  },
+  {
+   "w": "guys",
+   "r": "",
+   "e": "To exhibit an effigy of Guy Fawkes……"
+  },
+  {
+   "w": "father",
+   "r": "",
+   "e": "To be a father to, to sire"
+  },
+  {
+   "w": "guy",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "made",
+   "r": "",
+   "e": "To create (form of make)"
+  },
+  {
+   "w": "old",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "which",
+   "r": "",
+   "e": "What, of those mentioned or implied"
+  },
+  {
+   "w": "big",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "lot",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "done",
+   "r": "",
+   "e": "Expresses that a task has been completed"
+  },
+  {
+   "w": "hello",
+   "r": "",
+   "e": "A greeting said when meeting someone or…"
+  },
+  {
+   "w": "nice",
+   "r": "",
+   "e": "Nicely"
+  },
+  {
+   "w": "believe",
+   "r": "",
+   "e": "To accept as true"
+  },
+  {
+   "w": "girl",
+   "r": "",
+   "e": "To feminize or girlify"
+  },
+  {
+   "w": "someone",
+   "r": "",
+   "e": "Not specified (form of unspecified)"
+  },
+  {
+   "w": "fine",
+   "r": "",
+   "e": "Well, nicely, in a positive, agreeable way"
+  },
+  {
+   "w": "thanks",
+   "r": "",
+   "e": "Used to express appreciation or gratitude"
+  },
+  {
+   "w": "wanted",
+   "r": "",
+   "e": "To wish for or desire (form of want)"
+  },
+  {
+   "w": "kind",
+   "r": "",
+   "e": "Having a benevolent, courteous, friendly"
+  },
+  {
+   "w": "coming",
+   "r": "",
+   "e": "Used to express that one is on the way"
+  },
+  {
+   "w": "house",
+   "r": "",
+   "e": "To keep within a structure or container"
+  },
+  {
+   "w": "every",
+   "r": "",
+   "e": "All of a countable group"
+  },
+  {
+   "w": "ok",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "through",
+   "r": "",
+   "e": "From one side or end of to the other"
+  },
+  {
+   "w": "being",
+   "r": "",
+   "e": "Given that, since"
+  },
+  {
+   "w": "course",
+   "r": "",
+   "e": "To run or flow / To run through or over"
+  },
+  {
+   "w": "stay",
+   "r": "",
+   "e": "Aspect marker indicating frequency or…"
+  },
+  {
+   "w": "left",
+   "r": "",
+   "e": "On the left side / Towards the left side"
+  },
+  {
+   "w": "dad",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "enough",
+   "r": "",
+   "e": "Sufficient, all that is required, needed"
+  },
+  {
+   "w": "happened",
+   "r": "",
+   "e": "To occur or take place (form of happen)"
+  },
+  {
+   "w": "came",
+   "r": "",
+   "e": "Used to indicate that the following event"
+  },
+  {
+   "w": "may",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "mother",
+   "r": "",
+   "e": "To give birth to or produce a child"
+  },
+  {
+   "w": "wrong",
+   "r": "",
+   "e": "In a way that isn't right, incorrectly"
+  },
+  {
+   "w": "world",
+   "r": "",
+   "e": "To consider or cause to be considered…"
+  },
+  {
+   "w": "bad",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "might",
+   "r": "",
+   "e": "simple past of may"
+  },
+  {
+   "w": "three",
+   "r": "",
+   "e": "A numerical value equal to 3"
+  },
+  {
+   "w": "today",
+   "r": "",
+   "e": "On the current day or date"
+  },
+  {
+   "w": "listen",
+   "r": "",
+   "e": "To use one's sense of hearing and…"
+  },
+  {
+   "w": "another",
+   "r": "",
+   "e": "One more further"
+  },
+  {
+   "w": "understand",
+   "r": "",
+   "e": "Uh-huh, I see"
+  },
+  {
+   "w": "hear",
+   "r": "",
+   "e": "you hear me"
+  },
+  {
+   "w": "remember",
+   "r": "",
+   "e": "To recall from one's memory"
+  },
+  {
+   "w": "ask",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "own",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "same",
+   "r": "",
+   "e": "The same way, in the same manner"
+  },
+  {
+   "w": "show",
+   "r": "",
+   "e": "To display, convey or exhibit"
+  },
+  {
+   "w": "else",
+   "r": "",
+   "e": "Otherwise, if not"
+  },
+  {
+   "w": "talking",
+   "r": "",
+   "e": "To communicate (form of talk)"
+  },
+  {
+   "w": "found",
+   "r": "",
+   "e": "To locate (form of find)"
+  },
+  {
+   "w": "next",
+   "r": "",
+   "e": "Denotes the one immediately following…"
+  },
+  {
+   "w": "getting",
+   "r": "",
+   "e": "To obtain, to acquire (form of get)"
+  },
+  {
+   "w": "care",
+   "r": "",
+   "e": "To be concerned, to have an interest"
+  },
+  {
+   "w": "car",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "looking",
+   "r": "",
+   "e": "as the last part of compound adjectives"
+  },
+  {
+   "w": "son",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "try",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "woman",
+   "r": "",
+   "e": "To staff with female labor"
+  },
+  {
+   "w": "went",
+   "r": "",
+   "e": "To move (form of go)"
+  },
+  {
+   "w": "hi",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "many",
+   "r": "",
+   "e": "before a countable noun"
+  },
+  {
+   "w": "mind",
+   "r": "",
+   "e": "To bring or recall to mind, to remember"
+  },
+  {
+   "w": "friend",
+   "r": "",
+   "e": "To act as a friend to, to befriend"
+  },
+  {
+   "w": "best",
+   "r": "",
+   "e": "To the most advantage"
+  },
+  {
+   "w": "mom",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "morning",
+   "r": "",
+   "e": "Used as a greeting when meeting… (form…"
+  },
+  {
+   "w": "trying",
+   "r": "",
+   "e": "To attempt (form of try)"
+  },
+  {
+   "w": "boy",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "together",
+   "r": "",
+   "e": "At the same time, in the same place"
+  },
+  {
+   "w": "yourself",
+   "r": "",
+   "e": "Your own self"
+  },
+  {
+   "w": "job",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "saw",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "family",
+   "r": "",
+   "e": "Suitable for children and adults"
+  },
+  {
+   "w": "real",
+   "r": "",
+   "e": "Really, very"
+  },
+  {
+   "w": "without",
+   "r": "",
+   "e": "Outside, externally"
+  },
+  {
+   "w": "baby",
+   "r": "",
+   "e": "To coddle"
+  },
+  {
+   "w": "room",
+   "r": "",
+   "e": "Far, at a distance"
+  },
+  {
+   "w": "already",
+   "r": "",
+   "e": "Prior to some specified time, either past"
+  },
+  {
+   "w": "move",
+   "r": "",
+   "e": "To change place or posture, to go"
+  },
+  {
+   "w": "most",
+   "r": "",
+   "e": "To a great extent or degree, highly, very"
+  },
+  {
+   "w": "seen",
+   "r": "",
+   "e": "Indicates comprehension on the part of…"
+  },
+  {
+   "w": "live",
+   "r": "",
+   "e": "Of an event, as it happens, in real time"
+  },
+  {
+   "w": "miss",
+   "r": "",
+   "e": "To fail to hit, catch, grasp, etc"
+  },
+  {
+   "w": "actually",
+   "r": "",
+   "e": "In act or in fact, really, in truth"
+  },
+  {
+   "w": "huh",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "both",
+   "r": "",
+   "e": "Each of the two, one and the other"
+  },
+  {
+   "w": "heard",
+   "r": "",
+   "e": "I understand, gotcha"
+  },
+  {
+   "w": "once",
+   "r": "",
+   "e": "One and only one time"
+  },
+  {
+   "w": "ready",
+   "r": "",
+   "e": "To prepare, to make ready for action"
+  },
+  {
+   "w": "head",
+   "r": "",
+   "e": "To be in command of"
+  },
+  {
+   "w": "called",
+   "r": "",
+   "e": "To reach out with one's voice (form of…"
+  },
+  {
+   "w": "used",
+   "r": "",
+   "e": "In used to"
+  },
+  {
+   "w": "idea",
+   "r": "",
+   "e": "An abstract archetype of a given thing"
+  },
+  {
+   "w": "knew",
+   "r": "",
+   "e": "To perceive the truth or factuality……"
+  },
+  {
+   "w": "hold",
+   "r": "",
+   "e": "To grasp or grip / To contain or store"
+  },
+  {
+   "w": "happy",
+   "r": "",
+   "e": "Often followed by up"
+  },
+  {
+   "w": "door",
+   "r": "",
+   "e": "To cause a collision by opening the door…"
+  },
+  {
+   "w": "such",
+   "r": "",
+   "e": "Like this, that, these, those"
+  },
+  {
+   "w": "brother",
+   "r": "",
+   "e": "Expressing exasperation"
+  },
+  {
+   "w": "also",
+   "r": "",
+   "e": "In addition, besides, as well, further"
+  },
+  {
+   "w": "pretty",
+   "r": "",
+   "e": "Somewhat, fairly, quite"
+  },
+  {
+   "w": "bit",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "took",
+   "r": "",
+   "e": "To get into one's hands"
+  },
+  {
+   "w": "yet",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "men",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "whole",
+   "r": "",
+   "e": "In entirety, entirely, wholly"
+  },
+  {
+   "w": "start",
+   "r": "",
+   "e": "To begin, commence, initiate"
+  },
+  {
+   "w": "use",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "while",
+   "r": "",
+   "e": "During the same time that / Although"
+  },
+  {
+   "w": "since",
+   "r": "",
+   "e": "From a specified time in the past"
+  },
+  {
+   "w": "wife",
+   "r": "",
+   "e": "To marry"
+  },
+  {
+   "w": "days",
+   "r": "",
+   "e": "During the day"
+  },
+  {
+   "w": "guess",
+   "r": "",
+   "e": "To reach a partly unconfirmed conclusion"
+  },
+  {
+   "w": "tomorrow",
+   "r": "",
+   "e": "On the day after the present day"
+  },
+  {
+   "w": "matter",
+   "r": "",
+   "e": "To be important"
+  },
+  {
+   "w": "meet",
+   "r": "",
+   "e": "To make contact while in proximity"
+  },
+  {
+   "w": "bring",
+   "r": "",
+   "e": "The sound of a telephone ringing"
+  },
+  {
+   "w": "tonight",
+   "r": "",
+   "e": "During the night following the current…"
+  },
+  {
+   "w": "everyone",
+   "r": "",
+   "e": "Every individual in a set, every person"
+  },
+  {
+   "w": "run",
+   "r": "",
+   "e": ""
+  }
+ ],
+ "phrases": [
+  {
+   "cat": "Essentials",
+   "t": "Hello",
+   "r": "",
+   "e": "Hola",
+   "tr": {
+    "hi": "नमस्ते (namaste)",
+    "es": "Hola",
+    "fr": "Bonjour",
+    "zh": "你好 (nǐ hǎo)"
+   }
+  },
+  {
+   "cat": "Essentials",
+   "t": "Thank you",
+   "r": "",
+   "e": "Gracias",
+   "tr": {
+    "hi": "धन्यवाद (dhanyavaad)",
+    "es": "Gracias",
+    "fr": "Merci",
+    "zh": "谢谢 (xièxie)"
+   }
+  },
+  {
+   "cat": "Essentials",
+   "t": "Please",
+   "r": "",
+   "e": "Por favor",
+   "tr": {
+    "hi": "कृपया (kripayaa)",
+    "es": "Por favor",
+    "fr": "S'il vous plaît",
+    "zh": "请 (qǐng)"
+   }
+  },
+  {
+   "cat": "Essentials",
+   "t": "Goodbye",
+   "r": "",
+   "e": "Adiós",
+   "tr": {
+    "hi": "अलविदा (alvidaa)",
+    "es": "Adiós",
+    "fr": "Au revoir",
+    "zh": "再见 (zàijiàn)"
+   }
+  },
+  {
+   "cat": "Essentials",
+   "t": "Yes",
+   "r": "",
+   "e": "Sí",
+   "tr": {
+    "hi": "हाँ (haan)",
+    "es": "Sí",
+    "fr": "Oui",
+    "zh": "是 (shì)"
+   }
+  },
+  {
+   "cat": "Essentials",
+   "t": "No",
+   "r": "",
+   "e": "No",
+   "tr": {
+    "hi": "नहीं (nahin)",
+    "es": "No",
+    "fr": "Non",
+    "zh": "不是 (bú shì)"
+   }
+  },
+  {
+   "cat": "Essentials",
+   "t": "Sorry",
+   "r": "",
+   "e": "Lo siento",
+   "tr": {
+    "hi": "माफ़ कीजिए (maaf keejiye)",
+    "es": "Lo siento",
+    "fr": "Désolé",
+    "zh": "对不起 (duìbuqǐ)"
+   }
+  },
+  {
+   "cat": "Essentials",
+   "t": "How are you?",
+   "r": "",
+   "e": "¿Cómo estás?",
+   "tr": {
+    "hi": "आप कैसे हैं? (aap kaise hain?)",
+    "es": "¿Cómo estás?",
+    "fr": "Comment allez-vous ?",
+    "zh": "你好吗？ (nǐ hǎo ma?)"
+   }
+  },
+  {
+   "cat": "Essentials",
+   "t": "My name is ...",
+   "r": "",
+   "e": "Me llamo ...",
+   "tr": {
+    "hi": "मेरा नाम ... है। (meraa naam ... hai.)",
+    "es": "Me llamo ...",
+    "fr": "Je m'appelle ...",
+    "zh": "我叫…… (wǒ jiào ...)"
+   }
+  },
+  {
+   "cat": "Essentials",
+   "t": "Where is the toilet?",
+   "r": "",
+   "e": "¿Dónde está el baño?",
+   "tr": {
+    "hi": "शौचालय कहाँ है? (shauchaalay kahaan hai?)",
+    "es": "¿Dónde está el baño?",
+    "fr": "Où sont les toilettes ?",
+    "zh": "厕所在哪里？ (cèsuǒ zài nǎlǐ?)"
+   }
+  },
+  {
+   "cat": "Essentials",
+   "t": "How much is it?",
+   "r": "",
+   "e": "¿Cuánto cuesta?",
+   "tr": {
+    "hi": "यह कितने का है? (yah kitne kaa hai?)",
+    "es": "¿Cuánto cuesta?",
+    "fr": "Combien ça coûte ?",
+    "zh": "多少钱？ (duōshao qián?)"
+   }
+  },
+  {
+   "cat": "Essentials",
+   "t": "I don't understand.",
+   "r": "",
+   "e": "No entiendo.",
+   "tr": {
+    "hi": "मुझे समझ नहीं आया। (mujhe samajh nahin aayaa.)",
+    "es": "No entiendo.",
+    "fr": "Je ne comprends pas.",
+    "zh": "我不明白。 (wǒ bù míngbai.)"
+   }
+  },
+  {
+   "cat": "Greetings",
+   "t": "How are you all?",
+   "r": "",
+   "e": "¿Cómo están todos?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Cómo están todos?",
+    "fr": "Comment allez-vous tous ?",
+    "zh": "大家好吗？ (dàjiā hǎo ma?)"
+   }
+  },
+  {
+   "cat": "Greetings",
+   "t": "See you again.",
+   "r": "",
+   "e": "Nos vemos luego.",
+   "tr": {
+    "hi": "-",
+    "es": "Nos vemos luego.",
+    "fr": "À plus.",
+    "zh": "再见！ (zàijiàn!)"
+   }
+  },
+  {
+   "cat": "Greetings",
+   "t": "Nice to meet you.",
+   "r": "",
+   "e": "Mucho gusto.",
+   "tr": {
+    "hi": "आपसे मिलकर खुशी हुई। (aapse milkar khushee huee.)",
+    "es": "Mucho gusto.",
+    "fr": "Je suis heureux de vous rencontrer.",
+    "zh": "很高兴认识你。 (hěn gāoxìng rènshí nǐ.)"
+   }
+  },
+  {
+   "cat": "Greetings",
+   "t": "Have a good time.",
+   "r": "",
+   "e": "Pásala bien.",
+   "tr": {
+    "hi": "मज़े करो। (maze karo.)",
+    "es": "Pásala bien.",
+    "fr": "Amuse-toi bien !",
+    "zh": "-"
+   }
+  },
+  {
+   "cat": "Greetings",
+   "t": "See you tomorrow.",
+   "r": "",
+   "e": "Hasta mañana.",
+   "tr": {
+    "hi": "-",
+    "es": "Hasta mañana.",
+    "fr": "À demain.",
+    "zh": "明天见。 (míngtiān jiàn.)"
+   }
+  },
+  {
+   "cat": "Greetings",
+   "t": "Have a nice time.",
+   "r": "",
+   "e": "Pásala bien.",
+   "tr": {
+    "hi": "मज़े करो। (maze karo.)",
+    "es": "Pásala bien.",
+    "fr": "Amuse-toi bien !",
+    "zh": "-"
+   }
+  },
+  {
+   "cat": "Greetings",
+   "t": "Take care of yourself.",
+   "r": "",
+   "e": "Cuídate.",
+   "tr": {
+    "hi": "अपना ख़याल रखना। (apnaa khayaal rakhnaa.)",
+    "es": "Cuídate.",
+    "fr": "Prends soin de toi.",
+    "zh": "照顾好自己。 (zhàogù hǎo zìjǐ.)"
+   }
+  },
+  {
+   "cat": "Greetings",
+   "t": "Good morning.",
+   "r": "",
+   "e": "Buenos días.",
+   "tr": {
+    "hi": "सुप्रभात! (suprabhaat!)",
+    "es": "Buenos días.",
+    "fr": "Bonjour !",
+    "zh": "早上好！ (zǎoshànghǎo!)"
+   }
+  },
+  {
+   "cat": "Greetings",
+   "t": "Take care!",
+   "r": "",
+   "e": "¡Cuidate!",
+   "tr": {
+    "hi": "अपना ध्यान रखना। (apnaa dhyaan rakhnaa.)",
+    "es": "¡Cuidate!",
+    "fr": "Prends bien soin de toi.",
+    "zh": "照顾好自己。 (zhàogù hǎo zìjǐ.)"
+   }
+  },
+  {
+   "cat": "Greetings",
+   "t": "Welcome back.",
+   "r": "",
+   "e": "Bienvenido de vuelta.",
+   "tr": {
+    "hi": "-",
+    "es": "Bienvenido de vuelta.",
+    "fr": "Sois de nouveau le bienvenu !",
+    "zh": "欢迎回来。 (huānyíng huílái.)"
+   }
+  },
+  {
+   "cat": "Greetings",
+   "t": "Good evening.",
+   "r": "",
+   "e": "Buenas tardes.",
+   "tr": {
+    "hi": "-",
+    "es": "Buenas tardes.",
+    "fr": "Bonsoir.",
+    "zh": "晚上好。 (wǎnshàng hǎo.)"
+   }
+  },
+  {
+   "cat": "Greetings",
+   "t": "Good afternoon.",
+   "r": "",
+   "e": "Buenas tardes.",
+   "tr": {
+    "hi": "-",
+    "es": "Buenas tardes.",
+    "fr": "Bonjour !",
+    "zh": "下午好。 (xiàwǔ hǎo.)"
+   }
+  },
+  {
+   "cat": "Introductions",
+   "t": "Who are you?",
+   "r": "",
+   "e": "¿Quiénes sois?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Quiénes sois?",
+    "fr": "Qui es-tu ?",
+    "zh": "你是谁？ (nǐ shì shuí?)"
+   }
+  },
+  {
+   "cat": "Introductions",
+   "t": "Where are you from?",
+   "r": "",
+   "e": "¿De dónde eres?",
+   "tr": {
+    "hi": "-",
+    "es": "¿De dónde eres?",
+    "fr": "Tu viens d'où ?",
+    "zh": "你是哪里的人？ (nǐ shì nǎlǐ de rén?)"
+   }
+  },
+  {
+   "cat": "Introductions",
+   "t": "This is my house.",
+   "r": "",
+   "e": "Esta es mi casa.",
+   "tr": {
+    "hi": "-",
+    "es": "Esta es mi casa.",
+    "fr": "C'est ma maison.",
+    "zh": "这个房子是我的。 (zhège fángzi shì wǒ de.)"
+   }
+  },
+  {
+   "cat": "Introductions",
+   "t": "This is my mother.",
+   "r": "",
+   "e": "Ésta es mi madre.",
+   "tr": {
+    "hi": "यह मेरी माँ है। (yah meree maan hai.)",
+    "es": "Ésta es mi madre.",
+    "fr": "C'est ma mère.",
+    "zh": "这是我的妈妈。 (zhè shì wǒ de māmā.)"
+   }
+  },
+  {
+   "cat": "Introductions",
+   "t": "Where do you live?",
+   "r": "",
+   "e": "¿Dónde vives?",
+   "tr": {
+    "hi": "आप कहाँ रहते हैं? (aap kahaan rahte hain?)",
+    "es": "¿Dónde vives?",
+    "fr": "Où habites-tu ?",
+    "zh": "您住在哪里？ (nín zhù zài nǎlǐ?)"
+   }
+  },
+  {
+   "cat": "Introductions",
+   "t": "Where do you live now?",
+   "r": "",
+   "e": "¿En dónde estás viviendo ahora?",
+   "tr": {
+    "hi": "-",
+    "es": "¿En dónde estás viviendo ahora?",
+    "fr": "Où habites-tu maintenant ?",
+    "zh": "你现在住在哪里？ (nǐ xiànzài zhù zài nǎlǐ?)"
+   }
+  },
+  {
+   "cat": "Introductions",
+   "t": "I live in a big city.",
+   "r": "",
+   "e": "Vivo en una gran ciudad.",
+   "tr": {
+    "hi": "मैं बड़े शहर में रहता हूँ। (main bare shahar men rahtaa hoon.)",
+    "es": "Vivo en una gran ciudad.",
+    "fr": "J'habite dans une grande ville.",
+    "zh": "我住在一个大城市里。 (wǒ zhù zài yígè dàchéngshì lǐ.)"
+   }
+  },
+  {
+   "cat": "Introductions",
+   "t": "She is five years old.",
+   "r": "",
+   "e": "Ella tiene cinco años.",
+   "tr": {
+    "hi": "वह पाँच साल की है। (vah paanca saal kee hai.)",
+    "es": "Ella tiene cinco años.",
+    "fr": "Elle a cinq ans.",
+    "zh": "-"
+   }
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "I like to eat.",
+   "r": "",
+   "e": "Me gusta comer.",
+   "tr": {
+    "hi": "मुझे खाना पसंद है। (mujhe khaanaa pasand hai.)",
+    "es": "Me gusta comer.",
+    "fr": "J'aime manger.",
+    "zh": "我喜欢吃。 (wǒ xǐhuān chī.)"
+   }
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Can I get you something to drink?",
+   "r": "",
+   "e": "¿Puedo ofrecerle algo de beber?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Puedo ofrecerle algo de beber?",
+    "fr": "Puis-je vous offrir quelque chose à boire ?",
+    "zh": "我可以带喝的东西给你吗? (wǒ kěyǐ dài hē de dōngxī gěi nǐ ma ?)"
+   }
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Can I eat this?",
+   "r": "",
+   "e": "¿Puedo comerme esto?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Puedo comerme esto?",
+    "fr": "Puis-je manger ceci ?",
+    "zh": "我可以吃这个吗? (wǒ kěyǐ chī zhège ma ?)"
+   }
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "This is a fish.",
+   "r": "",
+   "e": "Esto es un pez.",
+   "tr": {
+    "hi": "-",
+    "es": "Esto es un pez.",
+    "fr": "Ceci est un poisson.",
+    "zh": "这是一条鱼。 (zhèshì yītiáo yú.)"
+   }
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "This is the best restaurant that I know.",
+   "r": "",
+   "e": "Éste es el mejor restaurante que conozco.",
+   "tr": {
+    "hi": "-",
+    "es": "Éste es el mejor restaurante que conozco.",
+    "fr": "C'est le meilleur restaurant que je connaisse.",
+    "zh": "这是我知道的最好的餐馆。 (zhè shì wǒ zhīdào de zuìhǎo de cānguǎn.)"
+   }
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "I eat here.",
+   "r": "",
+   "e": "Como aquí.",
+   "tr": {
+    "hi": "-",
+    "es": "Como aquí.",
+    "fr": "Je mange ici.",
+    "zh": "我在这里吃。 (wǒ zài zhèlǐ chī.)"
+   }
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "I want something to drink.",
+   "r": "",
+   "e": "Quiero algo para beber.",
+   "tr": {
+    "hi": "-",
+    "es": "Quiero algo para beber.",
+    "fr": "Je veux quelque chose à boire.",
+    "zh": "我想喝点什么。 (wǒxiǎng hēdiǎn shénme.)"
+   }
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Are you hungry?",
+   "r": "",
+   "e": "¿Tiene usted hambre?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Tiene usted hambre?",
+    "fr": "Avez-vous faim ?",
+    "zh": "你肚子饿吗？ (nǐ dùziè ma?)"
+   }
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Would you like something to drink?",
+   "r": "",
+   "e": "¿Te gustaría beber algo?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Te gustaría beber algo?",
+    "fr": "Veux-tu quelque chose à boire ?",
+    "zh": "你想要什么喝的吗？ (nǐ xiǎngyào shénme hē de ma?)"
+   }
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Would you like to have some coffee?",
+   "r": "",
+   "e": "¿Te apetece un poco de café?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Te apetece un poco de café?",
+    "fr": "Voulez-vous un peu de café ?",
+    "zh": "你要喝点咖啡吗? (nǐ yào hēdiǎn kāfēi ma ?)"
+   }
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "I like tea.",
+   "r": "",
+   "e": "Me gusta el té.",
+   "tr": {
+    "hi": "मुझे चाय पसंद है। (mujhe caay pasand hai.)",
+    "es": "Me gusta el té.",
+    "fr": "J'aime le thé.",
+    "zh": "我喜欢茶。 (wǒ xǐhuān chá.)"
+   }
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "I need water.",
+   "r": "",
+   "e": "Necesito agua.",
+   "tr": {
+    "hi": "मुझे पानी की ज़रूरत है। (mujhe paanee kee zaroorat hai.)",
+    "es": "Necesito agua.",
+    "fr": "Il me faut de l'eau.",
+    "zh": "-"
+   }
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Come and have tea with me.",
+   "r": "",
+   "e": "Vení a tomar el té conmigo.",
+   "tr": {
+    "hi": "-",
+    "es": "Vení a tomar el té conmigo.",
+    "fr": "Venez prendre le thé avec moi.",
+    "zh": "来跟我喝茶吧。 (lái gēn wǒ hēchá ba.)"
+   }
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "There is no water.",
+   "r": "",
+   "e": "No hay agua.",
+   "tr": {
+    "hi": "-",
+    "es": "No hay agua.",
+    "fr": "Il n'y a pas d'eau.",
+    "zh": "没有水。 (méiyǒu shuǐ.)"
+   }
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "I want some water.",
+   "r": "",
+   "e": "Yo quiero agua.",
+   "tr": {
+    "hi": "मुझे थोड़ा सा पानी चाहिए। (mujhe thoraa saa paanee caahie.)",
+    "es": "Yo quiero agua.",
+    "fr": "Je veux de l'eau.",
+    "zh": "-"
+   }
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "I was very hungry.",
+   "r": "",
+   "e": "Tenía mucha hambre.",
+   "tr": {
+    "hi": "-",
+    "es": "Tenía mucha hambre.",
+    "fr": "J'avais très faim.",
+    "zh": "我很饿。 (wǒ hěn è.)"
+   }
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Can you come for dinner tonight?",
+   "r": "",
+   "e": "¿Puedes venir a cenar esta noche?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Puedes venir a cenar esta noche?",
+    "fr": "Est-ce que vous pouvez venir souper aujourd'hui ?",
+    "zh": "你今天晚上能来吃饭吗？ (nǐ jīntiān wǎnshàng néng lái chīfàn ma?)"
+   }
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "When I got home, I was very hungry.",
+   "r": "",
+   "e": "Cuando llegué a casa tenía mucha hambre.",
+   "tr": {
+    "hi": "-",
+    "es": "Cuando llegué a casa tenía mucha hambre.",
+    "fr": "Quand je suis rentrée, j'avais très faim.",
+    "zh": "我回到家的时候，感觉非常饿。 (wǒ huídào jiā de shíhòu, gǎnjué fēicháng è.)"
+   }
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "I love coffee.",
+   "r": "",
+   "e": "Me encanta el café.",
+   "tr": {
+    "hi": "-",
+    "es": "Me encanta el café.",
+    "fr": "J'adore le café.",
+    "zh": "我爱咖啡。 (wǒ ài kāfēi.)"
+   }
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "He is eating.",
+   "r": "",
+   "e": "Está comiendo.",
+   "tr": {
+    "hi": "वह खा रहा है। (vah khaa rahaa hai.)",
+    "es": "Está comiendo.",
+    "fr": "Il est en train de manger.",
+    "zh": "-"
+   }
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "I have a car.",
+   "r": "",
+   "e": "Tengo un coche.",
+   "tr": {
+    "hi": "मेरे पास एक गाड़ी है। (mere paas ek gaaree hai.)",
+    "es": "Tengo un coche.",
+    "fr": "J'ai une voiture.",
+    "zh": "我有一辆车。 (wǒ yǒu yīliàngchē.)"
+   }
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "I have to go to the bathroom.",
+   "r": "",
+   "e": "Tengo que ir al baño.",
+   "tr": {
+    "hi": "मुझे स्नानघर का प्रयोग करना है। (mujhe snaanghar kaa prayog karnaa hai.)",
+    "es": "Tengo que ir al baño.",
+    "fr": "Je dois me rendre aux toilettes.",
+    "zh": "我要去厕所。 (wǒyào qù cèsuǒ.)"
+   }
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Keep to the right.",
+   "r": "",
+   "e": "Quédate a la derecha.",
+   "tr": {
+    "hi": "-",
+    "es": "Quédate a la derecha.",
+    "fr": "Reste à droite.",
+    "zh": "靠右侧通行。 (kào yòucè tōngxíng.)"
+   }
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "I want to go to the bathroom.",
+   "r": "",
+   "e": "Quiero ir al baño.",
+   "tr": {
+    "hi": "-",
+    "es": "Quiero ir al baño.",
+    "fr": "Je veux aller aux toilettes.",
+    "zh": "我想去洗手间。 (wǒ xiǎng qù xǐshǒujiān.)"
+   }
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "I need to go to the bathroom.",
+   "r": "",
+   "e": "Necesito ir al baño.",
+   "tr": {
+    "hi": "-",
+    "es": "Necesito ir al baño.",
+    "fr": "Je dois aller aux toilettes.",
+    "zh": "我要上厕所。 (wǒyào shàng cèsuǒ.)"
+   }
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "I want to drive.",
+   "r": "",
+   "e": "Quiero conducir.",
+   "tr": {
+    "hi": "-",
+    "es": "Quiero conducir.",
+    "fr": "Je veux conduire.",
+    "zh": "我想开车。 (wǒ xiǎng kāichē.)"
+   }
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "How can I get to the station?",
+   "r": "",
+   "e": "¿Cómo puedo llegar a la estación?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Cómo puedo llegar a la estación?",
+    "fr": "Comment puis-je me rendre à la gare ?",
+    "zh": "我怎样才能到火车站？ (wǒ zěnyàngcáinéng dào huǒchēzhàn?)"
+   }
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "I like your car.",
+   "r": "",
+   "e": "Me gusta tu automóvil.",
+   "tr": {
+    "hi": "-",
+    "es": "Me gusta tu automóvil.",
+    "fr": "J'aime votre voiture.",
+    "zh": "我喜欢您的车。 (wǒ xǐhuān nín de chē.)"
+   }
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "How can I get in touch with you?",
+   "r": "",
+   "e": "¿Cómo puedo contactarme contigo?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Cómo puedo contactarme contigo?",
+    "fr": "Comment puis-je vous joindre ?",
+    "zh": "我怎么联系你？ (wǒ zěnme liánxì nǐ?)"
+   }
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "I wish I had a car.",
+   "r": "",
+   "e": "Ojalá tuviera un coche.",
+   "tr": {
+    "hi": "-",
+    "es": "Ojalá tuviera un coche.",
+    "fr": "J'aimerais avoir une voiture.",
+    "zh": "但愿我有一辆车。 (dànyuàn wǒ yǒu yīliàngchē.)"
+   }
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Can you drive?",
+   "r": "",
+   "e": "¿Tú puedes conducir?",
+   "tr": {
+    "hi": "तुम गाड़ी चला सकते हो क्या? (tum gaaree calaa sakte ho kyaa?)",
+    "es": "¿Tú puedes conducir?",
+    "fr": "Sais-tu conduire ?",
+    "zh": "您会开车吗？ (nín huì kāichē ma?)"
+   }
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Turn to the left.",
+   "r": "",
+   "e": "Gira a la izquierda.",
+   "tr": {
+    "hi": "-",
+    "es": "Gira a la izquierda.",
+    "fr": "Tourne à gauche.",
+    "zh": "向左转。 (xiàngzuǒzhuǎn.)"
+   }
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "I know how to drive a car.",
+   "r": "",
+   "e": "Sé cómo se conduce un coche.",
+   "tr": {
+    "hi": "मुझे गाड़ी चलाना आता है। (mujhe gaaree calaanaa aataa hai.)",
+    "es": "Sé cómo se conduce un coche.",
+    "fr": "Je sais comment conduire une voiture.",
+    "zh": "我会开车。 (wǒhuì kāichē.)"
+   }
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Take the first street to the right.",
+   "r": "",
+   "e": "Agarrá la primera calle a la derecha.",
+   "tr": {
+    "hi": "-",
+    "es": "Agarrá la primera calle a la derecha.",
+    "fr": "Prends la première rue sur le côté droit.",
+    "zh": "第一条街右转。 (dìyītiáo jiē yòuzhuǎn.)"
+   }
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Get on the horse.",
+   "r": "",
+   "e": "Súbete al caballo.",
+   "tr": {
+    "hi": "-",
+    "es": "Súbete al caballo.",
+    "fr": "Monte le cheval.",
+    "zh": "上马。 (shàngmǎ.)"
+   }
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Where is the hotel?",
+   "r": "",
+   "e": "¿Dónde está el hotel?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Dónde está el hotel?",
+    "fr": "Où est l'hôtel ?",
+    "zh": "旅馆在哪里？ (lǚguǎn zài nǎlǐ?)"
+   }
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Is it far from here?",
+   "r": "",
+   "e": "¿Está lejos de aquí?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Está lejos de aquí?",
+    "fr": "C'est loin d'ici ?",
+    "zh": "离这儿远吗？ (lí zhèér yuǎn ma?)"
+   }
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "I got on the wrong bus.",
+   "r": "",
+   "e": "Me subí al bus equivocado.",
+   "tr": {
+    "hi": "-",
+    "es": "Me subí al bus equivocado.",
+    "fr": "J'ai pris le mauvais bus.",
+    "zh": "我上错车了。 (wǒ shàng cuòchē le.)"
+   }
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Can I carry this on the plane?",
+   "r": "",
+   "e": "¿Puedo llevar esto en el avión?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Puedo llevar esto en el avión?",
+    "fr": "Est-ce que je peux emporter ça dans l'avion ?",
+    "zh": "我能把这个东西带到飞机上吗？ (wǒnéng bǎ zhège dōngxī dàidào fēijī shàng ma?)"
+   }
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "I met him at the station.",
+   "r": "",
+   "e": "Le conocí en la estación.",
+   "tr": {
+    "hi": "-",
+    "es": "Le conocí en la estación.",
+    "fr": "Je l'ai rencontré à la gare.",
+    "zh": "我在车站遇见他。 (wǒ zài chēzhàn yùjiàn tā.)"
+   }
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Are you over 18?",
+   "r": "",
+   "e": "¿Tienes más de 18 años?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Tienes más de 18 años?",
+    "fr": "Avez-vous plus de 18 ans ?",
+    "zh": "你有18岁了吗？ (nǐ yǒu 18 suì le ma?)"
+   }
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "I have money.",
+   "r": "",
+   "e": "Tengo dinero.",
+   "tr": {
+    "hi": "-",
+    "es": "Tengo dinero.",
+    "fr": "J'ai de l'argent.",
+    "zh": "我有钱。 (wǒ yǒuqián.)"
+   }
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "I know I owe you money.",
+   "r": "",
+   "e": "Sé que te debo dinero.",
+   "tr": {
+    "hi": "-",
+    "es": "Sé que te debo dinero.",
+    "fr": "Je sais que je te dois de l'argent.",
+    "zh": "我知道我欠你钱。 (wǒ zhīdào wǒ qiàn nǐ qián.)"
+   }
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "I have a little money.",
+   "r": "",
+   "e": "Tengo un poco de dinero.",
+   "tr": {
+    "hi": "-",
+    "es": "Tengo un poco de dinero.",
+    "fr": "J'ai un peu d'argent.",
+    "zh": "我有一些钱。 (wǒ yǒu yīxiē qián.)"
+   }
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Are you coming to the store with me?",
+   "r": "",
+   "e": "¿Vienes a la tienda conmigo?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Vienes a la tienda conmigo?",
+    "fr": "Viens-tu avec moi au magasin ?",
+    "zh": "你和我去商店吗？ (nǐ hé wǒ qù shāngdiàn ma?)"
+   }
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "I was born in 1979.",
+   "r": "",
+   "e": "Nací en 1979.",
+   "tr": {
+    "hi": "मैं १९७९ में पैदा हुआ था। (main 1979 men paidaa huaa thaa.)",
+    "es": "Nací en 1979.",
+    "fr": "Je suis né en 1979.",
+    "zh": "-"
+   }
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Will you show me what you bought?",
+   "r": "",
+   "e": "¿Me mostrarías lo que has comprado?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Me mostrarías lo que has comprado?",
+    "fr": "Me montres-tu ce que tu as acheté ?",
+    "zh": "你愿意给我看看你买了什么吗？ (nǐ yuànyì gěi wǒ kànkàn nǐ mǎi le shénme ma?)"
+   }
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "How much time do I have?",
+   "r": "",
+   "e": "¿Cuánto tiempo tengo?",
+   "tr": {
+    "hi": "मेरे पास कितना समय है? (mere paas kitnaa samay hai?)",
+    "es": "¿Cuánto tiempo tengo?",
+    "fr": "J'ai combien de temps ?",
+    "zh": "-"
+   }
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Did you pay for the book?",
+   "r": "",
+   "e": "¿Pagaste el libro?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Pagaste el libro?",
+    "fr": "As-tu payé pour le livre ?",
+    "zh": "你付钱买这本书了吗? (nǐ fùqián mǎi zhè běnshū le ma ?)"
+   }
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "He went to the store.",
+   "r": "",
+   "e": "Ha ido a la tienda.",
+   "tr": {
+    "hi": "-",
+    "es": "Ha ido a la tienda.",
+    "fr": "Il a été au magasin.",
+    "zh": "他去了商店。 (tā qù le shāngdiàn.)"
+   }
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "I bought a watch.",
+   "r": "",
+   "e": "He comprado un reloj.",
+   "tr": {
+    "hi": "-",
+    "es": "He comprado un reloj.",
+    "fr": "J'ai acheté une montre.",
+    "zh": "我买了一只手表。 (wǒ mǎi le yīzhī shǒubiǎo.)"
+   }
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Where do I pay for the gas?",
+   "r": "",
+   "e": "¿Dónde pago el gas?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Dónde pago el gas?",
+    "fr": "Où dois-je payer pour le gaz ?",
+    "zh": "我该在哪儿付煤气费？ (wǒ gāi zài nǎér fù méiqìfèi?)"
+   }
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "I paid the bill.",
+   "r": "",
+   "e": "Pagué la cuenta.",
+   "tr": {
+    "hi": "-",
+    "es": "Pagué la cuenta.",
+    "fr": "Je réglais l'addition.",
+    "zh": "我买了单。 (wǒ mǎi le dān.)"
+   }
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "He asked me what I had bought.",
+   "r": "",
+   "e": "Me preguntó qué había comprado.",
+   "tr": {
+    "hi": "-",
+    "es": "Me preguntó qué había comprado.",
+    "fr": "Il m'a demandé ce que j'avais acheté.",
+    "zh": "他问我买了什么。 (tā wèn wǒ mǎi le shénme.)"
+   }
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "I want to buy a new computer.",
+   "r": "",
+   "e": "Quiero comprar un ordenador nuevo.",
+   "tr": {
+    "hi": "मैं एक नया कम्प्यूटर खरीदना चाहता हूँ। (main ek nayaa kampyootar khareednaa caahtaa hoon.)",
+    "es": "Quiero comprar un ordenador nuevo.",
+    "fr": "Je désire acheter un nouvel ordinateur.",
+    "zh": "-"
+   }
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "I can walk to school in 10 minutes.",
+   "r": "",
+   "e": "Puedo ir caminando a la escuela en 10 minutos.",
+   "tr": {
+    "hi": "-",
+    "es": "Puedo ir caminando a la escuela en 10 minutos.",
+    "fr": "Je peux aller à l'école à pied en 10 minutes.",
+    "zh": "我走路10分钟能到学校 。 (wǒ zǒulù 10 fēnzhōng néng dào xuéxiào  .)"
+   }
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "I am waiting for the store to open.",
+   "r": "",
+   "e": "Estoy esperando que abran la tienda.",
+   "tr": {
+    "hi": "-",
+    "es": "Estoy esperando que abran la tienda.",
+    "fr": "J'attends que le magasin ouvre.",
+    "zh": "我正等著这家店开门。 (wǒ zhèng děng zhù zhèjiā diàn kāimén.)"
+   }
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "He wanted to buy the book.",
+   "r": "",
+   "e": "Quería comprar el libro.",
+   "tr": {
+    "hi": "वह किताब को खरीदना चाहता था। (vah kitaab ko khareednaa caahtaa thaa.)",
+    "es": "Quería comprar el libro.",
+    "fr": "Il voulait acheter le livre.",
+    "zh": "-"
+   }
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "I usually get up at 6:00.",
+   "r": "",
+   "e": "Suelo levantarme a las 6.",
+   "tr": {
+    "hi": "-",
+    "es": "Suelo levantarme a las 6.",
+    "fr": "Je me lève d'habitude à 6 heures.",
+    "zh": "我通常在六点钟起床。 (wǒ tōngcháng zài liùdiǎnzhōng qǐchuáng.)"
+   }
+  },
+  {
+   "cat": "School",
+   "t": "I go to school.",
+   "r": "",
+   "e": "Voy a la escuela.",
+   "tr": {
+    "hi": "-",
+    "es": "Voy a la escuela.",
+    "fr": "Je vais à l'école.",
+    "zh": "我去学校。 (wǒ qù xuéxiào.)"
+   }
+  },
+  {
+   "cat": "School",
+   "t": "I want to go to school.",
+   "r": "",
+   "e": "Quiero ir a la escuela.",
+   "tr": {
+    "hi": "-",
+    "es": "Quiero ir a la escuela.",
+    "fr": "Je veux aller à l'école.",
+    "zh": "我想去学校。 (wǒ xiǎng qù xuéxiào.)"
+   }
+  },
+  {
+   "cat": "School",
+   "t": "I like to read.",
+   "r": "",
+   "e": "Me gusta mucho leer.",
+   "tr": {
+    "hi": "-",
+    "es": "Me gusta mucho leer.",
+    "fr": "J'aime lire.",
+    "zh": "我喜欢阅读。 (wǒ xǐhuān yuèdú.)"
+   }
+  },
+  {
+   "cat": "School",
+   "t": "Are you a teacher?",
+   "r": "",
+   "e": "¿Eres profesor?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Eres profesor?",
+    "fr": "Êtes-vous enseignante ?",
+    "zh": "你是不是老师？ (nǐ shìbúshì lǎoshī?)"
+   }
+  },
+  {
+   "cat": "School",
+   "t": "I gave you a book.",
+   "r": "",
+   "e": "Te di un libro.",
+   "tr": {
+    "hi": "-",
+    "es": "Te di un libro.",
+    "fr": "Je t'ai donné un livre.",
+    "zh": "我给了你一本书。 (wǒ gěi le nǐ yī běnshū.)"
+   }
+  },
+  {
+   "cat": "School",
+   "t": "I was a teacher.",
+   "r": "",
+   "e": "Yo era profesor.",
+   "tr": {
+    "hi": "मैं एक अध्यापिका थी. (main ek adhyaapikaa thee.)",
+    "es": "Yo era profesor.",
+    "fr": "J’étais professeur.",
+    "zh": "我当过老师。 (wǒ dāngguò lǎoshī.)"
+   }
+  },
+  {
+   "cat": "School",
+   "t": "How do you get to school?",
+   "r": "",
+   "e": "¿Cómo vas al colegio?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Cómo vas al colegio?",
+    "fr": "Comment te rends-tu à l'école ?",
+    "zh": "你怎么去学校？ (nǐ zěnme qù xuéxiào?)"
+   }
+  },
+  {
+   "cat": "School",
+   "t": "This is the only book I have.",
+   "r": "",
+   "e": "Ese es el único libro que tengo.",
+   "tr": {
+    "hi": "-",
+    "es": "Ese es el único libro que tengo.",
+    "fr": "C'est le seul livre que j'ai.",
+    "zh": "这是我仅有的一本书。 (zhè shì wǒ jǐn yǒu de yī běnshū.)"
+   }
+  },
+  {
+   "cat": "School",
+   "t": "I want a book.",
+   "r": "",
+   "e": "Quiero un libro.",
+   "tr": {
+    "hi": "-",
+    "es": "Quiero un libro.",
+    "fr": "Je veux un livre.",
+    "zh": "我想要本书。 (wǒ xiǎngyào běnshū.)"
+   }
+  },
+  {
+   "cat": "School",
+   "t": "Can you read?",
+   "r": "",
+   "e": "¿Puedes leer?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Puedes leer?",
+    "fr": "Peux-tu lire ?",
+    "zh": "你能阅读吗？ (nǐ néng yuèdú ma?)"
+   }
+  },
+  {
+   "cat": "School",
+   "t": "She and I are in the same class.",
+   "r": "",
+   "e": "Ella y yo estamos en la misma clase.",
+   "tr": {
+    "hi": "-",
+    "es": "Ella y yo estamos en la misma clase.",
+    "fr": "Elle et moi sommes dans la même classe.",
+    "zh": "她和我同班。 (tā hé wǒ tóngbān.)"
+   }
+  },
+  {
+   "cat": "School",
+   "t": "He is a teacher.",
+   "r": "",
+   "e": "Él es profesor.",
+   "tr": {
+    "hi": "-",
+    "es": "Él es profesor.",
+    "fr": "Il est enseignant.",
+    "zh": "他是教师。 (tā shì jiàoshī.)"
+   }
+  },
+  {
+   "cat": "School",
+   "t": "I have no time for reading.",
+   "r": "",
+   "e": "No tengo tiempo para leer.",
+   "tr": {
+    "hi": "-",
+    "es": "No tengo tiempo para leer.",
+    "fr": "Je n'ai pas le temps de lire.",
+    "zh": "我没时间阅读。 (wǒ méi shíjiān yuèdú.)"
+   }
+  },
+  {
+   "cat": "School",
+   "t": "I need something to write with.",
+   "r": "",
+   "e": "Necesito algo en que escribir.",
+   "tr": {
+    "hi": "-",
+    "es": "Necesito algo en que escribir.",
+    "fr": "Je veux un truc pour écrire.",
+    "zh": "我需要一些用来写字的东西。 (wǒ xūyào yīxiē yònglái xiězì de dōngxī.)"
+   }
+  },
+  {
+   "cat": "School",
+   "t": "When do you study?",
+   "r": "",
+   "e": "¿En qué momento estudias?",
+   "tr": {
+    "hi": "-",
+    "es": "¿En qué momento estudias?",
+    "fr": "Quand étudiez-vous ?",
+    "zh": "你什么时候读书？ (nǐ shénme shíhòu dúshū?)"
+   }
+  },
+  {
+   "cat": "School",
+   "t": "I go to bed after I study.",
+   "r": "",
+   "e": "Me voy a acostar después de estudiar.",
+   "tr": {
+    "hi": "-",
+    "es": "Me voy a acostar después de estudiar.",
+    "fr": "Je vais me coucher après avoir étudié.",
+    "zh": "我读完书之后就去睡觉。 (wǒ dúwán shū zhīhòu jiù qù shuìjiào.)"
+   }
+  },
+  {
+   "cat": "School",
+   "t": "I like reading.",
+   "r": "",
+   "e": "Me gusta mucho leer.",
+   "tr": {
+    "hi": "-",
+    "es": "Me gusta mucho leer.",
+    "fr": "J'aime lire.",
+    "zh": "我喜欢阅读。 (wǒ xǐhuān yuèdú.)"
+   }
+  },
+  {
+   "cat": "School",
+   "t": "Are you writing a letter?",
+   "r": "",
+   "e": "¿Estáis escribiendo una carta?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Estáis escribiendo una carta?",
+    "fr": "Es-tu en train d'écrire une lettre ?",
+    "zh": "你在写信吗？ (nǐ zài xiěxìn ma?)"
+   }
+  },
+  {
+   "cat": "School",
+   "t": "Write it down before you forget it.",
+   "r": "",
+   "e": "Anótalo antes de que se te olvide.",
+   "tr": {
+    "hi": "-",
+    "es": "Anótalo antes de que se te olvide.",
+    "fr": "Note-le avant de l'oublier.",
+    "zh": "在你忘记之前把它写下来。 (zài nǐ wàngjì zhīqián bǎ tā xiě xiàlái.)"
+   }
+  },
+  {
+   "cat": "School",
+   "t": "Give me something to write on.",
+   "r": "",
+   "e": "Dame algo para escribir.",
+   "tr": {
+    "hi": "-",
+    "es": "Dame algo para escribir.",
+    "fr": "Donne-moi quelque chose sur quoi écrire.",
+    "zh": "给我一些我可以在上面写字的东西。 (gěi wǒ yīxiē wǒ kěyǐ zài shàngmiàn xiězì de dōngxī.)"
+   }
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "I love you.",
+   "r": "",
+   "e": "Te quiero.",
+   "tr": {
+    "hi": "मैं तुमसे प्यार करती हूँ। (main tumse pyaar kartee hoon.)",
+    "es": "Te quiero.",
+    "fr": "Je t'aime !",
+    "zh": "我爱您。 (wǒ ài nín.)"
+   }
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Thank you.",
+   "r": "",
+   "e": "¡Gracias!",
+   "tr": {
+    "hi": "धन्यवाद! (dhanyavaad!)",
+    "es": "¡Gracias!",
+    "fr": "Je te remercie.",
+    "zh": "谢谢。 (xièxiè.)"
+   }
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "I love you, too.",
+   "r": "",
+   "e": "También te amo.",
+   "tr": {
+    "hi": "-",
+    "es": "También te amo.",
+    "fr": "Je vous aime aussi.",
+    "zh": "我也爱你。 (wǒ yě ài nǐ.)"
+   }
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "I want to say thank you.",
+   "r": "",
+   "e": "Quiero dar las gracias.",
+   "tr": {
+    "hi": "मैं शुक्रिया अदा करना चाहता हूं। (main shukriyaa adaa karnaa caahtaa hoon.)",
+    "es": "Quiero dar las gracias.",
+    "fr": "Je veux vous remercier.",
+    "zh": "-"
+   }
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Can you help me?",
+   "r": "",
+   "e": "¿Puedes ayudarme?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Puedes ayudarme?",
+    "fr": "Pourrais-tu m'aider ?",
+    "zh": "您能帮我吗？ (nín néng bāng wǒ ma?)"
+   }
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "I just want you to be happy.",
+   "r": "",
+   "e": "Solo quiero que seas feliz.",
+   "tr": {
+    "hi": "मैं बस चाहता हूं कि तुम ख़ुश रहो। (main bas caahtaa hoon ki tum khush raho.)",
+    "es": "Solo quiero que seas feliz.",
+    "fr": "Je veux juste que tu sois heureux.",
+    "zh": "-"
+   }
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Are you afraid of me?",
+   "r": "",
+   "e": "¿Me tienes miedo?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Me tienes miedo?",
+    "fr": "As-tu peur de moi ?",
+    "zh": "你害怕我？ (nǐ hàipà wǒ?)"
+   }
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Can you help me a little?",
+   "r": "",
+   "e": "¿Puedes ayudarme un poco?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Puedes ayudarme un poco?",
+    "fr": "Peux-tu m'aider un peu ?",
+    "zh": "你能帮我一点忙吗？ (nǐ néng bāng wǒ yìdiǎn máng ma?)"
+   }
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Are you happy?",
+   "r": "",
+   "e": "¿Estás contento?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Estás contento?",
+    "fr": "Êtes-vous contents ?",
+    "zh": "你快乐吗？ (nǐ kuàilè ma?)"
+   }
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Could you help me?",
+   "r": "",
+   "e": "¿Podrías ayudarme?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Podrías ayudarme?",
+    "fr": "Pourrais-tu m'aider ?",
+    "zh": "您能帮我吗？ (nín néng bāng wǒ ma?)"
+   }
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "I am happy to see you here.",
+   "r": "",
+   "e": "Estoy feliz de verte aquí.",
+   "tr": {
+    "hi": "-",
+    "es": "Estoy feliz de verte aquí.",
+    "fr": "Je suis heureux de te voir ici.",
+    "zh": "我很高兴在这里看到你。 (wǒ hěn gāoxìng zài zhèlǐ kàndào nǐ.)"
+   }
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Give it to me, please.",
+   "r": "",
+   "e": "Por favor, deme eso.",
+   "tr": {
+    "hi": "-",
+    "es": "Por favor, deme eso.",
+    "fr": "Donnez-le-moi, s'il vous plait.",
+    "zh": "请把它给我。 (qǐng bǎ tā gěi wǒ.)"
+   }
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Thank you for the present.",
+   "r": "",
+   "e": "Gracias por el regalo.",
+   "tr": {
+    "hi": "तोहफ़े के लिए धन्यवाद। (tohfe ke lie dhanyavaad.)",
+    "es": "Gracias por el regalo.",
+    "fr": "Merci pour le cadeau.",
+    "zh": "-"
+   }
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Please do that.",
+   "r": "",
+   "e": "Por favor, hágalo.",
+   "tr": {
+    "hi": "-",
+    "es": "Por favor, hágalo.",
+    "fr": "Fais ça, s'il te plaît !",
+    "zh": "麻烦您那样做。 (máfán nín nàyàng zuò.)"
+   }
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Please let me know what you want.",
+   "r": "",
+   "e": "Por favor, dime lo que quieres.",
+   "tr": {
+    "hi": "-",
+    "es": "Por favor, dime lo que quieres.",
+    "fr": "Dites-moi de quoi vous avez envie.",
+    "zh": "请让我知道你要什么。 (qǐng ràng wǒ zhīdào nǐ yào shénme.)"
+   }
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Excuse me, what time is it?",
+   "r": "",
+   "e": "Perdone, ¿tiene hora?",
+   "tr": {
+    "hi": "माफ़ कीजिए, क्या समय हुआ है? (maaf keejie, kyaa samay huaa hai?)",
+    "es": "Perdone, ¿tiene hora?",
+    "fr": "Je vous prie de m'excuser, quelle heure est-il ?",
+    "zh": "-"
+   }
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "I am sorry. I am not from here.",
+   "r": "",
+   "e": "Lo siento. No soy de aquí.",
+   "tr": {
+    "hi": "-",
+    "es": "Lo siento. No soy de aquí.",
+    "fr": "Je suis désolé. Je ne suis pas d'ici.",
+    "zh": "抱歉，我不是本地人。 (bàoqiàn, wǒ búshì běndìrén.)"
+   }
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "I was surprised.",
+   "r": "",
+   "e": "Me sorprendió.",
+   "tr": {
+    "hi": "-",
+    "es": "Me sorprendió.",
+    "fr": "Je fus surpris.",
+    "zh": "我吃了一惊。 (wǒ chī le yījīng.)"
+   }
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Why are you so worried?",
+   "r": "",
+   "e": "¿Por qué estás tan preocupada?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Por qué estás tan preocupada?",
+    "fr": "Pourquoi es-tu si inquiète ?",
+    "zh": "你这么担心做什么? (nǐ zhème dānxīn zuò shénme ?)"
+   }
+  }
+ ],
+ "sentences": [
+  {
+   "t": "Is there anything that I can do for you?",
+   "r": "",
+   "e": "¿Hay algo que pueda hacer por usted?",
+   "tr": {
+    "hi": "क्या मैं आपके लिए कुछ कर सकता हूं? (kyaa main aapke lie kuch kar saktaa hoon?)",
+    "es": "¿Hay algo que pueda hacer por usted?",
+    "fr": "Y a-t-il quelque chose que je peux faire pour toi ?",
+    "zh": "-"
+   }
+  },
+  {
+   "t": "Are you sure that you want to go there?",
+   "r": "",
+   "e": "¿Estás seguro de que quieres ir allí?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Estás seguro de que quieres ir allí?",
+    "fr": "Es-tu sûr de vouloir y aller ?",
+    "zh": "你确定你要去那儿吗？ (nǐ quèdìng nǐ yào qù nàér ma?)"
+   }
+  },
+  {
+   "t": "I did it the way he told me to.",
+   "r": "",
+   "e": "Yo lo hice de la forma en que él me dijo.",
+   "tr": {
+    "hi": "उसने जैसे बताया था मैंने वैसे किया। (usne jaise bataayaa thaa mainne vaise kiyaa.)",
+    "es": "Yo lo hice de la forma en que él me dijo.",
+    "fr": "Je l'ai fait comme il m'avait dit de le faire.",
+    "zh": "我照他说的做了。 (wǒzhào tā shuō de zuò le.)"
+   }
+  },
+  {
+   "t": "I have no time to help you with the work.",
+   "r": "",
+   "e": "No tengo tiempo para ayudarte con el trabajo.",
+   "tr": {
+    "hi": "मेरे पास तुम्हारी काम में मदद करने के लिए समय नहीं है। (mere paas tumhaaree kaam men madad karne ke lie samay naheen hai.)",
+    "es": "No tengo tiempo para ayudarte con el trabajo.",
+    "fr": "Je n'ai pas le temps pour t'aider dans tes devoirs.",
+    "zh": "-"
+   }
+  },
+  {
+   "t": "I know that all of this is just a game.",
+   "r": "",
+   "e": "Sé que todo esto es un juego.",
+   "tr": {
+    "hi": "मैं जानता हूँ कि यह सब एक खेल है। (main jaantaa hoon ki yah sab ek khel hai.)",
+    "es": "Sé que todo esto es un juego.",
+    "fr": "Je sais que tout ceci n'est qu'un jeu.",
+    "zh": "-"
+   }
+  },
+  {
+   "t": "I wish I could go to the party with you.",
+   "r": "",
+   "e": "Quisiera poder ir contigo a la fiesta.",
+   "tr": {
+    "hi": "-",
+    "es": "Quisiera poder ir contigo a la fiesta.",
+    "fr": "Je voudrais pouvoir aller à la fête avec toi.",
+    "zh": "我希望我能和你一起参加派对。 (wǒ xīwàng wǒnéng hé nǐ yìqǐ cānjiā pàiduì.)"
+   }
+  },
+  {
+   "t": "I thought you had to get up by 7:30.",
+   "r": "",
+   "e": "Pensé que tenías que levantarte a las 7:30hrs.",
+   "tr": {
+    "hi": "-",
+    "es": "Pensé que tenías que levantarte a las 7:30hrs.",
+    "fr": "Je croyais que tu devais te lever à 7 h 30.",
+    "zh": "我以为你要7点半起床。 (wǒ yǐwéi nǐ yào 7 diǎnbàn qǐchuáng.)"
+   }
+  },
+  {
+   "t": "I thought that you had to get up by 7:30.",
+   "r": "",
+   "e": "Pensé que tenías que levantarte a las 7:30hrs.",
+   "tr": {
+    "hi": "-",
+    "es": "Pensé que tenías que levantarte a las 7:30hrs.",
+    "fr": "Je croyais que tu devais te lever à 7 h 30.",
+    "zh": "我以为你要7点半起床。 (wǒ yǐwéi nǐ yào 7 diǎnbàn qǐchuáng.)"
+   }
+  },
+  {
+   "t": "Is there anything else you want me to do?",
+   "r": "",
+   "e": "¿Hay algo más que quieras que haga?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Hay algo más que quieras que haga?",
+    "fr": "Puis-je faire autre chose pour toi ?",
+    "zh": "你还有什么事情需要我去做的吗？ (nǐ háiyǒu shénme shìqíng xūyào wǒ qù zuò de ma?)"
+   }
+  },
+  {
+   "t": "I kept the $20 I found in the street.",
+   "r": "",
+   "e": "Me quedé con el billete de 20$ que encontré en la calle.",
+   "tr": {
+    "hi": "-",
+    "es": "Me quedé con el billete de 20$ que encontré en la calle.",
+    "fr": "J'ai gardé les 20 $ que j'ai trouvés dans la rue.",
+    "zh": "我留着在街上发现的20美元。 (wǒliú zhe zài jiēshàng fāxiàn de 20 měiyuán.)"
+   }
+  },
+  {
+   "t": "Are you sure you want to do this by yourself?",
+   "r": "",
+   "e": "¿Estás seguro de que quieres hacerlo solo?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Estás seguro de que quieres hacerlo solo?",
+    "fr": "Es-tu sûr de vouloir le faire seul ?",
+    "zh": "你确定要自己做吗？ (nǐ quèdìng yào zìjǐ zuò ma?)"
+   }
+  },
+  {
+   "t": "I want you to stay here until I get back.",
+   "r": "",
+   "e": "Quiero que te quedes aquí hasta que yo vuelva.",
+   "tr": {
+    "hi": "-",
+    "es": "Quiero que te quedes aquí hasta que yo vuelva.",
+    "fr": "Je veux que tu restes ici jusqu'à ce que je revienne.",
+    "zh": "我想你待在这里直到我回来。 (wǒ xiǎng nǐ dài zài zhèlǐ zhídào wǒ huílái.)"
+   }
+  },
+  {
+   "t": "I want to show you something in my office.",
+   "r": "",
+   "e": "Quiero enseñarte algo en mi oficina.",
+   "tr": {
+    "hi": "-",
+    "es": "Quiero enseñarte algo en mi oficina.",
+    "fr": "Je veux te montrer quelque chose dans mon bureau.",
+    "zh": "我想给你看看我办公室里的一些东西。 (wǒ xiǎng gěi nǐ kànkàn wǒ bàngōngshì lǐ de yīxiē dōngxī.)"
+   }
+  },
+  {
+   "t": "Are you trying to make a fool of me?",
+   "r": "",
+   "e": "¿Estás intentado burlarte de mí?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Estás intentado burlarte de mí?",
+    "fr": "Est-ce que tu veux me ridiculiser ?",
+    "zh": "你是想耍我吗？ (nǐ shì xiǎng shuǎ wǒ ma?)"
+   }
+  },
+  {
+   "t": "I did not expect it to be that big.",
+   "r": "",
+   "e": "No esperaba que fuera tan grande.",
+   "tr": {
+    "hi": "-",
+    "es": "No esperaba que fuera tan grande.",
+    "fr": "Je ne m'attendais pas à ce que ce soit aussi grand.",
+    "zh": "我没想到它有那么大。 (wǒ méixiǎngdào tā yǒu nàme dà.)"
+   }
+  },
+  {
+   "t": "Had I known about it, I would have told you.",
+   "r": "",
+   "e": "Si lo hubiera sabido os lo habría dicho.",
+   "tr": {
+    "hi": "-",
+    "es": "Si lo hubiera sabido os lo habría dicho.",
+    "fr": "Si je l'avais su, je vous l'aurais dit.",
+    "zh": "如果我知道的话，我早就已经告诉你了。 (rúguǒ wǒ zhīdào dehuà, wǒ zǎojiù yǐjīng gàosù nǐ le.)"
+   }
+  },
+  {
+   "t": "I thank you from the bottom of my heart.",
+   "r": "",
+   "e": "Te lo agradezco de todo corazón.",
+   "tr": {
+    "hi": "-",
+    "es": "Te lo agradezco de todo corazón.",
+    "fr": "Je te remercie du fond du cœur.",
+    "zh": "我打心底里感激你。 (wǒ dǎ xīndǐ lǐ gǎnjī nǐ.)"
+   }
+  },
+  {
+   "t": "I want to finish the work on my own.",
+   "r": "",
+   "e": "Yo quiero terminar el trabajo por mi cuenta.",
+   "tr": {
+    "hi": "-",
+    "es": "Yo quiero terminar el trabajo por mi cuenta.",
+    "fr": "Je veux finir le travail moi-même.",
+    "zh": "我想要独立完成工作。 (wǒ xiǎngyào dúlì wánchéng gōngzuò.)"
+   }
+  },
+  {
+   "t": "I have not seen him for a long time.",
+   "r": "",
+   "e": "Hace mucho tiempo que no lo veo.",
+   "tr": {
+    "hi": "-",
+    "es": "Hace mucho tiempo que no lo veo.",
+    "fr": "Je ne l'ai pas vu depuis longtemps.",
+    "zh": "我很久没见过他了。 (wǒ hěnjiǔméi jiàn guò tā le.)"
+   }
+  },
+  {
+   "t": "I wonder if you have something to write with.",
+   "r": "",
+   "e": "Me pregunto si tienes algo con lo que escribir.",
+   "tr": {
+    "hi": "-",
+    "es": "Me pregunto si tienes algo con lo que escribir.",
+    "fr": "Je me demande si vous avez quelque chose pour écrire.",
+    "zh": "我怀疑你是否有东西可写。 (wǒ huáiyí nǐ shìfǒu yǒu dōngxī kě xiě.)"
+   }
+  },
+  {
+   "t": "Thank you for the present you gave my son.",
+   "r": "",
+   "e": "Gracias por el regalo que le hiciste a mi hijo.",
+   "tr": {
+    "hi": "-",
+    "es": "Gracias por el regalo que le hiciste a mi hijo.",
+    "fr": "Merci pour le cadeau que vous avez donné à mon fils.",
+    "zh": "谢谢你送给我儿子礼物。 (xièxiè nǐ sònggěi wǒ érzi lǐwù.)"
+   }
+  },
+  {
+   "t": "If I had wings, I would fly to you.",
+   "r": "",
+   "e": "Si yo tuviera alas, volaría hasta ti.",
+   "tr": {
+    "hi": "अगर मेरे पास पंख होते तो मैं उड़कर तुम्हारे पास चला आता। (agar mere paas pankh hote to main urakar tumhaare paas calaa aataa.)",
+    "es": "Si yo tuviera alas, volaría hasta ti.",
+    "fr": "Si j'avais des ailes, je volerais vers toi.",
+    "zh": "-"
+   }
+  },
+  {
+   "t": "I would like to have a cup of coffee.",
+   "r": "",
+   "e": "Me gustaría tomar una taza de café.",
+   "tr": {
+    "hi": "-",
+    "es": "Me gustaría tomar una taza de café.",
+    "fr": "J'aimerais prendre une tasse de café.",
+    "zh": "我想要一杯咖啡。 (wǒ xiǎngyào yībēi kāfēi.)"
+   }
+  },
+  {
+   "t": "Give me a chance to make you proud of me.",
+   "r": "",
+   "e": "Dame una oportunidad para hacerte sentir orgullosa de mí.",
+   "tr": {
+    "hi": "-",
+    "es": "Dame una oportunidad para hacerte sentir orgullosa de mí.",
+    "fr": "Donne-moi une chance de te rendre fière de moi.",
+    "zh": "给我机会来让你为我感到自豪。 (gěi wǒ jīhuì lái ràng nǐ wèi wǒ gǎndào zìháo.)"
+   }
+  },
+  {
+   "t": "I felt as if I were in a dream.",
+   "r": "",
+   "e": "Me siento como si estuviera en un sueño.",
+   "tr": {
+    "hi": "-",
+    "es": "Me siento como si estuviera en un sueño.",
+    "fr": "Je me sentais comme dans un rêve.",
+    "zh": "我感觉就像做梦一样。 (wǒ gǎnjué jiù xiàng zuòmèng yīyàng.)"
+   }
+  },
+  {
+   "t": "This is the house I lived in when I was young.",
+   "r": "",
+   "e": "Esta es la casa en la que vivía cuando era pequeño.",
+   "tr": {
+    "hi": "-",
+    "es": "Esta es la casa en la que vivía cuando era pequeño.",
+    "fr": "C'est la maison où j'habitais quand j'étais jeune.",
+    "zh": "这是我年轻时候住的房子。 (zhè shì wǒ niánqīng shíhòu zhù de fángzi.)"
+   }
+  },
+  {
+   "t": "Are you saying that my life is in danger?",
+   "r": "",
+   "e": "¿Me estás diciendo que mi vida está en peligro?",
+   "tr": {
+    "hi": "क्या तुम कह रहे हो कि मेरी जान ख़तरे में है? (kyaa tum kah rahe ho ki meree jaan khatre men hai?)",
+    "es": "¿Me estás diciendo que mi vida está en peligro?",
+    "fr": "Es-tu en train de dire que ma vie est en danger ?",
+    "zh": "你在说我有生命危险吗？ (nǐ zài shuō wǒ yǒu shēngmìngwēixiǎn ma?)"
+   }
+  },
+  {
+   "t": "Would you like to go to the zoo this afternoon?",
+   "r": "",
+   "e": "¿Queréis ir al zoo esta tarde?",
+   "tr": {
+    "hi": "-",
+    "es": "¿Queréis ir al zoo esta tarde?",
+    "fr": "Est-ce que tu voudrais aller au zoo cet après-midi ?",
+    "zh": "你今天下午想不想去动物园？ (nǐ jīntiānxiàwǔ xiǎng bùxiǎng qù dòngwùyuán?)"
+   }
+  },
+  {
+   "t": "If you had a million dollars, what would you do?",
+   "r": "",
+   "e": "Si tuvieras un millón de dólares, ¿qué harías?",
+   "tr": {
+    "hi": "-",
+    "es": "Si tuvieras un millón de dólares, ¿qué harías?",
+    "fr": "Si tu disposais d'un million de dollars, que ferais-tu ?",
+    "zh": "你有100万美元的话，你会做什么？ (nǐ yǒu 100 wànměiyuán dehuà, nǐ huì zuò shénme?)"
+   }
+  },
+  {
+   "t": "All you have to do is follow his advice.",
+   "r": "",
+   "e": "Todo lo que tienes que hacer es seguir su consejo.",
+   "tr": {
+    "hi": "तुम्हें बस उसकी सलाह के मुताबिक काम करना होगा। (tumhen bas uskee salaah ke mutaabik kaam karnaa hogaa.)",
+    "es": "Todo lo que tienes que hacer es seguir su consejo.",
+    "fr": "Tout ce que tu as à faire c'est suivre son conseil.",
+    "zh": "-"
+   }
+  }
+ ]
+}

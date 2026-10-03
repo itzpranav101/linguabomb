@@ -1,0 +1,2604 @@
+{
+ "lang": "es",
+ "name": "Spanish",
+ "script": "Latin alphabet",
+ "source": "dataset",
+ "words": [
+  {
+   "w": "de",
+   "r": "",
+   "e": "of, 's, used after the thing owned and before the owner"
+  },
+  {
+   "w": "que",
+   "r": "",
+   "e": "that / than"
+  },
+  {
+   "w": "no",
+   "r": "",
+   "e": "not"
+  },
+  {
+   "w": "a",
+   "r": "",
+   "e": "to / by"
+  },
+  {
+   "w": "la",
+   "r": "",
+   "e": "feminine singular definite article, the"
+  },
+  {
+   "w": "el",
+   "r": "",
+   "e": "masculine singular definite article, the"
+  },
+  {
+   "w": "y",
+   "r": "",
+   "e": "and / plus, and"
+  },
+  {
+   "w": "es",
+   "r": "",
+   "e": "to be (form of ser)"
+  },
+  {
+   "w": "en",
+   "r": "",
+   "e": "in, at, on / in"
+  },
+  {
+   "w": "lo",
+   "r": "",
+   "e": "neuter definite article used only before nominalized…"
+  },
+  {
+   "w": "un",
+   "r": "",
+   "e": "an, a"
+  },
+  {
+   "w": "por",
+   "r": "",
+   "e": "by / for"
+  },
+  {
+   "w": "qué",
+   "r": "",
+   "e": "what, which / what a, such"
+  },
+  {
+   "w": "me",
+   "r": "",
+   "e": "Used as an emphatic pronoun or as an expletive"
+  },
+  {
+   "w": "una",
+   "r": "",
+   "e": "one"
+  },
+  {
+   "w": "los",
+   "r": "",
+   "e": "plural masculine or neuter pronoun"
+  },
+  {
+   "w": "se",
+   "r": "",
+   "e": "A reflexive or reciprocal pronoun"
+  },
+  {
+   "w": "te",
+   "r": "",
+   "e": "yourself"
+  },
+  {
+   "w": "con",
+   "r": "",
+   "e": "with / Dependent preposition following certain verbs"
+  },
+  {
+   "w": "para",
+   "r": "",
+   "e": "for, to / to, in order to, so, for"
+  },
+  {
+   "w": "está",
+   "r": "",
+   "e": "to be (form of estar)"
+  },
+  {
+   "w": "mi",
+   "r": "",
+   "e": "mine, my, of mine (form of mío)"
+  },
+  {
+   "w": "pero",
+   "r": "",
+   "e": "but / well well, so, well"
+  },
+  {
+   "w": "sí",
+   "r": "",
+   "e": "yes, yeah"
+  },
+  {
+   "w": "si",
+   "r": "",
+   "e": "if, whether / points out a contradiction"
+  },
+  {
+   "w": "bien",
+   "r": "",
+   "e": "well / well, fine, okay"
+  },
+  {
+   "w": "eso",
+   "r": "",
+   "e": "that one (form of ése)"
+  },
+  {
+   "w": "su",
+   "r": "",
+   "e": "his, hers, its, to her (form of suyo)"
+  },
+  {
+   "w": "las",
+   "r": "",
+   "e": "feminine plural definite article, the"
+  },
+  {
+   "w": "yo",
+   "r": "",
+   "e": "first-person singular pronoun in the nominative case, I"
+  },
+  {
+   "w": "del",
+   "r": "",
+   "e": "of the, from the"
+  },
+  {
+   "w": "como",
+   "r": "",
+   "e": "as / like, about"
+  },
+  {
+   "w": "aquí",
+   "r": "",
+   "e": "here"
+  },
+  {
+   "w": "tu",
+   "r": "",
+   "e": "yours, your (form of tuyo)"
+  },
+  {
+   "w": "al",
+   "r": "",
+   "e": "upon"
+  },
+  {
+   "w": "más",
+   "r": "",
+   "e": "more, -er / most, -est"
+  },
+  {
+   "w": "le",
+   "r": "",
+   "e": "to him, for him, dative of él"
+  },
+  {
+   "w": "esto",
+   "r": "",
+   "e": "substitutes a noun one can't remember or can't remember…"
+  },
+  {
+   "w": "todo",
+   "r": "",
+   "e": "all, every / each, every"
+  },
+  {
+   "w": "ya",
+   "r": "",
+   "e": "now, right now, anymore, no longer"
+  },
+  {
+   "w": "estoy",
+   "r": "",
+   "e": "to be (form of estar)"
+  },
+  {
+   "w": "ahora",
+   "r": "",
+   "e": "now / just now, just a moment ago"
+  },
+  {
+   "w": "muy",
+   "r": "",
+   "e": "much, a lot, far, way, many times (form of mucho)"
+  },
+  {
+   "w": "ha",
+   "r": "",
+   "e": "to have, forms the perfect aspect (form of haber)"
+  },
+  {
+   "w": "esta",
+   "r": "",
+   "e": "this (form of este)"
+  },
+  {
+   "w": "así",
+   "r": "",
+   "e": "like this, like that, as such, thus, so, thereby, this way"
+  },
+  {
+   "w": "vamos",
+   "r": "",
+   "e": "let's go! / come on!"
+  },
+  {
+   "w": "algo",
+   "r": "",
+   "e": "something, anything"
+  },
+  {
+   "w": "hay",
+   "r": "",
+   "e": "to have, forms the perfect aspect (form of haber)"
+  },
+  {
+   "w": "bueno",
+   "r": "",
+   "e": "okay, fine / well, a short pause in a sentence"
+  },
+  {
+   "w": "tengo",
+   "r": "",
+   "e": "to have, to possess (form of tener)"
+  },
+  {
+   "w": "él",
+   "r": "",
+   "e": "he, him"
+  },
+  {
+   "w": "cuando",
+   "r": "",
+   "e": "when"
+  },
+  {
+   "w": "estás",
+   "r": "",
+   "e": "to be (form of estar)"
+  },
+  {
+   "w": "sé",
+   "r": "",
+   "e": "yes"
+  },
+  {
+   "w": "tú",
+   "r": "",
+   "e": "you"
+  },
+  {
+   "w": "nos",
+   "r": "",
+   "e": "first person, I"
+  },
+  {
+   "w": "nada",
+   "r": "",
+   "e": "nothing, zero, zilch, not...anything"
+  },
+  {
+   "w": "cómo",
+   "r": "",
+   "e": "how?"
+  },
+  {
+   "w": "este",
+   "r": "",
+   "e": "this"
+  },
+  {
+   "w": "o",
+   "r": "",
+   "e": "or"
+  },
+  {
+   "w": "he",
+   "r": "",
+   "e": "here is / behold"
+  },
+  {
+   "w": "ser",
+   "r": "",
+   "e": "to be / to exist, to occur"
+  },
+  {
+   "w": "tiene",
+   "r": "",
+   "e": "to have, to possess (form of tener)"
+  },
+  {
+   "w": "puedo",
+   "r": "",
+   "e": "to be able to, can (form of poder)"
+  },
+  {
+   "w": "ella",
+   "r": "",
+   "e": "she, her / it"
+  },
+  {
+   "w": "quiero",
+   "r": "",
+   "e": "to desire, to want, to want to (form of querer)"
+  },
+  {
+   "w": "hacer",
+   "r": "",
+   "e": "to do, perform, execute, carry out / to make"
+  },
+  {
+   "w": "fue",
+   "r": "",
+   "e": "to go (form of ir)"
+  },
+  {
+   "w": "gracias",
+   "r": "",
+   "e": "thank you, thanks"
+  },
+  {
+   "w": "vez",
+   "r": "",
+   "e": "time, instance / place"
+  },
+  {
+   "w": "era",
+   "r": "",
+   "e": "to be (form of ser)"
+  },
+  {
+   "w": "soy",
+   "r": "",
+   "e": "to be (form of ser)"
+  },
+  {
+   "w": "sólo",
+   "r": "",
+   "e": "only, solely, just (form of solo)"
+  },
+  {
+   "w": "todos",
+   "r": "",
+   "e": "all, every (form of todo)"
+  },
+  {
+   "w": "porque",
+   "r": "",
+   "e": "because"
+  },
+  {
+   "w": "son",
+   "r": "",
+   "e": "to be (form of ser)"
+  },
+  {
+   "w": "tienes",
+   "r": "",
+   "e": "to have, to possess (form of tener)"
+  },
+  {
+   "w": "creo",
+   "r": "",
+   "e": "to create (form of crear)"
+  },
+  {
+   "w": "voy",
+   "r": "",
+   "e": "to go (form of ir)"
+  },
+  {
+   "w": "sabes",
+   "r": "",
+   "e": "you know?"
+  },
+  {
+   "w": "estaba",
+   "r": "",
+   "e": "to be (form of estar)"
+  },
+  {
+   "w": "puede",
+   "r": "",
+   "e": "it's possible, could be"
+  },
+  {
+   "w": "eres",
+   "r": "",
+   "e": "to be (form of ser)"
+  },
+  {
+   "w": "ese",
+   "r": "",
+   "e": "that"
+  },
+  {
+   "w": "usted",
+   "r": "",
+   "e": "second person formal, you / second person informal, you"
+  },
+  {
+   "w": "entonces",
+   "r": "",
+   "e": "then, next, thereupon, at that time, at that point"
+  },
+  {
+   "w": "hola",
+   "r": "",
+   "e": "hello, hi, hey"
+  },
+  {
+   "w": "solo",
+   "r": "",
+   "e": "only, solely, just"
+  },
+  {
+   "w": "verdad",
+   "r": "",
+   "e": "right"
+  },
+  {
+   "w": "casa",
+   "r": "",
+   "e": "to marry, wed someone to (form of casar)"
+  },
+  {
+   "w": "tan",
+   "r": "",
+   "e": "so, as / very"
+  },
+  {
+   "w": "quién",
+   "r": "",
+   "e": "who?, whom?, whose? / if only, I wish"
+  },
+  {
+   "w": "sus",
+   "r": "",
+   "e": "your"
+  },
+  {
+   "w": "tiempo",
+   "r": "",
+   "e": "time"
+  },
+  {
+   "w": "dos",
+   "r": "",
+   "e": "two"
+  },
+  {
+   "w": "esa",
+   "r": "",
+   "e": "that (form of ese)"
+  },
+  {
+   "w": "nunca",
+   "r": "",
+   "e": "never / ever"
+  },
+  {
+   "w": "dónde",
+   "r": "",
+   "e": "where?, in what place? / from where? whence?"
+  },
+  {
+   "w": "va",
+   "r": "",
+   "e": "okay"
+  },
+  {
+   "w": "oh",
+   "r": "",
+   "e": "oh"
+  },
+  {
+   "w": "favor",
+   "r": "",
+   "e": "favor/favour"
+  },
+  {
+   "w": "mucho",
+   "r": "",
+   "e": "much, a lot of / many, a lot of"
+  },
+  {
+   "w": "mí",
+   "r": "",
+   "e": "me"
+  },
+  {
+   "w": "quieres",
+   "r": "",
+   "e": "to desire, to want, to want to (form of querer)"
+  },
+  {
+   "w": "siento",
+   "r": "",
+   "e": "to seat (form of sentar)"
+  },
+  {
+   "w": "señor",
+   "r": "",
+   "e": "great big, whopping / free"
+  },
+  {
+   "w": "mejor",
+   "r": "",
+   "e": "better"
+  },
+  {
+   "w": "hace",
+   "r": "",
+   "e": "ago / in, it has been...since"
+  },
+  {
+   "w": "has",
+   "r": "",
+   "e": "to have, forms the perfect aspect (form of haber)"
+  },
+  {
+   "w": "decir",
+   "r": "",
+   "e": "to say, to tell, to name, to mention"
+  },
+  {
+   "w": "también",
+   "r": "",
+   "e": "also, too, as well / so"
+  },
+  {
+   "w": "sobre",
+   "r": "",
+   "e": "over, above, on, upon, atop / about"
+  },
+  {
+   "w": "sin",
+   "r": "",
+   "e": "without"
+  },
+  {
+   "w": "tenemos",
+   "r": "",
+   "e": "to have, to possess (form of tener)"
+  },
+  {
+   "w": "están",
+   "r": "",
+   "e": "to be (form of estar)"
+  },
+  {
+   "w": "ti",
+   "r": "",
+   "e": "you (form of tú)"
+  },
+  {
+   "w": "puedes",
+   "r": "",
+   "e": "to be able to, can (form of poder)"
+  },
+  {
+   "w": "ver",
+   "r": "",
+   "e": "to see, to spot / to see, to look at, to view"
+  },
+  {
+   "w": "hombre",
+   "r": "",
+   "e": "man! / hey!"
+  },
+  {
+   "w": "vida",
+   "r": "",
+   "e": "life / lifestyle"
+  },
+  {
+   "w": "alguien",
+   "r": "",
+   "e": "someone, somebody / anyone, anybody"
+  },
+  {
+   "w": "cosas",
+   "r": "",
+   "e": "to sew (form of coser)"
+  },
+  {
+   "w": "siempre",
+   "r": "",
+   "e": "always / in spite of it, still...at least"
+  },
+  {
+   "w": "hasta",
+   "r": "",
+   "e": "even"
+  },
+  {
+   "w": "ahí",
+   "r": "",
+   "e": "there / that"
+  },
+  {
+   "w": "ir",
+   "r": "",
+   "e": "to go"
+  },
+  {
+   "w": "años",
+   "r": "",
+   "e": "year (form of año)"
+  },
+  {
+   "w": "antes",
+   "r": "",
+   "e": "earlier, before, sooner, previously, formerly, beforehand"
+  },
+  {
+   "w": "estar",
+   "r": "",
+   "e": "to be / to be present"
+  },
+  {
+   "w": "ni",
+   "r": "",
+   "e": "Used when negating two or more elements, and not"
+  },
+  {
+   "w": "poco",
+   "r": "",
+   "e": "little, not much / few, not many"
+  },
+  {
+   "w": "día",
+   "r": "",
+   "e": "day"
+  },
+  {
+   "w": "uno",
+   "r": "",
+   "e": "one"
+  },
+  {
+   "w": "noche",
+   "r": "",
+   "e": "after dark, at night, nocturnally"
+  },
+  {
+   "w": "hecho",
+   "r": "",
+   "e": "to do, perform, execute, carry out (form of hacer)"
+  },
+  {
+   "w": "mis",
+   "r": "",
+   "e": "mu, the Greek letter Μ, μ (form of mi)"
+  },
+  {
+   "w": "estamos",
+   "r": "",
+   "e": "to be (form of estar)"
+  },
+  {
+   "w": "otra",
+   "r": "",
+   "e": "other, another (form of otro)"
+  },
+  {
+   "w": "acuerdo",
+   "r": "",
+   "e": "to agree (form of acordar)"
+  },
+  {
+   "w": "trabajo",
+   "r": "",
+   "e": "to work (form of trabajar)"
+  },
+  {
+   "w": "nosotros",
+   "r": "",
+   "e": "we / ourselves"
+  },
+  {
+   "w": "parece",
+   "r": "",
+   "e": "to seem, to see fit (form of parecer)"
+  },
+  {
+   "w": "gente",
+   "r": "",
+   "e": "people / guys, lads"
+  },
+  {
+   "w": "sea",
+   "r": "",
+   "e": "to be (form of ser)"
+  },
+  {
+   "w": "padre",
+   "r": "",
+   "e": "cool, acceptable, easy / very big, enormous, huge"
+  },
+  {
+   "w": "mira",
+   "r": "",
+   "e": "look!"
+  },
+  {
+   "w": "mismo",
+   "r": "",
+   "e": "right, exactly, immediately"
+  },
+  {
+   "w": "dijo",
+   "r": "",
+   "e": "to say, to tell, to name, to mention (form of decir)"
+  },
+  {
+   "w": "nadie",
+   "r": "",
+   "e": "no one, nobody"
+  },
+  {
+   "w": "quiere",
+   "r": "",
+   "e": "to desire, to want, to want to (form of querer)"
+  },
+  {
+   "w": "podría",
+   "r": "",
+   "e": "to be able to, can (form of poder)"
+  },
+  {
+   "w": "hablar",
+   "r": "",
+   "e": "to talk, to speak, to communicate using words / to speak"
+  },
+  {
+   "w": "vas",
+   "r": "",
+   "e": "to go (form of ir)"
+  },
+  {
+   "w": "ellos",
+   "r": "",
+   "e": "he, him (form of él)"
+  },
+  {
+   "w": "tal",
+   "r": "",
+   "e": "such"
+  },
+  {
+   "w": "pasa",
+   "r": "",
+   "e": "to pass, to hand, to slip (form of pasar)"
+  },
+  {
+   "w": "fuera",
+   "r": "",
+   "e": "outside / out"
+  },
+  {
+   "w": "después",
+   "r": "",
+   "e": "later, afterwards, afterward, post / next"
+  },
+  {
+   "w": "han",
+   "r": "",
+   "e": "to have, forms the perfect aspect (form of haber)"
+  },
+  {
+   "w": "desde",
+   "r": "",
+   "e": "since / from"
+  },
+  {
+   "w": "dinero",
+   "r": "",
+   "e": "money / wealth"
+  },
+  {
+   "w": "mundo",
+   "r": "",
+   "e": "world, earth / world, globe"
+  },
+  {
+   "w": "claro",
+   "r": "",
+   "e": "certainly, naturally, of course"
+  },
+  {
+   "w": "momento",
+   "r": "",
+   "e": "moment, instant / timing"
+  },
+  {
+   "w": "les",
+   "r": "",
+   "e": "the"
+  },
+  {
+   "w": "tener",
+   "r": "",
+   "e": "to have, to possess / to have, to possess, to be"
+  },
+  {
+   "w": "estado",
+   "r": "",
+   "e": "to be (form of estar)"
+  },
+  {
+   "w": "otro",
+   "r": "",
+   "e": "other, another"
+  },
+  {
+   "w": "había",
+   "r": "",
+   "e": "makes pluperfect to verbs as part of the auxiliary verb…"
+  },
+  {
+   "w": "mañana",
+   "r": "",
+   "e": "tomorrow / soon, shortly"
+  },
+  {
+   "w": "tenía",
+   "r": "",
+   "e": "to have, to possess (form of tener)"
+  },
+  {
+   "w": "madre",
+   "r": "",
+   "e": "mother / riverbed"
+  },
+  {
+   "w": "vale",
+   "r": "",
+   "e": "okay"
+  },
+  {
+   "w": "lugar",
+   "r": "",
+   "e": "place"
+  },
+  {
+   "w": "haciendo",
+   "r": "",
+   "e": "to do, perform, execute, carry out (form of hacer)"
+  },
+  {
+   "w": "donde",
+   "r": "",
+   "e": "where, in what place / whence"
+  },
+  {
+   "w": "seguro",
+   "r": "",
+   "e": "surely, certainly / probably, maybe, possibly, perhaps"
+  },
+  {
+   "w": "sabe",
+   "r": "",
+   "e": "to know, to understand (form of saber)"
+  },
+  {
+   "w": "podemos",
+   "r": "",
+   "e": "to prune (form of podar)"
+  },
+  {
+   "w": "tus",
+   "r": "",
+   "e": ""
+  },
+  {
+   "w": "espera",
+   "r": "",
+   "e": "to hope (form of esperar)"
+  },
+  {
+   "w": "nuevo",
+   "r": "",
+   "e": "new / brand new, all-new"
+  },
+  {
+   "w": "sido",
+   "r": "",
+   "e": "to be (form of ser)"
+  },
+  {
+   "w": "cosa",
+   "r": "",
+   "e": "to sew (form of coser)"
+  },
+  {
+   "w": "hijo",
+   "r": "",
+   "e": "son / child"
+  },
+  {
+   "w": "allí",
+   "r": "",
+   "e": "there"
+  },
+  {
+   "w": "menos",
+   "r": "",
+   "e": "less / least"
+  },
+  {
+   "w": "tipo",
+   "r": "",
+   "e": "like"
+  },
+  {
+   "w": "amigo",
+   "r": "",
+   "e": "Said when realizing something"
+  },
+  {
+   "w": "gran",
+   "r": "",
+   "e": "big, large (form of grande)"
+  },
+  {
+   "w": "nuestro",
+   "r": "",
+   "e": "ours"
+  },
+  {
+   "w": "mujer",
+   "r": "",
+   "e": "woman / wife"
+  },
+  {
+   "w": "mamá",
+   "r": "",
+   "e": "to suckle (form of mamar)"
+  },
+  {
+   "w": "luego",
+   "r": "",
+   "e": "then / later, later on"
+  },
+  {
+   "w": "papá",
+   "r": "",
+   "e": "to slurp, gulp (form of papar)"
+  },
+  {
+   "w": "días",
+   "r": "",
+   "e": "day (form of día)"
+  },
+  {
+   "w": "dice",
+   "r": "",
+   "e": "to say, to tell, to name, to mention (form of decir)"
+  },
+  {
+   "w": "hoy",
+   "r": "",
+   "e": "today, tonight"
+  },
+  {
+   "w": "tres",
+   "r": "",
+   "e": "three"
+  },
+  {
+   "w": "buena",
+   "r": "",
+   "e": "good (form of bueno)"
+  },
+  {
+   "w": "necesito",
+   "r": "",
+   "e": "to need (form of necesitar)"
+  },
+  {
+   "w": "dije",
+   "r": "",
+   "e": "to say, to tell, to name, to mention (form of decir)"
+  },
+  {
+   "w": "oye",
+   "r": "",
+   "e": "hey! listen!"
+  },
+  {
+   "w": "gusta",
+   "r": "",
+   "e": "translated as \"to like\" (form of gustar)"
+  },
+  {
+   "w": "quería",
+   "r": "",
+   "e": "to desire, to want, to want to (form of querer)"
+  },
+  {
+   "w": "será",
+   "r": "",
+   "e": "to be (form of ser)"
+  },
+  {
+   "w": "haber",
+   "r": "",
+   "e": "to have, forms the perfect aspect / to hold, to possess"
+  },
+  {
+   "w": "parte",
+   "r": "",
+   "e": "to divide, split (form of partir)"
+  },
+  {
+   "w": "todas",
+   "r": "",
+   "e": "all, every (form of todo)"
+  },
+  {
+   "w": "crees",
+   "r": "",
+   "e": "to create (form of crear)"
+  },
+  {
+   "w": "buen",
+   "r": "",
+   "e": "good (form of bueno)"
+  },
+  {
+   "w": "conmigo",
+   "r": "",
+   "e": "with me / with myself"
+  },
+  {
+   "w": "nombre",
+   "r": "",
+   "e": "wow! / yikes, nope"
+  },
+  {
+   "w": "nuestra",
+   "r": "",
+   "e": "our, ours, to us (form of nuestro)"
+  },
+  {
+   "w": "mal",
+   "r": "",
+   "e": "badly, poorly, ill / awry, amiss, wrong, wrongly"
+  },
+  {
+   "w": "debe",
+   "r": "",
+   "e": "to owe (form of deber)"
+  },
+  {
+   "w": "realmente",
+   "r": "",
+   "e": "really, actually, genuinely"
+  },
+  {
+   "w": "estas",
+   "r": "",
+   "e": "this (form of este)"
+  },
+  {
+   "w": "aún",
+   "r": "",
+   "e": "still, yet / even"
+  },
+  {
+   "w": "mío",
+   "r": "",
+   "e": "mine, of mine"
+  },
+  {
+   "w": "toda",
+   "r": "",
+   "e": "all, every (form of todo)"
+  },
+  {
+   "w": "hacerlo",
+   "r": "",
+   "e": "to do, perform, execute, carry out (form of hacer)"
+  },
+  {
+   "w": "cada",
+   "r": "",
+   "e": "each, every"
+  },
+  {
+   "w": "visto",
+   "r": "",
+   "e": "to see, to spot (form of ver)"
+  },
+  {
+   "w": "importa",
+   "r": "",
+   "e": "to matter (form of importar)"
+  },
+  {
+   "w": "contigo",
+   "r": "",
+   "e": "with you / with yourself"
+  },
+  {
+   "w": "tienen",
+   "r": "",
+   "e": "to have, to possess (form of tener)"
+  },
+  {
+   "w": "hemos",
+   "r": "",
+   "e": "to have, forms the perfect aspect (form of haber)"
+  },
+  {
+   "w": "razón",
+   "r": "",
+   "e": "reason / reasoning"
+  },
+  {
+   "w": "alguna",
+   "r": "",
+   "e": "some, any (form of alguno)"
+  },
+  {
+   "w": "tanto",
+   "r": "",
+   "e": "so much, as much, that much / so many, as many, that many"
+  },
+  {
+   "w": "saber",
+   "r": "",
+   "e": "to know, to understand / to know how to do something"
+  },
+  {
+   "w": "hizo",
+   "r": "",
+   "e": "to do, perform, execute, carry out (form of hacer)"
+  },
+  {
+   "w": "veces",
+   "r": "",
+   "e": "by, times"
+  },
+  {
+   "w": "serio",
+   "r": "",
+   "e": "to put in a series (form of seriar)"
+  },
+  {
+   "w": "ven",
+   "r": "",
+   "e": "to come (form of venir)"
+  },
+  {
+   "w": "idea",
+   "r": "",
+   "e": "to devise, to come up with (form of idear)"
+  },
+  {
+   "w": "eh",
+   "r": "",
+   "e": "hey! / uh, um"
+  },
+  {
+   "w": "tarde",
+   "r": "",
+   "e": "late / late in the day"
+  },
+  {
+   "w": "problema",
+   "r": "",
+   "e": "problem, issue, challenge / trouble"
+  },
+  {
+   "w": "hora",
+   "r": "",
+   "e": "hour / time"
+  },
+  {
+   "w": "cierto",
+   "r": "",
+   "e": "a certain, a specific"
+  },
+  {
+   "w": "dicho",
+   "r": "",
+   "e": "said"
+  },
+  {
+   "w": "quien",
+   "r": "",
+   "e": "who / whom"
+  },
+  {
+   "w": "demasiado",
+   "r": "",
+   "e": "too much, excessively, far too much, overmuch"
+  },
+  {
+   "w": "amor",
+   "r": "",
+   "e": "love / love affair"
+  },
+  {
+   "w": "entre",
+   "r": "",
+   "e": "between / among, amongst, from"
+  },
+  {
+   "w": "ve",
+   "r": "",
+   "e": "to see, to spot (form of ver)"
+  },
+  {
+   "w": "pasado",
+   "r": "",
+   "e": "to pass, to hand, to slip (form of pasar)"
+  },
+  {
+   "w": "familia",
+   "r": "",
+   "e": "family / relative, relation"
+  },
+  {
+   "w": "estos",
+   "r": "",
+   "e": "this (form of este)"
+  },
+  {
+   "w": "debería",
+   "r": "",
+   "e": "to owe (form of deber)"
+  },
+  {
+   "w": "ustedes",
+   "r": "",
+   "e": "you, you guys, y'all, yous, yinz, ye"
+  },
+  {
+   "w": "chica",
+   "r": "",
+   "e": "small (form of chico)"
+  },
+  {
+   "w": "esos",
+   "r": "",
+   "e": "that (form of ese)"
+  },
+  {
+   "w": "chicos",
+   "r": "",
+   "e": "small (form of chico)"
+  },
+  {
+   "w": "cuenta",
+   "r": "",
+   "e": "to count, to tally (form of contar)"
+  },
+  {
+   "w": "haces",
+   "r": "",
+   "e": "to do, perform, execute, carry out (form of hacer)"
+  },
+  {
+   "w": "todavía",
+   "r": "",
+   "e": "still, yet / even, still"
+  },
+  {
+   "w": "salir",
+   "r": "",
+   "e": "to go out, to leave, to depart, to head out"
+  },
+  {
+   "w": "algún",
+   "r": "",
+   "e": "some, any (form of alguno)"
+  },
+  {
+   "w": "vaya",
+   "r": "",
+   "e": "expresses surprise: wow!, why, oh!, whoa!, well!, man!, boy!"
+  },
+  {
+   "w": "unos",
+   "r": "",
+   "e": "about, approximately"
+  },
+  {
+   "w": "veo",
+   "r": "",
+   "e": "to see, to spot (form of ver)"
+  },
+  {
+   "w": "amigos",
+   "r": "",
+   "e": "friend (form of amigo)"
+  },
+  {
+   "w": "hermano",
+   "r": "",
+   "e": "to unite (form of hermanar)"
+  },
+  {
+   "w": "pensé",
+   "r": "",
+   "e": "to think, ponder (form of pensar)"
+  },
+  {
+   "w": "sabía",
+   "r": "",
+   "e": "to know, to understand (form of saber)"
+  },
+  {
+   "w": "cabeza",
+   "r": "",
+   "e": "head / mind"
+  },
+  {
+   "w": "ah",
+   "r": "",
+   "e": "ah"
+  },
+  {
+   "w": "cariño",
+   "r": "",
+   "e": "affection, fondness / caress"
+  },
+  {
+   "w": "digo",
+   "r": "",
+   "e": "I mean, used to explain or correct a previous utterance"
+  },
+  {
+   "w": "van",
+   "r": "",
+   "e": "to go (form of ir)"
+  },
+  {
+   "w": "hombres",
+   "r": "",
+   "e": "man (form of hombre)"
+  },
+  {
+   "w": "buenas",
+   "r": "",
+   "e": "hello, good morning, good afternoon, good evening"
+  },
+  {
+   "w": "somos",
+   "r": "",
+   "e": "to be (form of ser)"
+  },
+  {
+   "w": "cualquier",
+   "r": "",
+   "e": "any, whatever, whichever (form of cualquiera)"
+  },
+  {
+   "w": "forma",
+   "r": "",
+   "e": "to form, to create (form of formar)"
+  },
+  {
+   "w": "mientras",
+   "r": "",
+   "e": "meanwhile"
+  },
+  {
+   "w": "lado",
+   "r": "",
+   "e": "side / face"
+  },
+  {
+   "w": "debo",
+   "r": "",
+   "e": "to owe (form of deber)"
+  },
+  {
+   "w": "sería",
+   "r": "",
+   "e": "to be (form of ser)"
+  },
+  {
+   "w": "caso",
+   "r": "",
+   "e": "to marry, wed someone to (form of casar)"
+  },
+  {
+   "w": "pueden",
+   "r": "",
+   "e": "to be able to, can (form of poder)"
+  },
+  {
+   "w": "pasó",
+   "r": "",
+   "e": "to pass, to hand, to slip (form of pasar)"
+  },
+  {
+   "w": "primera",
+   "r": "",
+   "e": "first, first up (form of primero)"
+  },
+  {
+   "w": "genial",
+   "r": "",
+   "e": "very well"
+  },
+  {
+   "w": "chico",
+   "r": "",
+   "e": "small"
+  },
+  {
+   "w": "supuesto",
+   "r": "",
+   "e": "to suppose, to surmise, to assume (form of suponer)"
+  },
+  {
+   "w": "hice",
+   "r": "",
+   "e": "to do, perform, execute, carry out (form of hacer)"
+  },
+  {
+   "w": "pues",
+   "r": "",
+   "e": "so, then, in that case / because, since"
+  },
+  {
+   "w": "adiós",
+   "r": "",
+   "e": "goodbye, farewell"
+  },
+  {
+   "w": "muchas",
+   "r": "",
+   "e": "much, a lot of (form of mucho)"
+  },
+  {
+   "w": "personas",
+   "r": "",
+   "e": "to arrive, turn up, make one's way (form of personarse)"
+  },
+  {
+   "w": "señora",
+   "r": "",
+   "e": "great big, whopping (form of señor)"
+  },
+  {
+   "w": "volver",
+   "r": "",
+   "e": "to return, to revert, to get back / to come back, go back"
+  },
+  {
+   "w": "esas",
+   "r": "",
+   "e": "that (form of ese)"
+  },
+  {
+   "w": "quizá",
+   "r": "",
+   "e": "perhaps, maybe"
+  },
+  {
+   "w": "contra",
+   "r": "",
+   "e": "against, versus"
+  }
+ ],
+ "phrases": [
+  {
+   "cat": "Essentials",
+   "t": "Hola",
+   "r": "",
+   "e": "Hello"
+  },
+  {
+   "cat": "Essentials",
+   "t": "Gracias",
+   "r": "",
+   "e": "Thank you"
+  },
+  {
+   "cat": "Essentials",
+   "t": "Por favor",
+   "r": "",
+   "e": "Please"
+  },
+  {
+   "cat": "Essentials",
+   "t": "Adiós",
+   "r": "",
+   "e": "Goodbye"
+  },
+  {
+   "cat": "Essentials",
+   "t": "Sí",
+   "r": "",
+   "e": "Yes"
+  },
+  {
+   "cat": "Essentials",
+   "t": "No",
+   "r": "",
+   "e": "No"
+  },
+  {
+   "cat": "Essentials",
+   "t": "Lo siento",
+   "r": "",
+   "e": "Sorry / excuse me"
+  },
+  {
+   "cat": "Essentials",
+   "t": "¿Cómo estás?",
+   "r": "",
+   "e": "How are you?"
+  },
+  {
+   "cat": "Essentials",
+   "t": "Me llamo ...",
+   "r": "",
+   "e": "My name is ..."
+  },
+  {
+   "cat": "Essentials",
+   "t": "¿Dónde está el baño?",
+   "r": "",
+   "e": "Where is the toilet?"
+  },
+  {
+   "cat": "Essentials",
+   "t": "¿Cuánto cuesta?",
+   "r": "",
+   "e": "How much is it?"
+  },
+  {
+   "cat": "Essentials",
+   "t": "No entiendo.",
+   "r": "",
+   "e": "I don't understand."
+  },
+  {
+   "cat": "Greetings",
+   "t": "¿Qué hay?",
+   "r": "",
+   "e": "What's up?"
+  },
+  {
+   "cat": "Greetings",
+   "t": "¡Hola a todos!",
+   "r": "",
+   "e": "Hi, everybody."
+  },
+  {
+   "cat": "Greetings",
+   "t": "¿Qué tienes?",
+   "r": "",
+   "e": "What's up with you?"
+  },
+  {
+   "cat": "Greetings",
+   "t": "Hola, ¿qué hay?",
+   "r": "",
+   "e": "Hi, guys."
+  },
+  {
+   "cat": "Greetings",
+   "t": "¿Cómo te va en la escuela?",
+   "r": "",
+   "e": "How's it going at school?"
+  },
+  {
+   "cat": "Greetings",
+   "t": "¡Hola! ¿Qué tal estás?",
+   "r": "",
+   "e": "Hi, how's it going?"
+  },
+  {
+   "cat": "Greetings",
+   "t": "¿Qué pasa, vale?",
+   "r": "",
+   "e": "What's up, dude?"
+  },
+  {
+   "cat": "Greetings",
+   "t": "Hola, ¿hay alguien ahí?",
+   "r": "",
+   "e": "Hello, is anybody there?"
+  },
+  {
+   "cat": "Greetings",
+   "t": "Bienvenido de vuelta.",
+   "r": "",
+   "e": "Welcome back."
+  },
+  {
+   "cat": "Greetings",
+   "t": "Mucho gusto.",
+   "r": "",
+   "e": "Nice to meet you."
+  },
+  {
+   "cat": "Introductions",
+   "t": "Soy de la ciudad.",
+   "r": "",
+   "e": "I'm from the city."
+  },
+  {
+   "cat": "Introductions",
+   "t": "Por cierto, ¿de dónde eres?",
+   "r": "",
+   "e": "By the way, where are you from?"
+  },
+  {
+   "cat": "Introductions",
+   "t": "Yo también tengo 17 años.",
+   "r": "",
+   "e": "I'm 17, too."
+  },
+  {
+   "cat": "Introductions",
+   "t": "Vivo en una ciudad.",
+   "r": "",
+   "e": "I live in a city."
+  },
+  {
+   "cat": "Introductions",
+   "t": "Vivo en esta casa solo.",
+   "r": "",
+   "e": "I live in this house by myself."
+  },
+  {
+   "cat": "Introductions",
+   "t": "Tengo 19 años.",
+   "r": "",
+   "e": "I am 19 years old."
+  },
+  {
+   "cat": "Introductions",
+   "t": "¿Cómo te llamas?",
+   "r": "",
+   "e": "What's your name?"
+  },
+  {
+   "cat": "Introductions",
+   "t": "Yo soy profesor.",
+   "r": "",
+   "e": "I'm a teacher."
+  },
+  {
+   "cat": "Introductions",
+   "t": "Yo soy maestro también.",
+   "r": "",
+   "e": "I'm a teacher, too."
+  },
+  {
+   "cat": "Introductions",
+   "t": "Por cierto, ¿dónde vive usted?",
+   "r": "",
+   "e": "By the way, where do you live?"
+  },
+  {
+   "cat": "Introductions",
+   "t": "Su hijo tiene ocho años.",
+   "r": "",
+   "e": "His son is eight years old."
+  },
+  {
+   "cat": "Introductions",
+   "t": "Nuestra escuela tiene 80 años.",
+   "r": "",
+   "e": "Our school is 80 years old."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Como aquí.",
+   "r": "",
+   "e": "I eat here."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "¿De quién es esta comida?",
+   "r": "",
+   "e": "Whose food is this?"
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "¿Qué hay de cenar?",
+   "r": "",
+   "e": "What's for dinner?"
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Aquí hay un poco de agua.",
+   "r": "",
+   "e": "Here's some water."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "¿Cómo es el agua aquí?",
+   "r": "",
+   "e": "How's the water here?"
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Yo como aquí todo el tiempo.",
+   "r": "",
+   "e": "I eat here all the time."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Tengo que ir a comer.",
+   "r": "",
+   "e": "I have to go eat."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "En lugar de comer aquí vamos a casa.",
+   "r": "",
+   "e": "Instead of eating here, let's go home."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Yo no quiero nada de leche.",
+   "r": "",
+   "e": "I don't want any milk at all."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Sé que te gusta el café.",
+   "r": "",
+   "e": "I know you like coffee."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Quiero un poco más de agua.",
+   "r": "",
+   "e": "I'd like some more water."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Tengo algo de comer.",
+   "r": "",
+   "e": "I have some food."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Quiero un poco de comida.",
+   "r": "",
+   "e": "I want some food."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Gracias por la comida.",
+   "r": "",
+   "e": "Thanks for the meal."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Tengo un poco de hambre.",
+   "r": "",
+   "e": "I'm a bit hungry."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "En realidad, no me gusta el café.",
+   "r": "",
+   "e": "Actually, I don't like coffee."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Gracias por la cena.",
+   "r": "",
+   "e": "Thanks for dinner."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Yo no tengo hambre.",
+   "r": "",
+   "e": "I'm not hungry."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Estoy en el restaurante.",
+   "r": "",
+   "e": "I'm at the restaurant."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "Si no tengo hambre.",
+   "r": "",
+   "e": "I'm really not hungry."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Está a la izquierda.",
+   "r": "",
+   "e": "It's on the left."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Su casa no está lejos de aquí.",
+   "r": "",
+   "e": "His house is not far from here."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Estoy en el coche.",
+   "r": "",
+   "e": "I'm in the car."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Está en el cuarto de baño.",
+   "r": "",
+   "e": "She's in the bathroom."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "¿De quién es este auto?",
+   "r": "",
+   "e": "Whose car is that?"
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "¿Quién está en el auto?",
+   "r": "",
+   "e": "Who's in that car?"
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Es allí a la izquierda.",
+   "r": "",
+   "e": "It's there to the left."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Estoy en el baño.",
+   "r": "",
+   "e": "I'm in the toilet."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Estoy en el hotel.",
+   "r": "",
+   "e": "I'm at the hotel."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Creo que estás en el buen camino.",
+   "r": "",
+   "e": "I think you're on the right track."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Voy de camino a la estación.",
+   "r": "",
+   "e": "I'm on my way to the station."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Ella está en el hotel ahora.",
+   "r": "",
+   "e": "She's at the hotel now."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Creo que vamos por el buen camino.",
+   "r": "",
+   "e": "I think we're on the right path."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Yo estaba en el cuarto de baño.",
+   "r": "",
+   "e": "I was in the bathroom."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Ese es el hotel.",
+   "r": "",
+   "e": "That's the hotel."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "Está al otro lado de la calle.",
+   "r": "",
+   "e": "It's across the street."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "¿Quién está en el tren?",
+   "r": "",
+   "e": "Who is on the train?"
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "¿Cuál es el nombre de tu barco?",
+   "r": "",
+   "e": "What's the name of your ship?"
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "La vi en la estación.",
+   "r": "",
+   "e": "I saw her at the station."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "¿Quién es el capitán de este barco?",
+   "r": "",
+   "e": "Who's the captain of this ship?"
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "El dinero no lo es todo.",
+   "r": "",
+   "e": "Money isn't everything."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Sé que el dinero no lo es todo.",
+   "r": "",
+   "e": "I know that money isn't everything."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "El dinero no es todo.",
+   "r": "",
+   "e": "Money is not everything."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Voy a las 10.",
+   "r": "",
+   "e": "I will go at 10."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Son las dos de la tarde.",
+   "r": "",
+   "e": "It's 2:00 p.m."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "El precio no es un problema.",
+   "r": "",
+   "e": "Price isn't an issue."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Te puedo ver a las 2:30.",
+   "r": "",
+   "e": "I can meet you at 2:30."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "La vida es cara.",
+   "r": "",
+   "e": "Life is expensive."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Trabajo en la tienda de mi amigo.",
+   "r": "",
+   "e": "I work at my friend's shop."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "¿Qué va a pasar aquí a las dos y media?",
+   "r": "",
+   "e": "What's happening here at 2:30?"
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Son las 8:30.",
+   "r": "",
+   "e": "It's 8:30."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Creo que ella tiene 40 años.",
+   "r": "",
+   "e": "I guess that she is 40."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Tengo que ir primero a la tienda.",
+   "r": "",
+   "e": "I have to go to the store first."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Lo vi en la tienda.",
+   "r": "",
+   "e": "I saw it in the store."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Tengo que pagar la cuenta.",
+   "r": "",
+   "e": "I have to pay the bill."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Tengo que comprar uno de estos.",
+   "r": "",
+   "e": "I must buy one of these."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Quiero ir a la tienda.",
+   "r": "",
+   "e": "I want to go to the store."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Yo tenía 13 años en 2003.",
+   "r": "",
+   "e": "I was 13 in 2003."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "Pobre como es, no lo puede comprar.",
+   "r": "",
+   "e": "Being poor, he can't buy it."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "¿Quién va a pagar la cuenta?",
+   "r": "",
+   "e": "Who'll pay the bill?"
+  },
+  {
+   "cat": "School",
+   "t": "Yo no voy a la escuela.",
+   "r": "",
+   "e": "I do not go to school."
+  },
+  {
+   "cat": "School",
+   "t": "¿De quién es el libro que está en la mesa?",
+   "r": "",
+   "e": "Whose book is that on the table?"
+  },
+  {
+   "cat": "School",
+   "t": "Es el más grande de la clase.",
+   "r": "",
+   "e": "He's the tallest in the class."
+  },
+  {
+   "cat": "School",
+   "t": "Tengo que hacer esto antes de la clase.",
+   "r": "",
+   "e": "I have to do this before class."
+  },
+  {
+   "cat": "School",
+   "t": "Él es el más alto de la clase.",
+   "r": "",
+   "e": "He's the tallest one in the class."
+  },
+  {
+   "cat": "School",
+   "t": "Voy a la escuela.",
+   "r": "",
+   "e": "I go to school."
+  },
+  {
+   "cat": "School",
+   "t": "Eso es un libro.",
+   "r": "",
+   "e": "That's a book."
+  },
+  {
+   "cat": "School",
+   "t": "La encuentro en la escuela de vez en cuando.",
+   "r": "",
+   "e": "I meet her at school now and then."
+  },
+  {
+   "cat": "School",
+   "t": "¿De quién es este libro?",
+   "r": "",
+   "e": "Whose book is this?"
+  },
+  {
+   "cat": "School",
+   "t": "Sé que usted es maestro.",
+   "r": "",
+   "e": "I know you're a teacher."
+  },
+  {
+   "cat": "School",
+   "t": "Lo voy a leer.",
+   "r": "",
+   "e": "I'll read it."
+  },
+  {
+   "cat": "School",
+   "t": "Después de salir de clase no estudio.",
+   "r": "",
+   "e": "I don't study after school."
+  },
+  {
+   "cat": "School",
+   "t": "Ya no soy tu profesor.",
+   "r": "",
+   "e": "I'm not your teacher anymore."
+  },
+  {
+   "cat": "School",
+   "t": "Él es profesor, y yo también.",
+   "r": "",
+   "e": "He's a teacher and so am I."
+  },
+  {
+   "cat": "School",
+   "t": "Necesito algo en que escribir.",
+   "r": "",
+   "e": "I need something to write with."
+  },
+  {
+   "cat": "School",
+   "t": "Es fácil de aprender.",
+   "r": "",
+   "e": "It's easy to learn."
+  },
+  {
+   "cat": "School",
+   "t": "Tienes que leer esto.",
+   "r": "",
+   "e": "You've got to read this."
+  },
+  {
+   "cat": "School",
+   "t": "En realidad, es muy fácil de aprender.",
+   "r": "",
+   "e": "Actually, it's very easy to learn."
+  },
+  {
+   "cat": "School",
+   "t": "Mañana no tengo clase.",
+   "r": "",
+   "e": "I don't have classes tomorrow."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Eso es lo que no sé.",
+   "r": "",
+   "e": "That's what I don't know."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Eso es lo que no entiendo.",
+   "r": "",
+   "e": "That's what I don't understand."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Yo no sé lo que es el amor.",
+   "r": "",
+   "e": "I don't know what love is."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Yo no sé lo que es el miedo.",
+   "r": "",
+   "e": "I don't know what fear is."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Gracias, pero no.",
+   "r": "",
+   "e": "Thanks but no thanks."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "De verdad lo siento.",
+   "r": "",
+   "e": "I'm truly sorry."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Lo siento de verdad.",
+   "r": "",
+   "e": "I am really sorry."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Te quiero más que a ella.",
+   "r": "",
+   "e": "I love you more than I love her."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Para de decir que lo sientes.",
+   "r": "",
+   "e": "Don't keep saying you're sorry."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Te quiero más que a nadie.",
+   "r": "",
+   "e": "I love you more than anyone else."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Gracias por lo de ayer.",
+   "r": "",
+   "e": "Thanks for yesterday."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Tenía miedo de decir que no.",
+   "r": "",
+   "e": "I was afraid to say no."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Estoy seguro de que se puede hacer.",
+   "r": "",
+   "e": "I'm sure it can be done."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Estoy seguro de que estás haciendo todo lo que puedes.",
+   "r": "",
+   "e": "I'm sure you're doing your best."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Gracias por eso.",
+   "r": "",
+   "e": "Thanks for that."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Lo siento, me tengo que ir.",
+   "r": "",
+   "e": "I am afraid I must be going now."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Creo que él es feliz.",
+   "r": "",
+   "e": "I think he's happy."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "La gente no lo entiende.",
+   "r": "",
+   "e": "People don't understand."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "Una vez más, por favor.",
+   "r": "",
+   "e": "Once more, please."
+  }
+ ],
+ "sentences": [
+  {
+   "t": "Eso no es lo único que tengo que hacer.",
+   "r": "",
+   "e": "That's not the only thing I have to do."
+  },
+  {
+   "t": "Es más importante lo que eres que lo que tienes.",
+   "r": "",
+   "e": "It's more important what you are than what you have."
+  },
+  {
+   "t": "Ya que es lo que quieres, te voy a decir la verdad.",
+   "r": "",
+   "e": "Since it's what you want, I'll tell you the truth."
+  },
+  {
+   "t": "Es una de las cosas que me gustan de ti.",
+   "r": "",
+   "e": "It's one of the things that I like about you."
+  },
+  {
+   "t": "Te quiero más que a nada en el mundo.",
+   "r": "",
+   "e": "I love you more than anything in the world."
+  },
+  {
+   "t": "Quiero que me digas que eso no es verdad.",
+   "r": "",
+   "e": "I want you to tell me that's not true."
+  },
+  {
+   "t": "Creo que es hora de que me vaya a la cama.",
+   "r": "",
+   "e": "I think it's time for me to go to bed."
+  },
+  {
+   "t": "Eso es de lo que quiero hablar contigo.",
+   "r": "",
+   "e": "That's what I want to talk to you about."
+  },
+  {
+   "t": "Creo que es hora de que me haga a un lado.",
+   "r": "",
+   "e": "I think it's time for me to step aside."
+  },
+  {
+   "t": "Hay algo de lo que tengo que hablar contigo.",
+   "r": "",
+   "e": "There's something I need to talk with you about."
+  },
+  {
+   "t": "Ahora no quiero hablar de eso.",
+   "r": "",
+   "e": "I don't want to talk about it right now."
+  },
+  {
+   "t": "Lo siento, no quiero hablar de eso.",
+   "r": "",
+   "e": "I'm sorry, but I don't want to talk about it."
+  },
+  {
+   "t": "Ya no sé qué voy a hacer.",
+   "r": "",
+   "e": "I don't know what I'm going to do now."
+  },
+  {
+   "t": "Dije que podía, no que lo fuera a hacer.",
+   "r": "",
+   "e": "I said that I could, not that I would."
+  },
+  {
+   "t": "Lo que cuenta no es lo que dices, sino lo que haces.",
+   "r": "",
+   "e": "It's not what you say, but what you do that counts."
+  },
+  {
+   "t": "Yo lo hice de la forma en que él me dijo.",
+   "r": "",
+   "e": "I did it the way he told me to."
+  },
+  {
+   "t": "Por hoy, no tengo más que hacer.",
+   "r": "",
+   "e": "I don't have anything else I have to do today."
+  },
+  {
+   "t": "Él no es el mismo tipo de antes.",
+   "r": "",
+   "e": "He's not the same man he used to be."
+  },
+  {
+   "t": "Creo que ya es hora de que diga lo que pienso.",
+   "r": "",
+   "e": "I think it's time for me to speak up."
+  },
+  {
+   "t": "Hace tiempo que no te digo que te quiero.",
+   "r": "",
+   "e": "It's been a while since I've told you I love you."
+  },
+  {
+   "t": "Yo no sé la razón por la que él fue allí.",
+   "r": "",
+   "e": "I don't know the reason why he went there."
+  },
+  {
+   "t": "Sé que es difícil de creer, pero es la verdad.",
+   "r": "",
+   "e": "I know it's difficult to believe, but it's the truth."
+  },
+  {
+   "t": "Quiero lo que me debes y lo quiero ahora.",
+   "r": "",
+   "e": "I want what you owe me and I want it now."
+  },
+  {
+   "t": "Ya dije que no sé qué hacer.",
+   "r": "",
+   "e": "I already said I don't know what to do."
+  },
+  {
+   "t": "Esa es una de las razones por las que no lo volveré a hacer.",
+   "r": "",
+   "e": "That's one reason why I'll never do it again."
+  },
+  {
+   "t": "Creo que tú sabes de que se trata todo esto.",
+   "r": "",
+   "e": "I believe you know what this is all about."
+  },
+  {
+   "t": "Creo que es hora de que lo deje por hoy.",
+   "r": "",
+   "e": "I think it's time for me to call it a day."
+  },
+  {
+   "t": "Lo que es bueno para ella, también es bueno para mí.",
+   "r": "",
+   "e": "What's sauce for the goose is sauce for the gander."
+  },
+  {
+   "t": "Está más lejos de la escuela que de la estación.",
+   "r": "",
+   "e": "It's further to the school than to the station."
+  },
+  {
+   "t": "El dinero no lo es todo, pero si no tienes dinero no puedes hacer nada.",
+   "r": "",
+   "e": "Money isn't everything, but if you have no money, you can't do anything."
+  },
+  {
+   "t": "Estoy de acuerdo con la mayor parte de lo que él dijo.",
+   "r": "",
+   "e": "For the most part, I agree with what he said."
+  },
+  {
+   "t": "La conozco de nombre, pero no de vista.",
+   "r": "",
+   "e": "I know her by name, but not by sight."
+  },
+  {
+   "t": "Es la primera vez que me pasa.",
+   "r": "",
+   "e": "It's the first time this has happened to me."
+  },
+  {
+   "t": "Ya te he dicho que no fui yo el que lo hizo.",
+   "r": "",
+   "e": "I've already told you I'm not the one who did that."
+  },
+  {
+   "t": "Todavía no sé qué hay que hacer.",
+   "r": "",
+   "e": "I don't yet know what needs to be done."
+  },
+  {
+   "t": "Ya te he dicho que no te quiero aquí.",
+   "r": "",
+   "e": "I've already told you that I don't want you here."
+  },
+  {
+   "t": "Estoy seguro de que hay una mejor manera de hacer eso.",
+   "r": "",
+   "e": "I'm sure there's a better way to do that."
+  },
+  {
+   "t": "Creo que es hora de que llame a un médico.",
+   "r": "",
+   "e": "I think it's time for me to call a doctor."
+  },
+  {
+   "t": "Sé lo que quiero, es solo que todavía no lo he encontrado.",
+   "r": "",
+   "e": "I know what I want. I just haven't found it yet."
+  },
+  {
+   "t": "Creo que esta es la mejor forma de hacerlo.",
+   "r": "",
+   "e": "I think this is the best way to do it."
+  },
+  {
+   "t": "Eso no es algo en lo que quiera pensar ahora.",
+   "r": "",
+   "e": "That's not something I want to think about right now."
+  },
+  {
+   "t": "Para mí está muy claro que esta es la verdad.",
+   "r": "",
+   "e": "It's quite clear to me that this is the truth."
+  },
+  {
+   "t": "Sé que está en el departamento, pero no lo puedo encontrar.",
+   "r": "",
+   "e": "I know it's in the apartment, but I can't find it."
+  },
+  {
+   "t": "Sé que todo esto es un juego.",
+   "r": "",
+   "e": "I know that all of this is just a game."
+  },
+  {
+   "t": "Creo que es hora de que diga lo que pienso realmente.",
+   "r": "",
+   "e": "I think it's time for me to say what I really think."
+  },
+  {
+   "t": "Estoy bastante segura de que no hemos hecho nada de lo que se suponía que no teníamos que hacer.",
+   "r": "",
+   "e": "I'm pretty sure we haven't done anything we weren't supposed to do."
+  },
+  {
+   "t": "Yo no puedo entender qué es lo que él está tratando de decir.",
+   "r": "",
+   "e": "I can't understand what he is trying to say."
+  },
+  {
+   "t": "Creo que usted sabe que eso no es una buena idea.",
+   "r": "",
+   "e": "I think you know that's not a good idea."
+  },
+  {
+   "t": "Lo siento, no creo que yo pueda.",
+   "r": "",
+   "e": "I'm sorry, I don't think I'll be able to."
+  },
+  {
+   "t": "Creo que es hora de que hable de este problema con el jefe.",
+   "r": "",
+   "e": "I think it's time for me to talk to the boss about this problem."
+  },
+  {
+   "t": "El aire es para el hombre lo que el agua es para el pez.",
+   "r": "",
+   "e": "Air is to man what water is to fish."
+  },
+  {
+   "t": "Quiero que todos oigan lo que tengo que decir.",
+   "r": "",
+   "e": "I want everyone to hear what I have to say."
+  },
+  {
+   "t": "Yo no estaba seguro de lo que se supone que debía hacer.",
+   "r": "",
+   "e": "I wasn't sure what I was supposed to do."
+  },
+  {
+   "t": "Creo que es hora de irme.",
+   "r": "",
+   "e": "I think it's time for me to leave now."
+  },
+  {
+   "t": "Es verdad que él está enamorado de ella.",
+   "r": "",
+   "e": "It's true that he is in love with her."
+  },
+  {
+   "t": "Quiero estar a la cabeza de la compañía.",
+   "r": "",
+   "e": "I want to be at the top of the company."
+  },
+  {
+   "t": "Solo quiero que sepas que te quiero de verdad.",
+   "r": "",
+   "e": "I just want you to know that I really love you."
+  },
+  {
+   "t": "Te he dicho que no sé cómo hacer eso.",
+   "r": "",
+   "e": "I told you I don't know how to do that."
+  },
+  {
+   "t": "¿Cuál es la mejor forma de decirle a alguien que no te gusta?",
+   "r": "",
+   "e": "What's the best way to tell someone that you don't like them?"
+  },
+  {
+   "t": "La verdad es que ahora mismo no quiero comer nada.",
+   "r": "",
+   "e": "I don't really want anything to eat right now."
+  }
+ ]
+}

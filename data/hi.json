@@ -1,0 +1,2604 @@
+{
+ "lang": "hi",
+ "name": "Hindi",
+ "script": "Devanagari (with Hinglish romanisation)",
+ "source": "dataset",
+ "words": [
+  {
+   "w": "है",
+   "r": "hai",
+   "e": "to be (form of होना)"
+  },
+  {
+   "w": "नहीं",
+   "r": "naheen",
+   "e": "no, not"
+  },
+  {
+   "w": "मैं",
+   "r": "main",
+   "e": "I"
+  },
+  {
+   "w": "में",
+   "r": "men",
+   "e": "in, inside of / within"
+  },
+  {
+   "w": "हैं",
+   "r": "hain",
+   "e": "to be (form of होना)"
+  },
+  {
+   "w": "से",
+   "r": "se",
+   "e": "indicates association or mutual dealing"
+  },
+  {
+   "w": "वह",
+   "r": "vah",
+   "e": "that / he, she, it, that one"
+  },
+  {
+   "w": "क्या",
+   "r": "kyaa",
+   "e": "initial interrogative particle"
+  },
+  {
+   "w": "के",
+   "r": "ke",
+   "e": "marks the genitive case (form of का)"
+  },
+  {
+   "w": "को",
+   "r": "ko",
+   "e": "marks the accusative case in certain contexts"
+  },
+  {
+   "w": "मुझे",
+   "r": "mujhe",
+   "e": "I (form of मैं)"
+  },
+  {
+   "w": "की",
+   "r": "kee",
+   "e": "feminine of का"
+  },
+  {
+   "w": "हो",
+   "r": "ho",
+   "e": "to be (form of होना)"
+  },
+  {
+   "w": "हूँ",
+   "r": "hoon",
+   "e": "to be (form of होना)"
+  },
+  {
+   "w": "एक",
+   "r": "ek",
+   "e": "indefinite article"
+  },
+  {
+   "w": "तुम",
+   "r": "tum",
+   "e": "you, ye"
+  },
+  {
+   "w": "था",
+   "r": "thaa",
+   "e": "to be (form of होना)"
+  },
+  {
+   "w": "का",
+   "r": "kaa",
+   "e": "marks the genitive case: -'s, of, belonging to"
+  },
+  {
+   "w": "कर",
+   "r": "kar",
+   "e": "to do, to perform, to execute (form of करना)"
+  },
+  {
+   "w": "यह",
+   "r": "yah",
+   "e": "this one, he, she, it"
+  },
+  {
+   "w": "ने",
+   "r": "ne",
+   "e": "marker of the ergative case with…"
+  },
+  {
+   "w": "पर",
+   "r": "par",
+   "e": "on / at"
+  },
+  {
+   "w": "आप",
+   "r": "aap",
+   "e": "ye, you / self"
+  },
+  {
+   "w": "बहुत",
+   "r": "bahut",
+   "e": "very"
+  },
+  {
+   "w": "रहा",
+   "r": "rahaa",
+   "e": "to stay, remain (form of रहना)"
+  },
+  {
+   "w": "और",
+   "r": "aur",
+   "e": "more"
+  },
+  {
+   "w": "मेरे",
+   "r": "mere",
+   "e": ""
+  },
+  {
+   "w": "भी",
+   "r": "bhee",
+   "e": "even"
+  },
+  {
+   "w": "कि",
+   "r": "ki",
+   "e": "that"
+  },
+  {
+   "w": "उसने",
+   "r": "usne",
+   "e": "that (form of वह)"
+  },
+  {
+   "w": "तो",
+   "r": "to",
+   "e": "then"
+  },
+  {
+   "w": "गया",
+   "r": "gayaa",
+   "e": "to go, move, travel, leave, depart (form of जाना)"
+  },
+  {
+   "w": "तुम्हें",
+   "r": "tumhen",
+   "e": "you, ye (form of तुम)"
+  },
+  {
+   "w": "लिए",
+   "r": "lie",
+   "e": "to take (form of लेना)"
+  },
+  {
+   "w": "हम",
+   "r": "ham",
+   "e": "we: first-person plural personal pronoun"
+  },
+  {
+   "w": "उसे",
+   "r": "use",
+   "e": "that (form of वह)"
+  },
+  {
+   "w": "वे",
+   "r": "ve",
+   "e": "that (form of वह)"
+  },
+  {
+   "w": "कुछ",
+   "r": "kuch",
+   "e": "something / a little, a bit"
+  },
+  {
+   "w": "ही",
+   "r": "hee",
+   "e": "an emphatic particle"
+  },
+  {
+   "w": "मैंने",
+   "r": "mainne",
+   "e": "I (form of मैं)"
+  },
+  {
+   "w": "अपने",
+   "r": "apne",
+   "e": "reflexive pronoun: oneself (form of अपना)"
+  },
+  {
+   "w": "रही",
+   "r": "rahee",
+   "e": "to stay, remain (form of रहना)"
+  },
+  {
+   "w": "साथ",
+   "r": "saath",
+   "e": "together"
+  },
+  {
+   "w": "किया",
+   "r": "kiyaa",
+   "e": "to do, to perform, to execute (form of करना)"
+  },
+  {
+   "w": "थी",
+   "r": "thee",
+   "e": "to be (form of होना)"
+  },
+  {
+   "w": "सकता",
+   "r": "saktaa",
+   "e": "dazed, unnerved, swooned"
+  },
+  {
+   "w": "पास",
+   "r": "paas",
+   "e": "near, nearby"
+  },
+  {
+   "w": "इस",
+   "r": "is",
+   "e": "this one, he, she, it (form of यह)"
+  },
+  {
+   "w": "रहे",
+   "r": "rahe",
+   "e": "to stay, remain (form of रहना)"
+  },
+  {
+   "w": "बात",
+   "r": "baat",
+   "e": "talk / word, utterance"
+  },
+  {
+   "w": "करना",
+   "r": "karnaa",
+   "e": "to do, to perform, to execute"
+  },
+  {
+   "w": "थे",
+   "r": "the",
+   "e": "to be (form of होना)"
+  },
+  {
+   "w": "मेरा",
+   "r": "meraa",
+   "e": "I (form of मैं)"
+  },
+  {
+   "w": "सकते",
+   "r": "sakte",
+   "e": "to be able (form of सकना)"
+  },
+  {
+   "w": "कोई",
+   "r": "koee",
+   "e": "some, certain, any / around"
+  },
+  {
+   "w": "चाहिए",
+   "r": "caahie",
+   "e": "to want, desire (form of चाहना)"
+  },
+  {
+   "w": "करने",
+   "r": "karne",
+   "e": "to do, to perform, to execute (form of करना)"
+  },
+  {
+   "w": "अभी",
+   "r": "abhee",
+   "e": "right now / just now"
+  },
+  {
+   "w": "पसंद",
+   "r": "pasand",
+   "e": "favourite, preference"
+  },
+  {
+   "w": "दिया",
+   "r": "diyaa",
+   "e": "to give, grant, award (form of देना)"
+  },
+  {
+   "w": "कल",
+   "r": "kal",
+   "e": "yesterday / tomorrow"
+  },
+  {
+   "w": "उसके",
+   "r": "uske",
+   "e": ""
+  },
+  {
+   "w": "अपनी",
+   "r": "apnee",
+   "e": "reflexive pronoun: oneself (form of अपना)"
+  },
+  {
+   "w": "काम",
+   "r": "kaam",
+   "e": "work, task, labour / job, employment"
+  },
+  {
+   "w": "घर",
+   "r": "ghar",
+   "e": "house, home, dwelling / den"
+  },
+  {
+   "w": "तुम्हारे",
+   "r": "tumhaare",
+   "e": ""
+  },
+  {
+   "w": "लगता",
+   "r": "lagtaa",
+   "e": "to seem, appear (form of लगना)"
+  },
+  {
+   "w": "पता",
+   "r": "pataa",
+   "e": "address / knowledge, clue"
+  },
+  {
+   "w": "मदद",
+   "r": "madad",
+   "e": "help, assistance, aid, relief / supply, aid"
+  },
+  {
+   "w": "यहाँ",
+   "r": "yahaan",
+   "e": "here"
+  },
+  {
+   "w": "दो",
+   "r": "do",
+   "e": "to give, grant, award (form of देना)"
+  },
+  {
+   "w": "आ",
+   "r": "aa",
+   "e": "to come, approach, draw near (form of आना)"
+  },
+  {
+   "w": "उस",
+   "r": "us",
+   "e": "that (form of वह)"
+  },
+  {
+   "w": "उसकी",
+   "r": "uskee",
+   "e": ""
+  },
+  {
+   "w": "आपको",
+   "r": "aapko",
+   "e": "ye, you (form of आप)"
+  },
+  {
+   "w": "चाहता",
+   "r": "caahtaa",
+   "e": "to want, desire (form of चाहना)"
+  },
+  {
+   "w": "करता",
+   "r": "kartaa",
+   "e": "to do, to perform, to execute (form of करना)"
+  },
+  {
+   "w": "कभी",
+   "r": "kabhee",
+   "e": "sometimes, once in a while / ever"
+  },
+  {
+   "w": "क्यों",
+   "r": "kyon",
+   "e": "why"
+  },
+  {
+   "w": "हुआ",
+   "r": "huaa",
+   "e": "to be (form of होना)"
+  },
+  {
+   "w": "होता",
+   "r": "hotaa",
+   "e": "to be (form of होना)"
+  },
+  {
+   "w": "जा",
+   "r": "jaa",
+   "e": "to go, move, travel, leave, depart (form of जाना)"
+  },
+  {
+   "w": "मत",
+   "r": "mat",
+   "e": "not, do not, prohibitive particle"
+  },
+  {
+   "w": "किसी",
+   "r": "kisee",
+   "e": "some, certain, any (form of कोई)"
+  },
+  {
+   "w": "ज़्यादा",
+   "r": "zyaadaa",
+   "e": "much, a lot / too much"
+  },
+  {
+   "w": "कहाँ",
+   "r": "kahaan",
+   "e": "where / not the case, not even, not at all"
+  },
+  {
+   "w": "करते",
+   "r": "karte",
+   "e": "to do, to perform, to execute (form of करना)"
+  },
+  {
+   "w": "तक",
+   "r": "tak",
+   "e": "till / until"
+  },
+  {
+   "w": "अच्छा",
+   "r": "acchaa",
+   "e": "well"
+  },
+  {
+   "w": "सब",
+   "r": "sab",
+   "e": "all / every"
+  },
+  {
+   "w": "नाम",
+   "r": "naam",
+   "e": "name / name, fame, reputation"
+  },
+  {
+   "w": "देश",
+   "r": "desh",
+   "e": "nation, country / sovereign state"
+  },
+  {
+   "w": "बारे",
+   "r": "baare",
+   "e": "time, turn (form of बारा)"
+  },
+  {
+   "w": "आज",
+   "r": "aaj",
+   "e": "today"
+  },
+  {
+   "w": "सकती",
+   "r": "saktee",
+   "e": "to be able (form of सकना)"
+  },
+  {
+   "w": "हूं",
+   "r": "hoon",
+   "e": ""
+  },
+  {
+   "w": "हमें",
+   "r": "hamen",
+   "e": "we: first-person plural personal… (form of हम)"
+  },
+  {
+   "w": "तुम्हारी",
+   "r": "tumhaaree",
+   "e": ""
+  },
+  {
+   "w": "जो",
+   "r": "jo",
+   "e": "the relative pronoun"
+  },
+  {
+   "w": "समय",
+   "r": "samay",
+   "e": "at the time that, when"
+  },
+  {
+   "w": "देखा",
+   "r": "dekhaa",
+   "e": "to see, to look, to watch (form of देखना)"
+  },
+  {
+   "w": "बस",
+   "r": "bas",
+   "e": "merely, only"
+  },
+  {
+   "w": "अंग्रेज़ी",
+   "r": "angrezee",
+   "e": "English, British"
+  },
+  {
+   "w": "तरह",
+   "r": "tarah",
+   "e": "type, kind / method, manner, mode"
+  },
+  {
+   "w": "गई",
+   "r": "gaee",
+   "e": "to go, move, travel, leave, depart (form of जाना)"
+  },
+  {
+   "w": "चाय",
+   "r": "caay",
+   "e": "tea / cup of tea"
+  },
+  {
+   "w": "हुई",
+   "r": "huee",
+   "e": "to be (form of होना)"
+  },
+  {
+   "w": "अपना",
+   "r": "apnaa",
+   "e": "reflexive pronoun: oneself"
+  },
+  {
+   "w": "गए",
+   "r": "gae",
+   "e": "to go, move, travel, leave, depart (form of जाना)"
+  },
+  {
+   "w": "उन्होंने",
+   "r": "unhonne",
+   "e": "that (form of वह)"
+  },
+  {
+   "w": "होगा",
+   "r": "hogaa",
+   "e": "to be (form of होना)"
+  },
+  {
+   "w": "किताब",
+   "r": "kitaab",
+   "e": "book"
+  },
+  {
+   "w": "साल",
+   "r": "saal",
+   "e": "year"
+  },
+  {
+   "w": "करो",
+   "r": "karo",
+   "e": "to do, to perform, to execute (form of करना)"
+  },
+  {
+   "w": "जाने",
+   "r": "jaane",
+   "e": "to go, move, travel, leave, depart (form of जाना)"
+  },
+  {
+   "w": "उसका",
+   "r": "uskaa",
+   "e": "that (form of वह)"
+  },
+  {
+   "w": "उन्हें",
+   "r": "unhen",
+   "e": "that (form of वह)"
+  },
+  {
+   "w": "गाड़ी",
+   "r": "gaaree",
+   "e": "car, truck, bus / carriage"
+  },
+  {
+   "w": "हमारे",
+   "r": "hamaare",
+   "e": ""
+  },
+  {
+   "w": "सबसे",
+   "r": "sabse",
+   "e": "most"
+  },
+  {
+   "w": "लोग",
+   "r": "log",
+   "e": "marks the plural number"
+  },
+  {
+   "w": "मुझसे",
+   "r": "mujhse",
+   "e": "I (form of मैं)"
+  },
+  {
+   "w": "रात",
+   "r": "raat",
+   "e": "night"
+  },
+  {
+   "w": "बजे",
+   "r": "baje",
+   "e": "o'clock"
+  },
+  {
+   "w": "न",
+   "r": "na",
+   "e": "not, do not, prohibitive particle / isn't it?"
+  },
+  {
+   "w": "आपके",
+   "r": "aapke",
+   "e": ""
+  },
+  {
+   "w": "उससे",
+   "r": "usse",
+   "e": "that (form of वह)"
+  },
+  {
+   "w": "जाना",
+   "r": "jaanaa",
+   "e": "to go, move, travel, leave, depart"
+  },
+  {
+   "w": "होती",
+   "r": "hotee",
+   "e": "to be (form of होना)"
+  },
+  {
+   "w": "अच्छी",
+   "r": "acchee",
+   "e": "good, nice, fine (form of अच्छा)"
+  },
+  {
+   "w": "शादी",
+   "r": "shaadee",
+   "e": "marriage, wedding"
+  },
+  {
+   "w": "पहले",
+   "r": "pahle",
+   "e": "previously, earlier, before / first, firstly"
+  },
+  {
+   "w": "अब",
+   "r": "ab",
+   "e": "now / after all"
+  },
+  {
+   "w": "तुमने",
+   "r": "tumne",
+   "e": "you, ye (form of तुम)"
+  },
+  {
+   "w": "तीन",
+   "r": "teen",
+   "e": "three"
+  },
+  {
+   "w": "भारत",
+   "r": "bhaarat",
+   "e": "India"
+  },
+  {
+   "w": "चाहते",
+   "r": "caahte",
+   "e": "to want, desire (form of चाहना)"
+  },
+  {
+   "w": "आया",
+   "r": "aayaa",
+   "e": "to come, approach, draw near (form of आना)"
+  },
+  {
+   "w": "बड़ा",
+   "r": "baraa",
+   "e": "big, large, huge / massive, heavy"
+  },
+  {
+   "w": "हुए",
+   "r": "hue",
+   "e": "to be (form of होना)"
+  },
+  {
+   "w": "वहाँ",
+   "r": "vahaan",
+   "e": "there"
+  },
+  {
+   "w": "वाला",
+   "r": "vaalaa",
+   "e": "one / one who does"
+  },
+  {
+   "w": "आपकी",
+   "r": "aapkee",
+   "e": ""
+  },
+  {
+   "w": "दी",
+   "r": "dee",
+   "e": "to give, grant, award (form of देना)"
+  },
+  {
+   "w": "दिन",
+   "r": "din",
+   "e": "day / day, daytime"
+  },
+  {
+   "w": "करती",
+   "r": "kartee",
+   "e": "to do, to perform, to execute (form of करना)"
+  },
+  {
+   "w": "उसको",
+   "r": "usko",
+   "e": "that (form of वह)"
+  },
+  {
+   "w": "जाता",
+   "r": "jaataa",
+   "e": "to go, move, travel, leave, depart (form of जाना)"
+  },
+  {
+   "w": "कितने",
+   "r": "kitne",
+   "e": "how much (form of कितना)"
+  },
+  {
+   "w": "लिया",
+   "r": "liyaa",
+   "e": "to take (form of लेना)"
+  },
+  {
+   "w": "चाहती",
+   "r": "caahtee",
+   "e": "to want, desire (form of चाहना)"
+  },
+  {
+   "w": "दोस्त",
+   "r": "dost",
+   "e": "friend"
+  },
+  {
+   "w": "देख",
+   "r": "dekh",
+   "e": "to see, to look, to watch (form of देखना)"
+  },
+  {
+   "w": "अगर",
+   "r": "agar",
+   "e": "if"
+  },
+  {
+   "w": "प्यार",
+   "r": "pyaar",
+   "e": "love, strong affection / caress"
+  },
+  {
+   "w": "हर",
+   "r": "har",
+   "e": "each / every"
+  },
+  {
+   "w": "कहा",
+   "r": "kahaa",
+   "e": "to say (form of कहना)"
+  },
+  {
+   "w": "बाहर",
+   "r": "baahar",
+   "e": "outside / outdoors, out"
+  },
+  {
+   "w": "तुम्हारा",
+   "r": "tumhaaraa",
+   "e": "you, ye (form of तुम)"
+  },
+  {
+   "w": "सामी",
+   "r": "saamee",
+   "e": "Semitic"
+  },
+  {
+   "w": "छोड़",
+   "r": "chora",
+   "e": "to release, let go (form of छोड़ना)"
+  },
+  {
+   "w": "पैसे",
+   "r": "paise",
+   "e": "paisa (form of पैसा)"
+  },
+  {
+   "w": "कम",
+   "r": "kam",
+   "e": "few"
+  },
+  {
+   "w": "कौन",
+   "r": "kaun",
+   "e": "who?"
+  },
+  {
+   "w": "खाना",
+   "r": "khaanaa",
+   "e": "to eat, consume / to consume, use up, waste"
+  },
+  {
+   "w": "कैसे",
+   "r": "kaise",
+   "e": "how"
+  },
+  {
+   "w": "बार",
+   "r": "baar",
+   "e": "occasion, time"
+  },
+  {
+   "w": "दे",
+   "r": "de",
+   "e": "to give, grant, award (form of देना)"
+  },
+  {
+   "w": "हमेशा",
+   "r": "hameshaa",
+   "e": "always / continually"
+  },
+  {
+   "w": "समझ",
+   "r": "samajh",
+   "e": "understanding, intellect"
+  },
+  {
+   "w": "कोशिश",
+   "r": "koshish",
+   "e": "effort, try / attempt"
+  },
+  {
+   "w": "कब",
+   "r": "kab",
+   "e": "when"
+  },
+  {
+   "w": "सभी",
+   "r": "sabhee",
+   "e": ""
+  },
+  {
+   "w": "आदमी",
+   "r": "aadmee",
+   "e": "human being, person / man, male"
+  },
+  {
+   "w": "आपका",
+   "r": "aapkaa",
+   "e": "ye, you (form of आप)"
+  },
+  {
+   "w": "जानते",
+   "r": "jaante",
+   "e": "to know, comprehend, understand (form of जानना)"
+  },
+  {
+   "w": "सच",
+   "r": "sac",
+   "e": "truth"
+  },
+  {
+   "w": "जवाब",
+   "r": "javaab",
+   "e": "answer, reply, response"
+  },
+  {
+   "w": "हमने",
+   "r": "hamne",
+   "e": "we: first-person plural personal… (form of हम)"
+  },
+  {
+   "w": "बंद",
+   "r": "band",
+   "e": "closed, shut / clogged"
+  },
+  {
+   "w": "ना",
+   "r": "naa",
+   "e": "not, don't, do not / why not, doesn't"
+  },
+  {
+   "w": "जब",
+   "r": "jab",
+   "e": "when"
+  },
+  {
+   "w": "या",
+   "r": "yaa",
+   "e": "or"
+  },
+  {
+   "w": "बता",
+   "r": "bataa",
+   "e": "to tell, explain (form of बताना)"
+  },
+  {
+   "w": "लिये",
+   "r": "liye",
+   "e": "to take (form of लेना)"
+  },
+  {
+   "w": "जल्दी",
+   "r": "jaldee",
+   "e": "quickly, rapidly, soon / early"
+  },
+  {
+   "w": "रहता",
+   "r": "rahtaa",
+   "e": "to stay, remain (form of रहना)"
+  },
+  {
+   "w": "ठीक",
+   "r": "theek",
+   "e": "exactly / precisely"
+  },
+  {
+   "w": "आता",
+   "r": "aataa",
+   "e": "to come, approach, draw near (form of आना)"
+  },
+  {
+   "w": "बाद",
+   "r": "baad",
+   "e": "after, afterwards / later"
+  },
+  {
+   "w": "हमारी",
+   "r": "hamaaree",
+   "e": ""
+  },
+  {
+   "w": "पानी",
+   "r": "paanee",
+   "e": "water / rain, monsoon"
+  },
+  {
+   "w": "फिर",
+   "r": "phir",
+   "e": "then, afterwards, so / again"
+  },
+  {
+   "w": "बताया",
+   "r": "bataayaa",
+   "e": "to tell, explain (form of बताना)"
+  },
+  {
+   "w": "स्कूल",
+   "r": "skool",
+   "e": "school"
+  },
+  {
+   "w": "उनके",
+   "r": "unke",
+   "e": ""
+  },
+  {
+   "w": "सारे",
+   "r": "saare",
+   "e": "whole, entire (form of सारा)"
+  },
+  {
+   "w": "ले",
+   "r": "le",
+   "e": "to take (form of लेना)"
+  },
+  {
+   "w": "ये",
+   "r": "ye",
+   "e": "these / he, she"
+  },
+  {
+   "w": "ज़रूरत",
+   "r": "zaroorat",
+   "e": "necessity / requirement"
+  },
+  {
+   "w": "जानता",
+   "r": "jaantaa",
+   "e": "to know, comprehend, understand (form of जानना)"
+  },
+  {
+   "w": "पिता",
+   "r": "pitaa",
+   "e": "father"
+  },
+  {
+   "w": "होने",
+   "r": "hone",
+   "e": "to be (form of होना)"
+  },
+  {
+   "w": "बच्चे",
+   "r": "bacce",
+   "e": "child (form of बच्चा)"
+  },
+  {
+   "w": "लोगों",
+   "r": "logon",
+   "e": "people (form of लोग)"
+  },
+  {
+   "w": "कमरे",
+   "r": "kamre",
+   "e": "room, chamber (form of कमरा)"
+  },
+  {
+   "w": "देर",
+   "r": "der",
+   "e": "period of time, a while / delay, hold-up"
+  },
+  {
+   "w": "भाषा",
+   "r": "bhaashaa",
+   "e": "language, speech"
+  },
+  {
+   "w": "होते",
+   "r": "hote",
+   "e": "to be (form of होना)"
+  },
+  {
+   "w": "बारिश",
+   "r": "baarish",
+   "e": "rain"
+  },
+  {
+   "w": "माँ",
+   "r": "maan",
+   "e": "mother / mum, mummy"
+  },
+  {
+   "w": "दस",
+   "r": "das",
+   "e": "ten"
+  },
+  {
+   "w": "जापान",
+   "r": "jaapaan",
+   "e": "Japan"
+  },
+  {
+   "w": "फ़ोन",
+   "r": "fon",
+   "e": "phone"
+  },
+  {
+   "w": "लगा",
+   "r": "lagaa",
+   "e": "to seem, appear (form of लगना)"
+  },
+  {
+   "w": "उनकी",
+   "r": "unkee",
+   "e": ""
+  },
+  {
+   "w": "वापस",
+   "r": "vaapas",
+   "e": "back / returned, restored"
+  },
+  {
+   "w": "जाती",
+   "r": "jaatee",
+   "e": "to go, move, travel, leave, depart (form of जाना)"
+  },
+  {
+   "w": "मिला",
+   "r": "milaa",
+   "e": "to meet, encounter, have a meeting (form of मिलना)"
+  },
+  {
+   "w": "सवाल",
+   "r": "savaal",
+   "e": "question"
+  },
+  {
+   "w": "आपने",
+   "r": "aapne",
+   "e": "ye, you (form of आप)"
+  },
+  {
+   "w": "तुमसे",
+   "r": "tumse",
+   "e": "you, ye (form of तुम)"
+  },
+  {
+   "w": "शुरू",
+   "r": "shuroo",
+   "e": "beginning / commencement"
+  },
+  {
+   "w": "दुनिया",
+   "r": "duniyaa",
+   "e": "world / kingdom"
+  },
+  {
+   "w": "लड़की",
+   "r": "larakee",
+   "e": "girl / daughter"
+  },
+  {
+   "w": "चला",
+   "r": "calaa",
+   "e": "to cause to move, go, or proceed (form of चलाना)"
+  },
+  {
+   "w": "भाई",
+   "r": "bhaaee",
+   "e": "brother / used to refer to any male person"
+  },
+  {
+   "w": "वाली",
+   "r": "vaalee",
+   "e": "doer (form of -वाला)"
+  },
+  {
+   "w": "बोल",
+   "r": "bol",
+   "e": "to speak, say (form of बोलना)"
+  },
+  {
+   "w": "अच्छे",
+   "r": "acche",
+   "e": "good, nice, fine (form of अच्छा)"
+  },
+  {
+   "w": "लग",
+   "r": "lag",
+   "e": "up to, as far as, until / near, along with"
+  },
+  {
+   "w": "ऐसा",
+   "r": "aisaa",
+   "e": "of this sort, of this kind"
+  },
+  {
+   "w": "सुंदर",
+   "r": "sundar",
+   "e": "beautiful, pretty, good-looking, handsome"
+  },
+  {
+   "w": "मिल",
+   "r": "mil",
+   "e": "to meet, encounter, have a meeting (form of मिलना)"
+  },
+  {
+   "w": "कई",
+   "r": "kaee",
+   "e": "several things, several people / many, many people"
+  },
+  {
+   "w": "खुश",
+   "r": "khush",
+   "e": "happy, glad, gay, pleased, merry (form of ख़ुश)"
+  },
+  {
+   "w": "चल",
+   "r": "cal",
+   "e": "to go, to move (form of चलना)"
+  },
+  {
+   "w": "पूरी",
+   "r": "pooree",
+   "e": "whole (form of पूरा)"
+  },
+  {
+   "w": "आती",
+   "r": "aatee",
+   "e": "to come, approach, draw near (form of आना)"
+  },
+  {
+   "w": "खेल",
+   "r": "khel",
+   "e": "to play (form of खेलना)"
+  },
+  {
+   "w": "कितनी",
+   "r": "kitnee",
+   "e": "how much (form of कितना)"
+  },
+  {
+   "w": "कहते",
+   "r": "kahte",
+   "e": "to say (form of कहना)"
+  },
+  {
+   "w": "वाले",
+   "r": "vaale",
+   "e": ""
+  },
+  {
+   "w": "चीन",
+   "r": "ceen",
+   "e": "China (a cultural region and civilization in…"
+  },
+  {
+   "w": "नौकरी",
+   "r": "naukree",
+   "e": "job, employment, service"
+  },
+  {
+   "w": "रहते",
+   "r": "rahte",
+   "e": "to stay, remain (form of रहना)"
+  },
+  {
+   "w": "दीजिए",
+   "r": "deejie",
+   "e": "to give, grant, award (form of देना)"
+  },
+  {
+   "w": "जाएगा",
+   "r": "jaaegaa",
+   "e": "to go, move, travel, leave, depart (form of जाना)"
+  },
+  {
+   "w": "देना",
+   "r": "denaa",
+   "e": "to give, grant, award / to lay, give birth to"
+  },
+  {
+   "w": "शहर",
+   "r": "shahar",
+   "e": "city"
+  },
+  {
+   "w": "पढ़",
+   "r": "parha",
+   "e": "to read (form of पढ़ना)"
+  },
+  {
+   "w": "करनी",
+   "r": "karnee",
+   "e": "deed, act"
+  },
+  {
+   "w": "कीजिए",
+   "r": "keejie",
+   "e": "to do, to perform, to execute (form of करना)"
+  },
+  {
+   "w": "जाओ",
+   "r": "jaao",
+   "e": "to go, move, travel, leave, depart (form of जाना)"
+  },
+  {
+   "w": "मुश्किल",
+   "r": "mushkil",
+   "e": "difficult, hard / problematic"
+  },
+  {
+   "w": "लाल",
+   "r": "laal",
+   "e": "red"
+  },
+  {
+   "w": "पापा",
+   "r": "paapaa",
+   "e": "dad, daddy"
+  },
+  {
+   "w": "दोनों",
+   "r": "donon",
+   "e": "both"
+  },
+  {
+   "w": "सुबह",
+   "r": "subah",
+   "e": "in the morning"
+  },
+  {
+   "w": "कुत्ता",
+   "r": "kuttaa",
+   "e": "dog / a conman, cheat, dog"
+  },
+  {
+   "w": "बड़े",
+   "r": "bare",
+   "e": "big, large, huge (form of बड़ा)"
+  },
+  {
+   "w": "बच्चों",
+   "r": "baccon",
+   "e": "child (form of बच्चा)"
+  },
+  {
+   "w": "गये",
+   "r": "gaye",
+   "e": "to go, move, travel, leave, depart (form of जाना)"
+  },
+  {
+   "w": "सही",
+   "r": "sahee",
+   "e": "to bear, suffer (form of सहना)"
+  },
+  {
+   "w": "याद",
+   "r": "yaad",
+   "e": "a memory, recollection"
+  },
+  {
+   "w": "यहां",
+   "r": "yahaan",
+   "e": "here"
+  },
+  {
+   "w": "थोड़ी",
+   "r": "thoree",
+   "e": "some, a little, small (form of थोड़ा)"
+  },
+  {
+   "w": "बिना",
+   "r": "binaa",
+   "e": "without, lacking"
+  },
+  {
+   "w": "बहन",
+   "r": "bahan",
+   "e": "sister / female cousin"
+  },
+  {
+   "w": "सारी",
+   "r": "saaree",
+   "e": "whole, entire (form of सारा)"
+  },
+  {
+   "w": "बड़ी",
+   "r": "baree",
+   "e": "big, large, huge (form of बड़ा)"
+  },
+  {
+   "w": "थक",
+   "r": "thak",
+   "e": "to become tired, exhausted (form of थकना)"
+  },
+  {
+   "w": "करी",
+   "r": "karee",
+   "e": "an elephant"
+  },
+  {
+   "w": "पाँच",
+   "r": "paanca",
+   "e": "five"
+  },
+  {
+   "w": "बिलकुल",
+   "r": "bilkul",
+   "e": "quite, at all, wholly"
+  },
+  {
+   "w": "फ़्रांसीसी",
+   "r": "fraanseesee",
+   "e": "French"
+  },
+  {
+   "w": "अंदर",
+   "r": "andar",
+   "e": "inside, within, in"
+  },
+  {
+   "w": "भूल",
+   "r": "bhool",
+   "e": "mistake, error, blunder, oversight"
+  },
+  {
+   "w": "चीज़",
+   "r": "ceez",
+   "e": "thing, object, item / cheez"
+  },
+  {
+   "w": "ट्रेन",
+   "r": "tren",
+   "e": "train, rail"
+  },
+  {
+   "w": "होगी",
+   "r": "hogee",
+   "e": "to be (form of होना)"
+  },
+  {
+   "w": "गयी",
+   "r": "gayee",
+   "e": "to go, move, travel, leave, depart (form of जाना)"
+  },
+  {
+   "w": "कुत्ते",
+   "r": "kutte",
+   "e": "dog (form of कुत्ता)"
+  },
+  {
+   "w": "जापानी",
+   "r": "jaapaanee",
+   "e": "Japanese"
+  },
+  {
+   "w": "रहना",
+   "r": "rahnaa",
+   "e": "to stay, remain / to live, to reside"
+  },
+  {
+   "w": "लैला",
+   "r": "lailaa",
+   "e": "a Juliet"
+  },
+  {
+   "w": "लगी",
+   "r": "lagee",
+   "e": "to seem, appear (form of लगना)"
+  },
+  {
+   "w": "पढ़ाई",
+   "r": "parhaaee",
+   "e": "study, learning / reading"
+  },
+  {
+   "w": "हमे",
+   "r": "hame",
+   "e": ""
+  },
+  {
+   "w": "हाथ",
+   "r": "haath",
+   "e": "hand"
+  },
+  {
+   "w": "किताबें",
+   "r": "kitaaben",
+   "e": "book (form of किताब)"
+  },
+  {
+   "w": "खा",
+   "r": "khaa",
+   "e": "to eat, consume (form of खाना)"
+  },
+  {
+   "w": "पिछले",
+   "r": "pichle",
+   "e": "previous, last (form of पिछला)"
+  },
+  {
+   "w": "हफ़्ते",
+   "r": "hafte",
+   "e": "week (form of हफ़्ता)"
+  },
+  {
+   "w": "बना",
+   "r": "banaa",
+   "e": "to become (form of बनना)"
+  },
+  {
+   "w": "अगले",
+   "r": "agle",
+   "e": "next (form of अगला)"
+  },
+  {
+   "w": "वैसा",
+   "r": "vaisaa",
+   "e": "like that, of that sort"
+  },
+  {
+   "w": "आने",
+   "r": "aane",
+   "e": "to come, approach, draw near (form of आना)"
+  },
+  {
+   "w": "खतम",
+   "r": "khatam",
+   "e": "completed, finished (form of ख़त्म)"
+  },
+  {
+   "w": "हमारा",
+   "r": "hamaaraa",
+   "e": "we: first-person plural personal… (form of हम)"
+  }
+ ],
+ "phrases": [
+  {
+   "cat": "Essentials",
+   "t": "नमस्ते",
+   "r": "namaste",
+   "e": "Hello"
+  },
+  {
+   "cat": "Essentials",
+   "t": "धन्यवाद",
+   "r": "dhanyavaad",
+   "e": "Thank you"
+  },
+  {
+   "cat": "Essentials",
+   "t": "कृपया",
+   "r": "kripayaa",
+   "e": "Please"
+  },
+  {
+   "cat": "Essentials",
+   "t": "अलविदा",
+   "r": "alvidaa",
+   "e": "Goodbye"
+  },
+  {
+   "cat": "Essentials",
+   "t": "हाँ",
+   "r": "haan",
+   "e": "Yes"
+  },
+  {
+   "cat": "Essentials",
+   "t": "नहीं",
+   "r": "nahin",
+   "e": "No"
+  },
+  {
+   "cat": "Essentials",
+   "t": "माफ़ कीजिए",
+   "r": "maaf keejiye",
+   "e": "Sorry / excuse me"
+  },
+  {
+   "cat": "Essentials",
+   "t": "आप कैसे हैं?",
+   "r": "aap kaise hain?",
+   "e": "How are you?"
+  },
+  {
+   "cat": "Essentials",
+   "t": "मेरा नाम ... है।",
+   "r": "meraa naam ... hai.",
+   "e": "My name is ..."
+  },
+  {
+   "cat": "Essentials",
+   "t": "शौचालय कहाँ है?",
+   "r": "shauchaalay kahaan hai?",
+   "e": "Where is the toilet?"
+  },
+  {
+   "cat": "Essentials",
+   "t": "यह कितने का है?",
+   "r": "yah kitne kaa hai?",
+   "e": "How much is it?"
+  },
+  {
+   "cat": "Essentials",
+   "t": "मुझे समझ नहीं आया।",
+   "r": "mujhe samajh nahin aayaa.",
+   "e": "I don't understand."
+  },
+  {
+   "cat": "Greetings",
+   "t": "वहाँ ऊपर क्या है?",
+   "r": "vahaan oopar kyaa hai?",
+   "e": "What's up there?"
+  },
+  {
+   "cat": "Greetings",
+   "t": "नमस्ते, आप कैसे हैं?",
+   "r": "namste, aap kaise hain?",
+   "e": "Hello and how are you?"
+  },
+  {
+   "cat": "Greetings",
+   "t": "अपना ध्यान रखना।",
+   "r": "apnaa dhyaan rakhnaa.",
+   "e": "Take care."
+  },
+  {
+   "cat": "Greetings",
+   "t": "हमारे ग्रह का ध्यान रखो।",
+   "r": "hamaare grah kaa dhyaan rakho.",
+   "e": "Take care of our planet."
+  },
+  {
+   "cat": "Greetings",
+   "t": "मज़े करो।",
+   "r": "maze karo.",
+   "e": "Have a good time."
+  },
+  {
+   "cat": "Greetings",
+   "t": "अपना ख़याल रखना।",
+   "r": "apnaa khayaal rakhnaa.",
+   "e": "Take care of yourself."
+  },
+  {
+   "cat": "Greetings",
+   "t": "आपसे मिलकर खुशी हुई।",
+   "r": "aapse milkar khushee huee.",
+   "e": "Nice to meet you."
+  },
+  {
+   "cat": "Greetings",
+   "t": "नमस्ते दुनिया।",
+   "r": "namste duniyaa.",
+   "e": "Hello, world!"
+  },
+  {
+   "cat": "Introductions",
+   "t": "आपका नाम क्या है?",
+   "r": "aapkaa naam kyaa hai?",
+   "e": "What's your name?"
+  },
+  {
+   "cat": "Introductions",
+   "t": "मैं एक होटल में रहता हूँ।",
+   "r": "main ek hotal men rahtaa hoon.",
+   "e": "I live in a hotel."
+  },
+  {
+   "cat": "Introductions",
+   "t": "आज मैं चार साल का हो गया हूँ।",
+   "r": "aaj main caar saal kaa ho gayaa hoon.",
+   "e": "Today I turn four years old."
+  },
+  {
+   "cat": "Introductions",
+   "t": "मैं बड़े शहर में रहता हूँ।",
+   "r": "main bare shahar men rahtaa hoon.",
+   "e": "I live in a big city."
+  },
+  {
+   "cat": "Introductions",
+   "t": "मैं २० साल का हूँ।",
+   "r": "main 20 saal kaa hoon.",
+   "e": "I am 20 years old."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "मेरे बस की बात नहीं है।",
+   "r": "mere bas kee baat naheen hai.",
+   "e": "It's not my cup of tea."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "मुझे कॉफ़ी पसंद नहीं है।",
+   "r": "mujhe kaofee pasand naheen hai.",
+   "e": "I don't like coffee."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "उसे भूख नहीं है।",
+   "r": "use bhookh naheen hai.",
+   "e": "He's not hungry."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "मुझे चाय पसंद है।",
+   "r": "mujhe caay pasand hai.",
+   "e": "I like tea."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "मुझे अंडे पसंद नहीं है।",
+   "r": "mujhe ande pasand naheen hai.",
+   "e": "I don't like eggs."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "मुझे खाना पसंद है।",
+   "r": "mujhe khaanaa pasand hai.",
+   "e": "I like to eat."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "मुझे पानी की ज़रूरत है।",
+   "r": "mujhe paanee kee zaroorat hai.",
+   "e": "I need water."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "मेरी चाय कहाँ है?",
+   "r": "meree caay kahaan hai?",
+   "e": "Where's my tea?"
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "मैं खा सकता हूँ।",
+   "r": "main khaa saktaa hoon.",
+   "e": "I can eat."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "मैं खाता हूँ।",
+   "r": "main khaataa hoon.",
+   "e": "I eat."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "मैं अभी भी खा रहा हूँ।",
+   "r": "main abhee bhee khaa rahaa hoon.",
+   "e": "I am still eating."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "मैं चाय बना रहा हूँ।",
+   "r": "main caay banaa rahaa hoon.",
+   "e": "I'm making tea."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "गोल्फ़ मेरे बस की बात नहीं है।",
+   "r": "golf mere bas kee baat naheen hai.",
+   "e": "Golf isn't my cup of tea."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "मुझे चाय से ज़्यादा कॉफ़ी पसंद है।",
+   "r": "mujhe caay se zyaadaa kaofee pasand hai.",
+   "e": "I prefer coffee to tea."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "मैं पीता हूँ।",
+   "r": "main peetaa hoon.",
+   "e": "I drink."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "मुझे तो चाय से ज़्यादा कॉफ़ी पसंद है।",
+   "r": "mujhe to caay se zyaadaa kaofee pasand hai.",
+   "e": "Me, I prefer coffee to tea."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "तुम खा क्यों नहीं रहे?",
+   "r": "tum khaa kyon naheen rahe?",
+   "e": "Why aren't you eating?"
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "मैं दूध नहीं पी सकता।",
+   "r": "main doodh naheen pee saktaa.",
+   "e": "I can't drink milk."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "मुझे बहुत भूख लगी है।",
+   "r": "mujhe bahut bhookh lagee hai.",
+   "e": "I'm really hungry."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "तुम खा रहे हो।",
+   "r": "tum khaa rahe ho.",
+   "e": "You're eating."
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "मुझे भूख लगी है!",
+   "r": "mujhe bhookh lagee hai!",
+   "e": "I'm hungry!"
+  },
+  {
+   "cat": "Food & ordering",
+   "t": "मैं बहुत प्यासा था।",
+   "r": "main bahut pyaasaa thaa.",
+   "e": "I was very thirsty."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "मेरे पास एक गाड़ी है।",
+   "r": "mere paas ek gaaree hai.",
+   "e": "I have a car."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "यहाँ से ज़्यादा दूर नहीं है।",
+   "r": "yahaan se zyaadaa door naheen hai.",
+   "e": "It's not that far from here."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "वह हमारी ट्रेन है।",
+   "r": "vah hamaaree tren hai.",
+   "e": "That's our train."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "तुम मेरे गाड़ी में क्यों थे?",
+   "r": "tum mere gaaree men kyon the?",
+   "e": "Why were you in my car?"
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "तुम गाड़ी चला सकते हो क्या?",
+   "r": "tum gaaree calaa sakte ho kyaa?",
+   "e": "Can you drive?"
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "मैं यहाँ मेरी गाड़ी में बैठा हूँ।",
+   "r": "main yahaan meree gaaree men baithaa hoon.",
+   "e": "I'm sitting here in my car."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "मैं गाड़ी चला सकता हूँ।",
+   "r": "main gaaree calaa saktaa hoon.",
+   "e": "I can drive a car."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "मुझे यह साइकिल अब भी पसंद है।",
+   "r": "mujhe yah saaikil ab bhee pasand hai.",
+   "e": "I still love this bicycle."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "मुझे लगता है ट्रेन आने ही वाली है।",
+   "r": "mujhe lagtaa hai tren aane hee vaalee hai.",
+   "e": "I think the train will come soon."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "बैंक कहाँ है?",
+   "r": "baink kahaan hai?",
+   "e": "Where's the bank?"
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "तुम्हें गाड़ी चलाना आता है क्या?",
+   "r": "tumhen gaaree calaanaa aataa hai kyaa?",
+   "e": "Can you drive a car?"
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "मैं टैक्सी का इंतेज़ार कर रहा था।",
+   "r": "main taiksee kaa intezaar kar rahaa thaa.",
+   "e": "I was waiting for a taxi."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "वहाँ पर एक बस स्टॉप है।",
+   "r": "vahaan par ek bas staopa hai.",
+   "e": "There's a bus stop there."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "यह साईकल तुम्हारे लिए बहुत छोटी है।",
+   "r": "yah saaeekal tumhaare lie bahut chotee hai.",
+   "e": "That bicycle is too small for you."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "मैंने उसे बस में छोड़ दिया होगा।",
+   "r": "mainne use bas men chora diyaa hogaa.",
+   "e": "I must have left it on the bus."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "मैं आस-पड़ोस में रहता हूँ।",
+   "r": "main aas-paros men rahtaa hoon.",
+   "e": "I live near here."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "हर जहाज़ को एक कप्तान की ज़रूरत होती है।",
+   "r": "har jahaaz ko ek kaptaan kee zaroorat hotee hai.",
+   "e": "Every ship needs a captain."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "उन सभी के पास साईकल है।",
+   "r": "un sabhee ke paas saaeekal hai.",
+   "e": "Each of them has a bicycle."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "मैं बस में अपनी टोपी भूल आया।",
+   "r": "main bas men apnee topee bhool aayaa.",
+   "e": "I lost my hat on the bus."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "आप किसी सनकी की तरह गाड़ी चला रहे हैं!",
+   "r": "aap kisee sankee kee tarah gaaree calaa rahe hain!",
+   "e": "You're driving like a maniac!"
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "मैं ग्यारह बजे की ट्रेन पकड़ रहा हूँ।",
+   "r": "main gyaarah baje kee tren pakara rahaa hoon.",
+   "e": "I'm catching the 11:00 train."
+  },
+  {
+   "cat": "Directions & transport",
+   "t": "मेरी टिकट खो गई है।",
+   "r": "meree tikat kho gaee hai.",
+   "e": "I've lost my ticket."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "मुझे यह दुकान पसंद नहीं है।",
+   "r": "mujhe yah dukaan pasand naheen hai.",
+   "e": "I don't like this store."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "तुम्हारे पास कुछ पैसे नहीं हैं क्या?",
+   "r": "tumhaare paas kuch paise naheen hain kyaa?",
+   "e": "Haven't you got any money?"
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "पैसे बहुत ज़्यादा हैं क्या?",
+   "r": "paise bahut zyaadaa hain kyaa?",
+   "e": "Too much money?"
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "मेरे पास ज़्यादा पैसे नहीं हैं।",
+   "r": "mere paas zyaadaa paise naheen hain.",
+   "e": "I don't have much money."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "बहुत महंगा है!",
+   "r": "bahut mahngaa hai!",
+   "e": "It's too expensive."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "मैं १६ साल का हो गया।",
+   "r": "main 16 saal kaa ho gayaa.",
+   "e": "I turned 16."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "मुझे एक तो खरीदना ही होगा।",
+   "r": "mujhe ek to khareednaa hee hogaa.",
+   "e": "I must buy one."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "मैं वह ड्रेस खरीदना चाहता हूँ।",
+   "r": "main vah dres khareednaa caahtaa hoon.",
+   "e": "I want to buy the dress."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "मुझे उस घर को न खरीदने का पछतावा हो रहा है।",
+   "r": "mujhe us ghar ko na khareedne kaa pachtaavaa ho rahaa hai.",
+   "e": "I regret not having bought that house."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "मैं दिन के €100 कमाता हूं।",
+   "r": "main din ke €100 kamaataa hoon.",
+   "e": "I make €100 a day."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "मैं सौ प्रतिशत गलत नहीं हूँ।",
+   "r": "main sau pratishat galat naheen hoon.",
+   "e": "I'm not one hundred percent wrong."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "पाँच से दस को जोड़ना बहुत आसान है।",
+   "r": "paanca se das ko joranaa bahut aasaan hai.",
+   "e": "It's easy to add 5 to 10."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "मैंने कल एक किताब खरीदी थी।",
+   "r": "mainne kal ek kitaab khareedee thee.",
+   "e": "I bought a book yesterday."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "मम्मी ने मेरे लिए वह किताब खरीदी।",
+   "r": "mammee ne mere lie vah kitaab khareedee.",
+   "e": "Mother bought me the book."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "इसका दाम क्या है?",
+   "r": "iskaa daam kyaa hai?",
+   "e": "What's the price of this?"
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "मैं पैसे दूंगा।",
+   "r": "main paise doongaa.",
+   "e": "I'll pay."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "इन दोनो में से ज़्यादा महंगा कौनसा है?",
+   "r": "in dono men se zyaadaa mahngaa kaunsaa hai?",
+   "e": "Which is the more expensive of the two?"
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "लगभग कितनी कीमत का है?",
+   "r": "lagbhag kitnee keemat kaa hai?",
+   "e": "About how much will it cost?"
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "मैं एक नया कम्प्यूटर खरीदना चाहता हूँ।",
+   "r": "main ek nayaa kampyootar khareednaa caahtaa hoon.",
+   "e": "I want to buy a new computer."
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "तुम मुझे पाँच सौ येन उधार दे सकते हो क्या?",
+   "r": "tum mujhe paanca sau yen udhaar de sakte ho kyaa?",
+   "e": "Can you lend me 500 yen?"
+  },
+  {
+   "cat": "Shopping & numbers",
+   "t": "मैंने उसे दस डॉलर के लिए बेच दिया।",
+   "r": "mainne use das daolar ke lie bec diyaa.",
+   "e": "I sold it for ten dollars."
+  },
+  {
+   "cat": "School",
+   "t": "वह स्कूल में है।",
+   "r": "vah skool men hai.",
+   "e": "He's at school."
+  },
+  {
+   "cat": "School",
+   "t": "वह एक किताब है।",
+   "r": "vah ek kitaab hai.",
+   "e": "That is a book."
+  },
+  {
+   "cat": "School",
+   "t": "यह किताब है।",
+   "r": "yah kitaab hai.",
+   "e": "It's this book."
+  },
+  {
+   "cat": "School",
+   "t": "यह मेरी स्कूल नहीं है।",
+   "r": "yah meree skool naheen hai.",
+   "e": "That is not my school."
+  },
+  {
+   "cat": "School",
+   "t": "मैं विद्यार्थी नहीं हूँ।",
+   "r": "main vidyaarthee naheen hoon.",
+   "e": "I'm not a student."
+  },
+  {
+   "cat": "School",
+   "t": "मुझे पाठशाला पसंद नहीं है।",
+   "r": "mujhe paathshaalaa pasand naheen hai.",
+   "e": "I don't like school."
+  },
+  {
+   "cat": "School",
+   "t": "क्या यह किताब तुम्हारी है?",
+   "r": "kyaa yah kitaab tumhaaree hai?",
+   "e": "Is this book yours?"
+  },
+  {
+   "cat": "School",
+   "t": "वह किताब पढ़ रहा है क्या?",
+   "r": "vah kitaab parha rahaa hai kyaa?",
+   "e": "Is he reading a book?"
+  },
+  {
+   "cat": "School",
+   "t": "मुझे मेरी भाषा पसंद है।",
+   "r": "mujhe meree bhaashaa pasand hai.",
+   "e": "I like my language."
+  },
+  {
+   "cat": "School",
+   "t": "वे तुम्हारी किताबें नहीं हैं?",
+   "r": "ve tumhaaree kitaaben naheen hain?",
+   "e": "Those books aren't yours?"
+  },
+  {
+   "cat": "School",
+   "t": "मैं मेरे कमरे में पढ़ाई कर रहा था।",
+   "r": "main mere kamre men parhaaee kar rahaa thaa.",
+   "e": "I was in my room studying."
+  },
+  {
+   "cat": "School",
+   "t": "मेरे पास एक शब्दकोश है।",
+   "r": "mere paas ek shabdakosh hai.",
+   "e": "I have a dictionary."
+  },
+  {
+   "cat": "School",
+   "t": "वह अभी एक उपन्यास पढ़ रहा है।",
+   "r": "vah abhee ek upnyaas parha rahaa hai.",
+   "e": "He's reading a novel now."
+  },
+  {
+   "cat": "School",
+   "t": "मैं एक अच्छा शिक्षक हूँ।",
+   "r": "main ek acchaa shikshak hoon.",
+   "e": "I'm a good teacher."
+  },
+  {
+   "cat": "School",
+   "t": "वह क्लास में हमेशा देर से आता है।",
+   "r": "vah klaas men hameshaa der se aataa hai.",
+   "e": "He's always late for class."
+  },
+  {
+   "cat": "School",
+   "t": "मैं किताब पढ़ रही हूँ।",
+   "r": "main kitaab parha rahee hoon.",
+   "e": "I am reading a book."
+  },
+  {
+   "cat": "School",
+   "t": "वे गणित के क्लास में है।",
+   "r": "ve ganit ke klaas men hai.",
+   "e": "They're in math class."
+  },
+  {
+   "cat": "School",
+   "t": "हम दोनों एक ही कक्षा में हैं।",
+   "r": "ham donon ek hee kakshaa men hain.",
+   "e": "We're in the same class."
+  },
+  {
+   "cat": "School",
+   "t": "मुझे तुम्हारी भाषा आती है।",
+   "r": "mujhe tumhaaree bhaashaa aatee hai.",
+   "e": "I know your language."
+  },
+  {
+   "cat": "School",
+   "t": "मैं बहुत कम पढ़ाई करता हूँ।",
+   "r": "main bahut kam parhaaee kartaa hoon.",
+   "e": "I study very little."
+  },
+  {
+   "cat": "School",
+   "t": "ये क्या किताबें हैं?",
+   "r": "ye kyaa kitaaben hain?",
+   "e": "Whose books are these?"
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "मुझे नहीं पता।",
+   "r": "mujhe naheen pataa.",
+   "e": "I don't know."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "मैं उसे नहीं जानता।",
+   "r": "main use naheen jaantaa.",
+   "e": "I don't know him."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "हम खुश नहीं हैं।",
+   "r": "ham khush naheen hain.",
+   "e": "We're not happy."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "वह बहुत अकेला है.",
+   "r": "vah bahut akelaa hai.",
+   "e": "He's very lonely."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "कोई बड़ी बात नहीं है!",
+   "r": "koee baree baat naheen hai!",
+   "e": "Never mind!"
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "मैं यहाँ खुश नहीं हूँ।",
+   "r": "main yahaan khush naheen hoon.",
+   "e": "I'm not happy here."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "मैं ठीक हूँ।",
+   "r": "main theek hoon.",
+   "e": "I'm fine."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "मुझे उसकी चिंता नहीं है।",
+   "r": "mujhe uskee cintaa naheen hai.",
+   "e": "I'm not worried about that."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "मैं खुश हो रहा हूँ।",
+   "r": "main khush ho rahaa hoon.",
+   "e": "I'm getting happy."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "मैं थक गया हूँ।",
+   "r": "main thak gayaa hoon.",
+   "e": "I'm tired."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "टॉम बहुत उदास है।",
+   "r": "taoma bahut udaas hai.",
+   "e": "Tom's very sad."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "मैं बहुत थक गया हूँ।",
+   "r": "main bahut thak gayaa hoon.",
+   "e": "I'm very tired."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "मैं बोर हो रहा हूँ।",
+   "r": "main bor ho rahaa hoon.",
+   "e": "I'm bored."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "मैं आप सब से बहुत प्यार करता हूँ।",
+   "r": "main aap sab se bahut pyaar kartaa hoon.",
+   "e": "I love you all very much."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "मुझे अफसोस है कि मैं आपकी मदद नहीं कर सकता।",
+   "r": "mujhe aphsos hai ki main aapkee madad naheen kar saktaa.",
+   "e": "I am afraid I can't help you."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "मैं बहुत व्यस्त हूँ।",
+   "r": "main bahut vyast hoon.",
+   "e": "I'm very busy."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "मुझे तुम सब पर गर्व है।",
+   "r": "mujhe tum sab par garv hai.",
+   "e": "I'm proud of you all."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "मुझे यकीन है कि मैंने उसे पहले देखा हुआ है।",
+   "r": "mujhe yakeen hai ki mainne use pahle dekhaa huaa hai.",
+   "e": "I'm sure I've seen him before."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "मैं अब थक गया हूँ।",
+   "r": "main ab thak gayaa hoon.",
+   "e": "I'm tired now."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "मैंने उसे गुस्सा कर दिया है।",
+   "r": "mainne use gussaa kar diyaa hai.",
+   "e": "I have made him angry."
+  },
+  {
+   "cat": "Feelings & polite expressions",
+   "t": "कोई मेरी मदद क्यों नहीं करता?",
+   "r": "koee meree madad kyon naheen kartaa?",
+   "e": "Why doesn't anybody help me?"
+  }
+ ],
+ "sentences": [
+  {
+   "t": "क्या मैं अभी आप के लिए कुछ कर सकता हूं?",
+   "r": "kyaa main abhee aap ke lie kuch kar saktaa hoon?",
+   "e": "Is there anything I can do for you now?"
+  },
+  {
+   "t": "मेरे पास पैसे नहीं है, पर सपना है!",
+   "r": "mere paas paise naheen hai, par sapnaa hai!",
+   "e": "I don't have money, but I do have a dream!"
+  },
+  {
+   "t": "मुझे इस तरह का संगीत पसंद नहीं है।",
+   "r": "mujhe is tarah kaa sangeet pasand naheen hai.",
+   "e": "I am not keen on this kind of music."
+  },
+  {
+   "t": "मेरे पास तुम्हारी काम में मदद करने के लिए समय नहीं है।",
+   "r": "mere paas tumhaaree kaam men madad karne ke lie samay naheen hai.",
+   "e": "I have no time to help you with the work."
+  },
+  {
+   "t": "मुझे नहीं पता मेरे पास यह करने के लिए समय होगा कि नहीं।",
+   "r": "mujhe naheen pataa mere paas yah karne ke lie samay hogaa ki naheen.",
+   "e": "I don't know if I'll have time to do it."
+  },
+  {
+   "t": "मुझे इस समस्या के बारे में कुछ नहीं कहना है।",
+   "r": "mujhe is samsyaa ke baare men kuch naheen kahnaa hai.",
+   "e": "I have nothing to say with regard to that problem."
+  },
+  {
+   "t": "मैं जानता हूँ कि यह सब एक खेल है।",
+   "r": "main jaantaa hoon ki yah sab ek khel hai.",
+   "e": "I know that all of this is just a game."
+  },
+  {
+   "t": "क्या मैं आपके लिए कुछ कर सकता हूं?",
+   "r": "kyaa main aapke lie kuch kar saktaa hoon?",
+   "e": "Is there anything that I can do for you?"
+  },
+  {
+   "t": "मुझे बाहर जाने से घर में रहना पसंद है।",
+   "r": "mujhe baahar jaane se ghar men rahnaa pasand hai.",
+   "e": "I would rather stay at home than go out."
+  },
+  {
+   "t": "मैं तुम्हारे साथ इस बारे में अकेले में बात कर सकता हूँ क्या?",
+   "r": "main tumhaare saath is baare men akele men baat kar saktaa hoon kyaa?",
+   "e": "May I talk with you in private about the matter?"
+  },
+  {
+   "t": "मुझे मालूम है आप मेरे साथ बात नहीं करना चाहते।",
+   "r": "mujhe maaloom hai aap mere saath baat naheen karnaa caahte.",
+   "e": "I know you don't want to talk to me."
+  },
+  {
+   "t": "तुम्हें वैसे करने की कोई ज़रूरत नहीं है।",
+   "r": "tumhen vaise karne kee koee zaroorat naheen hai.",
+   "e": "There is no necessity for you to do that."
+  },
+  {
+   "t": "मुझे नहीं पता वह मेरे साथ वहाँ जाएगी कि नहीं।",
+   "r": "mujhe naheen pataa vah mere saath vahaan jaaegee ki naheen.",
+   "e": "I don't know if she will go there with me."
+  },
+  {
+   "t": "मेरे पास आज बहुत काम है।",
+   "r": "mere paas aaj bahut kaam hai.",
+   "e": "I have a lot of work to get through today."
+  },
+  {
+   "t": "मैं समझ नहीं पा रहा था कि वह कहना क्या चाहता था।",
+   "r": "main samajh naheen paa rahaa thaa ki vah kahnaa kyaa caahtaa thaa.",
+   "e": "I couldn't make out what he wanted to say."
+  },
+  {
+   "t": "मुझे नहीं लगता कि किसी ने भी देखा कि हमने क्या किया।",
+   "r": "mujhe naheen lagtaa ki kisee ne bhee dekhaa ki hamne kyaa kiyaa.",
+   "e": "I don't think that anyone noticed what we did."
+  },
+  {
+   "t": "मैं आश्चर्यचकित रह गया था की मुझे वह करने की ज़रूरत नहीं थी ।",
+   "r": "main aashcaryackit rah gayaa thaa kee mujhe vah karne kee zaroorat naheen thee .",
+   "e": "I was surprised I didn't need to do that."
+  },
+  {
+   "t": "मैं बता नहीं पाया के तब मुझे क्या करना होगा.",
+   "r": "main bataa naheen paayaa ke tab mujhe kyaa karnaa hogaa.",
+   "e": "I could not tell what I should do then."
+  },
+  {
+   "t": "मेरी पार्टी में जो भी आना चाहता है आ सकता है।",
+   "r": "meree paartee men jo bhee aanaa caahtaa hai aa saktaa hai.",
+   "e": "Whoever wants to come to my party may come."
+  },
+  {
+   "t": "पर मेरे खयाल से यह बिलकुल भी अजीब नहीं है।",
+   "r": "par mere khayaal se yah bilkul bhee ajeeb naheen hai.",
+   "e": "But I don't think that it's strange at all."
+  },
+  {
+   "t": "अपने ही घर में नंगा होने में क्या गलत है?",
+   "r": "apne hee ghar men nangaa hone men kyaa galat hai?",
+   "e": "What's wrong with being nude in your own house?"
+  },
+  {
+   "t": "मैं इस शोर को और बर्दाश्त नहीं कर सकता।",
+   "r": "main is shor ko aur bardaasht naheen kar saktaa.",
+   "e": "I can't put up with that noise any longer."
+  },
+  {
+   "t": "मैं थोड़ा-बहुत समझ सकता हूँ, पर बोल नहीं सकता हूँ।",
+   "r": "main thoraa-bahut samajh saktaa hoon, par bol naheen saktaa hoon.",
+   "e": "I understand it a little, but I can't speak it."
+  },
+  {
+   "t": "मुझे यह पूरी भाषा सीखने में कोई जल्दी नहीं है।",
+   "r": "mujhe yah pooree bhaashaa seekhne men koee jaldee naheen hai.",
+   "e": "I'm not in a rush to learn this entire language."
+  },
+  {
+   "t": "अगर मैं अभी नहीं करूँगा तो कभी नहीं करूँगा।",
+   "r": "agar main abhee naheen karoongaa to kabhee naheen karoongaa.",
+   "e": "If I don't do it now, I never will."
+  },
+  {
+   "t": "मैं उससे इतना प्यार करता हूँ कि मैं उसे छोड़ नहीं सकता।",
+   "r": "main usse itnaa pyaar kartaa hoon ki main use chora naheen saktaa.",
+   "e": "I love her so much that I can't leave her."
+  },
+  {
+   "t": "मैं आपकी मदद के लिए बहुत आभारी हूँ।",
+   "r": "main aapkee madad ke lie bahut aabhaaree hoon.",
+   "e": "I am much obliged to you for your help."
+  },
+  {
+   "t": "मुझे ठीक से नहीं पता इस शब्द को कैसे पढ़ा जाता है।",
+   "r": "mujhe theek se naheen pataa is shabd ko kaise parhaa jaataa hai.",
+   "e": "I am not sure how to pronounce the word."
+  },
+  {
+   "t": "अगर तुम मदद चाहते हो, तो मैं मदद करने के लिए तैयार हूँ।",
+   "r": "agar tum madad caahte ho, to main madad karne ke lie taiyaar hoon.",
+   "e": "I'm willing to help you if you want me to."
+  },
+  {
+   "t": "मैं ग़रीब हूँ, पर मेरे भाई बहुत अमीर हैं।",
+   "r": "main ġareeb hoon, par mere bhaaee bahut ameer hain.",
+   "e": "I am poor, whereas my brothers are very rich."
+  },
+  {
+   "t": "मुझे नहीं लगता कि आपको यहाँ ऐसा करने की अनुमति है।",
+   "r": "mujhe naheen lagtaa ki aapko yahaan aisaa karne kee anumti hai.",
+   "e": "I don't think that you're allowed to do that here."
+  },
+  {
+   "t": "मैं कुछ समय से वैसा करने के लिए तैयार हूं।",
+   "r": "main kuch samay se vaisaa karne ke lie taiyaar hoon.",
+   "e": "I've been ready to do that for a while."
+  },
+  {
+   "t": "आप अपनी गाड़ी यहाँ खड़ी नहीं कर सकते हैं।",
+   "r": "aap apnee gaaree yahaan kharee naheen kar sakte hain.",
+   "e": "Sir, you are not allowed to park your car here."
+  },
+  {
+   "t": "मुझे इस तरह का सोफ़ा नहीं खरीदना है।",
+   "r": "mujhe is tarah kaa sofaa naheen khareednaa hai.",
+   "e": "I don't want to buy this kind of sofa."
+  },
+  {
+   "t": "क्या मुझे बता सकते हो कि मशीन को कब बंद करना है?",
+   "r": "kyaa mujhe bataa sakte ho ki masheen ko kab band karnaa hai?",
+   "e": "Can you tell me when to switch the machine off?"
+  },
+  {
+   "t": "न जाने मुझे ये क्यों अच्छा लगता है। बस, लगता है।",
+   "r": "na jaane mujhe ye kyon acchaa lagtaa hai. bas, lagtaa hai.",
+   "e": "I don't know why I like it. I just do."
+  },
+  {
+   "t": "पता नहीं क्यों मुझे रात में ज़्यादा ज़िन्दा महसूस होता है।",
+   "r": "pataa naheen kyon mujhe raat men zyaadaa zindaa mahsoos hotaa hai.",
+   "e": "For some reason I feel more alive at night."
+  },
+  {
+   "t": "मैंने अपने सारे दोस्तों को इस बात के बारे में बता दिया था।",
+   "r": "mainne apne saare doston ko is baat ke baare men bataa diyaa thaa.",
+   "e": "I made the fact known to all my friends."
+  },
+  {
+   "t": "तुमने मेरे परिवार के लिए जो किया, वह मैं कभी नहीं भूलूँगा।",
+   "r": "tumne mere parivaar ke lie jo kiyaa, vah main kabhee naheen bhooloongaa.",
+   "e": "I will never forget what you did for my family."
+  },
+  {
+   "t": "मैं यह नहीं कह रही हूँ कि तुम्हारे उत्तर हमेशा ग़लत होते हैं।",
+   "r": "main yah naheen kah rahee hoon ki tumhaare uttar hameshaa ġalat hote hain.",
+   "e": "I'm not saying that your answers are always wrong."
+  },
+  {
+   "t": "इस बात को क्योंकि केवल एक ही इनसान जानता है, यह बहुत महत्वपूर्ण नहीं है।",
+   "r": "is baat ko kyonki keval ek hee insaan jaantaa hai, yah bahut mahtvapoorn naheen hai.",
+   "e": "Because only one person knows this, it isn't very important."
+  },
+  {
+   "t": "अगर कुछ करना है तो ढंग से करो।",
+   "r": "agar kuch karnaa hai to dhang se karo.",
+   "e": "If you do anything at all, do it well."
+  },
+  {
+   "t": "मेरा पार्टी में आना ज़रूरी है क्या?",
+   "r": "meraa paartee men aanaa zarooree hai kyaa?",
+   "e": "Is it necessary for me to attend the party?"
+  },
+  {
+   "t": "मुझे लगा कि वह काम खतम कर चुका था।",
+   "r": "mujhe lagaa ki vah kaam khatam kar cukaa thaa.",
+   "e": "I thought that he had already finished the work."
+  },
+  {
+   "t": "मैं तुम्हें एक-दो दिन में जवाब दूँगा।",
+   "r": "main tumhen ek-do din men javaab doongaa.",
+   "e": "I'll give you an answer in a day or two."
+  },
+  {
+   "t": "जब तक जान है, आशा है।",
+   "r": "jab tak jaan hai, aashaa hai.",
+   "e": "As long as there is life, there is hope."
+  },
+  {
+   "t": "मेरी पीठ में थोड़ा दर्द हो रहा है।",
+   "r": "meree peeth men thoraa dard ho rahaa hai.",
+   "e": "I've got a bit of an ache in my back."
+  },
+  {
+   "t": "मैं उसकी सलाह की वजह से कामयाब हो गया।",
+   "r": "main uskee salaah kee vajah se kaamyaab ho gayaa.",
+   "e": "Because of his advice, I was able to succeed."
+  },
+  {
+   "t": "मैं उससे बहुत ज़्यादा कमाता हूँ।",
+   "r": "main usse bahut zyaadaa kamaataa hoon.",
+   "e": "I make a lot more money than he does."
+  },
+  {
+   "t": "मुझे आज थोड़ा जल्दी घर जाना है।",
+   "r": "mujhe aaj thoraa jaldee ghar jaanaa hai.",
+   "e": "I need to go home a little early today."
+  },
+  {
+   "t": "मुझे वह किताब लौटाने में जल्द-बाज़ी करने की ज़रूरत नहीं है।",
+   "r": "mujhe vah kitaab lautaane men jald-baazee karne kee zaroorat naheen hai.",
+   "e": "There is no hurry about returning the book to me."
+  },
+  {
+   "t": "मैं यह मुश्किल काम उसके लिए छोड़ना चाहता हूँ।",
+   "r": "main yah mushkil kaam uske lie choranaa caahtaa hoon.",
+   "e": "I want to leave this difficult job to her."
+  },
+  {
+   "t": "दुनिया में बस दो तरह के लोग होते हैं।",
+   "r": "duniyaa men bas do tarah ke log hote hain.",
+   "e": "There are only two kind of people in the world."
+  },
+  {
+   "t": "मेरे मोहल्ले में बहुत सारे लोग हैं।",
+   "r": "mere mohlle men bahut saare log hain.",
+   "e": "There are a lot of horses in my neighbourhood."
+  },
+  {
+   "t": "मैं स्टेशन के लिए निकलने वाला हूँ।",
+   "r": "main steshan ke lie niklane vaalaa hoon.",
+   "e": "I'm just about to set off for the station."
+  },
+  {
+   "t": "उसने अपने अभिमान की वजह से किसी से भी मदद नहीं मांगी।",
+   "r": "usne apne abhimaan kee vajah se kisee se bhee madad naheen maangee.",
+   "e": "His pride didn't allow him to ask for help."
+  },
+  {
+   "t": "मुझे अभी तक उस फ़िल्म को देखने का मौका नहीं मिला है।",
+   "r": "mujhe abhee tak us film ko dekhne kaa maukaa naheen milaa hai.",
+   "e": "I haven't had a chance to see the movie yet."
+  },
+  {
+   "t": "मैंने वादा किया था कि इस राज़ के बारे में किसी को कुछ नहीं बताऊँगा।",
+   "r": "mainne vaadaa kiyaa thaa ki is raaz ke baare men kisee ko kuch naheen bataaoongaa.",
+   "e": "I promised not to breathe a word of the secret."
+  },
+  {
+   "t": "मैं सपने में भी नहीं सोच सकता था कि तुमसे यहाँ मुलाकात होगी।",
+   "r": "main sapne men bhee naheen soc saktaa thaa ki tumse yahaan mulaakaat hogee.",
+   "e": "I never dreamed that I would meet you here."
+  },
+  {
+   "t": "कल मेरा जन्मदिन है, और मैं सत्रह साल का हो जाऊँगा।",
+   "r": "kal meraa janmadin hai, aur main satrah saal kaa ho jaaoongaa.",
+   "e": "Tomorrow is my birthday and I will be seventeen."
+  }
+ ]
+}
