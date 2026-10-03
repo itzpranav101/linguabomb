@@ -148,7 +148,7 @@
     sc.onload = function () { if (cb) cb(); }; sc.onerror = function () { var p = document.getElementById('sync-pill'); if (p) { p.className = 'sync-pill offline'; p.querySelector('.t').textContent = 'Live sync: offline'; } };
     document.head.appendChild(sc);
   }
-  loadScript('js/config.js', function () { loadScript('js/sync.js'); });
+  loadScript('js/config.js?v=1791011570', function () { loadScript('js/sync.js?v=1791011570'); });
   /* animate the XP chip when chat progress lands */
   window.addEventListener('lingua:sync', function () {
     var c = document.getElementById('xp-chip'); if (!c) return;
