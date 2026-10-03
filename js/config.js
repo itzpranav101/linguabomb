@@ -1,7 +1,7 @@
 /* LinguaBomb config. The ntfy topic is a secret-ish id: it lives ONLY here. */
 window.LINGUA_CONFIG = {
-  NTFY_TOPIC: 'linguabomb-bi-9xk2q7m4v8t1c6zp',
+  NTFY_TOPIC: 'linguabomb-bi-54826b9b6336b5af46a68bd8',
   NTFY_BASE: 'https://ntfy.sh',
-  SINCE: '6h'
+  SINCE: '2h'
 };
 if (typeof module !== 'undefined' && module.exports) module.exports = window.LINGUA_CONFIG;
