@@ -425,3 +425,12 @@ details.cap[open] > summary { margin-bottom: 12px; }
 @media (max-width: 640px) { .sync-pill .t { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); } .sync-pill { padding: 6px; } }
 .by-badge { margin: 0 0 10px; } .by-badge .tag { background: #111; color: var(--lime); border-radius: 99px; padding: 4px 14px; font-size: .8rem; font-weight: 600; display: inline-block; }
 .ring.pulse { animation: pop .9s; }
+
+/* learner name chip (top right) */
+.name-chip { display: inline-flex; align-items: center; gap: 8px; font-size: .85rem; font-weight: 700; border: 1px solid var(--ink); border-radius: 999px; padding: 3px 12px 3px 4px; background: var(--lime, #ddff6e); white-space: nowrap; max-width: 170px; }
+.name-chip[hidden] { display: none; }
+.name-chip .av { width: 24px; height: 24px; border-radius: 50%; background: #111; color: var(--lime, #ddff6e); display: inline-grid; place-items: center; font-style: normal; font-weight: 800; font-size: .8rem; }
+.name-chip b { overflow: hidden; text-overflow: ellipsis; }
+[data-theme="dark"] .name-chip { background: #111; color: var(--lime, #ddff6e); border-color: var(--lime, #ddff6e); }
+[data-theme="dark"] .name-chip .av { background: var(--lime, #ddff6e); color: #111; }
+@media (max-width: 720px) { .name-chip b { display: none; } .name-chip { padding: 3px; } }

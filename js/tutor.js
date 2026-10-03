@@ -102,7 +102,7 @@
   }
   function saveSess() {
     sess.name = $('s-name').value.trim().slice(0, 24); sess.lang = $('s-lang').value; sess.level = $('s-level').value;
-    try { localStorage.setItem(SKEY, JSON.stringify(sess)); } catch (e) { /* ignore */ }
+    try { localStorage.setItem(SKEY, JSON.stringify(sess)); localStorage.setItem('lingua.name', sess.name); window.dispatchEvent(new CustomEvent('lingua:name', { detail: sess.name })); } catch (e) { /* ignore */ }
     $('tutor-name').textContent = TUTORS[sess.lang];
     $('tutor-pick').textContent = 'You picked ' + TUTORS[sess.lang] + ' at ' + LEVELS[sess.level] + ' level. Tell the tutor which language you want when the chat opens.';
     pushVars();

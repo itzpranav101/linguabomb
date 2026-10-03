@@ -29,7 +29,7 @@
       '<header class="site-header" role="banner"><div class="wrap nav">' +
       '<a class="brand" href="index.html" aria-label="LinguaBomb home, by Bomb Island">' + MARK + '<span>LinguaBomb<small class="tagline">💣🏝️ Bomb Island</small></span></a>' +
       '<nav aria-label="Main"><ul class="nav-links" id="nav-links">' + links + '</ul></nav>' +
-      '<div class="nav-cta"><span class="sync-pill connecting" id="sync-pill" role="status" aria-live="polite" title="Live sync"><i aria-hidden="true"></i><span class="t">Live sync: reconnecting</span></span><a class="xp-chip" id="xp-chip" href="progress.html" title="Your progress"><span aria-hidden="true">&#9889;</span> <span id="xp-chip-n">0</span> XP</a>' +
+      '<div class="nav-cta"><span class="name-chip" id="name-chip" hidden title="Your name"><i class="av" id="name-av" aria-hidden="true"></i><b id="name-txt"></b></span><span class="sync-pill connecting" id="sync-pill" role="status" aria-live="polite" title="Live sync"><i aria-hidden="true"></i><span class="t">Live sync: reconnecting</span></span><a class="xp-chip" id="xp-chip" href="progress.html" title="Your progress"><span aria-hidden="true">&#9889;</span> <span id="xp-chip-n">0</span> XP</a>' +
       '<button class="theme-btn" id="theme-btn" type="button" aria-label="Toggle dark mode" aria-pressed="false"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path class="moon" d="M20 14.5A8 8 0 019.5 4 8 8 0 1020 14.5z" fill="currentColor"/></svg></button>' +
       '<a class="btn btn-sm hide-sm" href="tutor.html">Start Learning</a>' +
       '<button class="menu-btn" id="menu-btn" aria-label="Menu" aria-expanded="false" aria-controls="nav-links"><span></span></button></div>' +
@@ -111,6 +111,20 @@
   }
   window.LinguaUI = { confetti: confetti, floatText: floatText, reduceMotion: reduce };
 
+  /* learner name chip (top right): name comes from the tutor sidebar or from the bot via live sync */
+  function renderName() {
+    var n = ''; try { n = (localStorage.getItem('lingua.name') || '').trim(); } catch (e) { /* ignore */ }
+    var c = document.getElementById('name-chip'); if (!c) return;
+    if (!n) { c.hidden = true; return; }
+    c.hidden = false;
+    document.getElementById('name-txt').textContent = n;
+    document.getElementById('name-av').textContent = n.charAt(0).toUpperCase();
+    c.title = 'Welcome back, ' + n;
+  }
+  renderName();
+  window.addEventListener('lingua:name', renderName);
+  window.addEventListener('storage', function (e) { if (e.key === 'lingua.name') renderName(); });
+
   /* XP chip */
   function chip() {
     var el = document.getElementById('xp-chip-n');
@@ -148,7 +162,7 @@
     sc.onload = function () { if (cb) cb(); }; sc.onerror = function () { var p = document.getElementById('sync-pill'); if (p) { p.className = 'sync-pill offline'; p.querySelector('.t').textContent = 'Live sync: offline'; } };
     document.head.appendChild(sc);
   }
-  loadScript('js/config.js?v=1791011570', function () { loadScript('js/sync.js?v=1791011570'); });
+  loadScript('js/config.js?v=1791012121', function () { loadScript('js/sync.js?v=1791012121'); });
   /* animate the XP chip when chat progress lands */
   window.addEventListener('lingua:sync', function () {
     var c = document.getElementById('xp-chip'); if (!c) return;

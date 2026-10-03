@@ -41,6 +41,8 @@
     var s = String(body).trim(), o = null, m;
     if (/^LBSYNC[|\u00a6]/.test(s)) {
       var f = s.split(/[|\u00a6]/).map(function (x) { return x.trim(); });
+      var nm = (f[4] || '').replace(/[^\p{L}\p{N} .'-]/gu, '').slice(0, 24).trim();
+      if (nm) { try { localStorage.setItem('lingua.name', nm); window.dispatchEvent(new CustomEvent('lingua:name', { detail: nm })); } catch (e) { /* ignore */ } }
       var letter = activityLetter(f[3]);
       var lang = LANGS[String(f[1] || '').toLowerCase()] || 'OT', lvl = levelLetter(f[2]);
       var c = coachFrom(f.slice(5).join(' '));
