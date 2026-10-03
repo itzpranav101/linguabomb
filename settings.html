@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Settings and Demo - LinguaBomb</title>
+<meta name="description" content="About Team Bomb Island, how the LinguaBomb tutor works, dataset credits and privacy.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="LinguaBomb">
+<meta property="og:title" content="About - LinguaBomb">
+<meta property="og:description" content="About Team Bomb Island, how the LinguaBomb tutor works, dataset credits and privacy.">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#ddff6e">
+<script>try{var t=localStorage.getItem('lingua.theme');if(t)document.documentElement.setAttribute('data-theme',t);else if(matchMedia('(prefers-color-scheme: dark)').matches)document.documentElement.setAttribute('data-theme','dark')}catch(e){}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/upgrade.css?v=1791013877">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='15' cy='18' r='11' fill='%23111'/%3E%3Ccircle cx='27' cy='4' r='3' fill='%236c8bff'/%3E%3C/svg%3E">
+</head>
+<body data-page="settings">
+<div id="site-header"></div>
+<main id="main">
+<section class="section"><div class="wrap">
+  <h1 class="h1">Settings <span class="pill blue">and demo</span></h1>
+  <p class="lead">Reset anything in one click so you can run the full demo from zero. Everything here only touches this browser.</p>
+  <div class="grid" style="display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));margin-top:20px">
+    <div class="card" style="padding:20px;display:grid;gap:10px"><h2 class="h3">Fresh start</h2><p class="note">Wipes your name, setup, XP, streak, badges, coach notes, sync memory and saved voice settings, then reloads.</p>
+      <button class="btn" id="reset-all">Reset everything</button></div>
+    <div class="card" style="padding:20px;display:grid;gap:10px"><h2 class="h3">Pick what to clear</h2>
+      <label><input type="checkbox" id="c-progress" checked> Progress (XP, streak, badges)</label>
+      <label><input type="checkbox" id="c-setup" checked> Name and setup (onboarding)</label>
+      <label><input type="checkbox" id="c-coach" checked> AI Coach notes</label>
+      <label><input type="checkbox" id="c-sync" checked> Sync memory (de-dup + running activity tally)</label>
+      <label><input type="checkbox" id="c-prefs"> Theme and voice settings</label>
+      <button class="btn" id="clear-sel">Clear selected</button></div>
+    <div class="card" style="padding:20px;display:grid;gap:10px"><h2 class="h3">Chat history</h2><p class="note">The chatbot keeps its own conversation inside the chat widget (not on this site). To restart it, open the AI Tutor page and use the widget's menu (the three dots) to start a new chat, or clear this site's data in your browser settings.</p>
+      <a class="btn btn-ghost" style="border:1.5px solid var(--ink)" href="tutor.html">Open AI Tutor</a></div>
+    <div class="card" style="padding:20px;display:grid;gap:10px"><h2 class="h3">Demo mode</h2><p class="note">Sends the same kind of messages the bot sends, through the live channel, so judges can see XP, streak, badges and the coach update on their own. Run a fresh start first.</p>
+      <label>Learner name<input id="d-name" type="text" maxlength="24" value="Pranav"></label>
+      <label>Language<select id="d-lang"><option>Spanish</option><option>Hindi</option><option>French</option><option>Mandarin</option><option>English</option></select></label>
+      <button class="btn" id="demo-one">Send one activity</button>
+      <button class="btn" id="demo-full">Play full demo (6 activities)</button>
+      <div class="status" id="demo-status" role="status" aria-live="polite"></div></div>
+    <div class="card" style="padding:20px;display:grid;gap:10px"><h2 class="h3">What is stored</h2><pre id="dump" style="white-space:pre-wrap;font-size:.8rem;margin:0;max-height:260px;overflow:auto"></pre><button class="btn btn-ghost" style="border:1.5px solid var(--ink)" id="refresh">Refresh</button></div>
+  </div>
+  <div class="status" id="msg" role="status" aria-live="polite" style="margin-top:14px"></div>
+</div></section>
+</main>
+<div id="site-footer"></div>
+<script src="js/progress.js"></script>
+<script src="js/speech.js"></script>
+<script src="js/site.js?v=1791013877"></script>
+<script src="js/settings.js?v=1791013877"></script>
+</body>
+</html>

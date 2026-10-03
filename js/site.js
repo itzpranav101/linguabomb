@@ -10,7 +10,8 @@
   var MORE = [
     ['culture.html', 'Culture Capsules', 'culture'],
     ['singlish.html', 'Singlish Decoder', 'singlish'],
-    ['about.html', 'About', 'about']
+    ['about.html', 'About', 'about'],
+    ['settings.html', 'Settings / Demo', 'settings']
   ];
   var THEME_KEY = 'lingua.theme';
   var MARK = '<svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true" focusable="false"><circle cx="15" cy="18" r="11" fill="#111"/><path d="M22 9l3-4" stroke="#111" stroke-width="2" stroke-linecap="round"/><circle cx="27" cy="4" r="2.6" fill="#6c8bff" stroke="#111" stroke-width="1.2"/><path d="M9 17c1-3 3-4 5-4" stroke="#ddff6e" stroke-width="2" stroke-linecap="round" fill="none"/></svg>';
@@ -162,7 +163,7 @@
     sc.onload = function () { if (cb) cb(); }; sc.onerror = function () { var p = document.getElementById('sync-pill'); if (p) { p.className = 'sync-pill offline'; p.querySelector('.t').textContent = 'Live sync: offline'; } };
     document.head.appendChild(sc);
   }
-  loadScript('js/config.js?v=1791012205', function () { loadScript('js/sync.js?v=1791012205'); });
+  loadScript('js/config.js?v=1791013877', function () { loadScript('js/sync.js?v=1791013877'); });
   /* animate the XP chip when chat progress lands */
   window.addEventListener('lingua:sync', function () {
     var c = document.getElementById('xp-chip'); if (!c) return;
