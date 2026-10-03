@@ -434,3 +434,26 @@ details.cap[open] > summary { margin-bottom: 12px; }
 [data-theme="dark"] .name-chip { background: #111; color: var(--lime, #ddff6e); border-color: var(--lime, #ddff6e); }
 [data-theme="dark"] .name-chip .av { background: var(--lime, #ddff6e); color: #111; }
 @media (max-width: 720px) { .name-chip b { display: none; } .name-chip { padding: 3px; } }
+
+/* ---- Step 1 onboarding gate (tutor page) ---- */
+.ob-back { position: fixed; inset: 0; z-index: 200; background: rgba(8,10,20,.62); backdrop-filter: blur(6px); display: grid; place-items: center; padding: 16px; overflow-y: auto; }
+.ob-open { overflow: hidden; }
+.ob-card { width: min(560px, 100%); background: var(--cream, #fef9ec); color: #111; border: 2px solid #111; border-radius: 22px; padding: 26px 26px 20px; box-shadow: 8px 8px 0 #111; display: grid; gap: 12px; animation: pop .35s; }
+.ob-card h2 { margin: 0; font-size: clamp(1.5rem, 4vw, 2rem); line-height: 1.15; }
+.ob-step { margin: 0; font-size: .8rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; opacity: .65; }
+.ob-sub { margin: 0; opacity: .8; }
+.ob-card label { display: grid; gap: 6px; font-weight: 600; font-size: .9rem; }
+.ob-card .req { font-weight: 500; font-size: .72rem; color: #c0392b; margin-left: 6px; }
+.ob-card input, .ob-card select { font: inherit; padding: 11px 12px; border: 1.5px solid #111; border-radius: 12px; background: #fff; color: #111; }
+.ob-card input:focus-visible, .ob-card select:focus-visible { outline: 3px solid var(--blue, #6c8bff); outline-offset: 2px; }
+.ob-card input[aria-invalid="true"] { border-color: #c0392b; box-shadow: 0 0 0 3px rgba(192,57,43,.2); }
+.ob-row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.ob-err { min-height: 1.2em; margin: 0; color: #c0392b; font-weight: 600; font-size: .85rem; }
+.ob-actions { display: flex; gap: 10px; flex-wrap: wrap; }
+.ob-fine { margin: 0; font-size: .78rem; opacity: .6; }
+@media (max-width: 560px) { .ob-row { grid-template-columns: 1fr; } .ob-card { padding: 20px 16px; box-shadow: 5px 5px 0 #111; } }
+.greet-bar { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin: 0 0 12px; padding: 12px 16px; border: 1.5px solid var(--ink, #111); border-radius: 16px; background: var(--lime, #ddff6e); color: #111; }
+.greet-bar .pill-s { display: inline-block; padding: 2px 10px; border: 1px solid #111; border-radius: 999px; font-size: .78rem; font-weight: 700; background: #fff; }
+.greet-bar .btn { border: 1.5px solid #111; background: #fff; color: #111; }
+[data-theme="dark"] .ob-card { background: #1a1d29; color: #f4f4f0; border-color: var(--lime, #ddff6e); box-shadow: 8px 8px 0 var(--lime, #ddff6e); }
+[data-theme="dark"] .ob-card input, [data-theme="dark"] .ob-card select { background: #0e1019; color: #f4f4f0; border-color: #555; }
